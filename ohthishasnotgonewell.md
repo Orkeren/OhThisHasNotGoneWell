@@ -3773,11 +3773,6 @@ I smiled, *perfect.*
 
 I was very careful, pulling the blankets up over his back, and slipping under his arm. I was lying there quietly trying to get to sleep despite my quickly beating heart, I was worried that he might be angry if he woke to find me in bed with him, when he moved. I thought he was about to toss me out of bed, but instead he rolled onto his side a little, pulling me in close. My face was right up against his chest, and very carefully I slipped one of my arms around him, snuggling in. I could tell that he was still sleeping, just moving to get more comfortable, and I relaxed into him. He was so warm, and I fell asleep right there in his arms.
 
------
------
-
-Pancakes, PSYCH. But srsly, I did kinda feel like this deserved the NSFW considering the rest of what was discussed.
-
 # Chapter 19
 
 Quinn
@@ -4308,12 +4303,6 @@ She sighed, and slipped back down under the covers. I rolled onto my side and pu
 
 “No, I think you’ll enjoy it. Though there will be a lot less screaming on your part.”
 
------
------
-
-I try not to make so many posts about pancakes, but it just keeps happening.  ¯\\_(ツ)_/¯
-
-
 # Chapter 22
 
 Quinn
@@ -4634,10 +4623,6 @@ I used the rough stones of the wall to pull myself along while I kicked with my 
 
 I managed to get to shore without a cry going up though, and I pulled myself quietly out of the water. I stuck close to the edge of the beach, where the sand met a sort of embankment before rising to meet the road that ran along the coast. The embankment shielded me from the view of anyone watching from the gate, and hopefully the odd shapes and shadows cast by the moonlight would break up my outline and make it hard for anyone on the sea wall to pick me out. I settled into a light jog, hunched over just a little to keep my head below the embankment, and headed for the border.
 
------
------
-
-
 # Chapter 23
 
 Quinn
@@ -4774,10 +4759,6 @@ The mage stone flared to life, blinding light illuminating the forest around me 
 -----
 
 They found me the following night, just as the sun was going down. Apparently the mage stone had been burning that whole time, and it had made it easy to find me stumbling through the growing darkness.
-
------
------
-
 
 # Chapter 23
 
@@ -8398,11 +8379,114 @@ The structure was enormous. A massive curtain wall ringed the base of the hill, 
 *Oh yes. This will do nicely.*
 
 -----
------
-CONTINUED IN COMMENTS. I hit the character limit on this post, but didn't want to end things here.
------
------
 
+We had two more nights in the clubhouse together before we’d start off north, and in the service of testing my theory, and also because I’m a red blooded man, I slept with her both of those nights. It was a great sacrifice, allowing such a beautiful and eager woman to put her hands all over me, but I did it in the name of truth.
+
+The second night though, well that gave me quite a lot to think about.
+
+I was sitting up in bed reading, when Victorina stepped through the bedroom door, already stark naked. A wine bottle dangled negligently from one hand, and she set the other hand on her hip as she pushed the door shut with her foot. She seemed almost to inspect me, and I waited patiently for her to speak, as I enjoyed the view.
+
+“Quinn,” she started, “Think you’ll let me be on top this time?”
+
+“Been speaking to Thera have you?”
+
+She shrugged and took a deep breath, which did interesting things to her chest, “Maybe.”
+
+“Hmm, let you?” I asked, “Nah, I think you’ll need to win,” I said, setting the book aside.
+
+“Mmm, that sounds like fun,” she said, taking a swaying step towards me.
+
+“What about that then?” I asked, nodding towards the wine bottle.
+
+“This?” she said, lifting it slightly, “Well, you remember that verridisiac potion that Thera and Abis love so much?”
+
+“Yeah?”
+
+*Not sure I want to take that potion.*
+
+I need not have worried. She uncorked the bottle, and lifted it to her lips, drinking hungrily. I could see the changes as it took effect, her whole body flushed pink, her nipples hardened, and her breasts swelled noticeably. Some of the potion trickled between her lips, and the thick pink liquid, thicker than wine, streamed down her chin. It ran in rivulets down her neck, over her breasts, down her abdomen, and across her thighs.
+
+*Damn. I don’t care if she’s only doing this to entice me. Quinn likey.*
+
+Finally she finished, and the empty bottle thumped hollowly to the ground. She locked her eyes on mine, and they were absolutely wild, there was an almost perceptible heat in her gaze, and she stalked towards me deliberately.
+
+“Seems just a little excessive,” I noted, trying to keep my voice from getting hoarse.
+
+“We're going to be in the woods for days, where it’s dirty, and there’s barely any privacy,” she positively growled, “I’ve got to pack a week’s worth of satisfaction into one night.”
+
+And then she leapt, from where she was standing in the middle of the fairly large room, and onto the bed. I went to move, to catch her and try to pin her down, but the damned bronze headboard uncoiled and wrapped around my wrists. She tore the covers off, and pressed herself down all the way. She let out a slow shuddering gasp as she slid herself down, before falling into a regular rhythm. We had barely gotten started, when someone tried to kill us.
+
+There was a flash of yellow-orange light, and then a loud *whoomph* which covered the windows in a sheet of flame, and rattled the panes of glass in their frames.
+
+“Sarding mothersarders! I’m going to kill you!” Victorina screamed, and she seemed just a little miffed at the interruption.
+
+Her attention distracted, the spell on the headboard went out, and I was freed. Victorina ran to the window, still seething, and I spared her a glance before dressing hurriedly with the aid of several manipulators. She turned, and ran for the door. I had to tackle her to keep her from running out there, the potion she’d taken had clearly altered her perception of just what was important.
+
+“Victorina, you’re naked, you can’t go running out in the rain,” I said, slowly and calmly, “Get dressed, and we can go after that guy.”
+
+She snarled at me, but let me help her into her clothes, again my manipulators made the process rather quicker. She stood, and went for the door again. There was a knock, right before she reached it, and she tore it open to reveal Halea standing there.
+
+“Vic- Oh,” Halea started, as Victorina shoved past at a run, “Someone set off the clubhouses defences,” she called after Victorina, as she went pelting off down the hall.
+
+“I know,” Victorina roared in reply, before throwing herself out the door.
+
+Halea looked to me, and I shrugged, “I suppose we better go help her?”
+
+“Probably,” Halea nodded, and we both hurried out.
+
+A couple of the others were up as well, standing in the entryway, though they seemed more concerned with defending the clubhouse, than going after the would be assassin. Thera grabbed at my sleeve, and pulled me to one side before I could run out.
+
+“Quinn, did she already drink the potion?” she whispered.
+
+“Yeah,” I said, “Oh yeah she did.”
+
+“Dammit!” Thera breathed, “I told her that once she drank that, it would be really bad if she was interrupted.”
+
+“I kinda guessed.”
+
+“Just be careful,” she hissed, “She’s going to have a rather interesting view of just what’s important. Just don’t let her embarrass herself.”
+
+I nodded hurriedly, “I noticed, I’ll do my best,” I said, before rushing out after Halea.
+
+----
+
+I lost track of Halea for a moment, but spotted her just as she was streaking upwards a short way off through the rain, towards the roof of the building that was opposite the clubhouse. I dashed after her, before casting the same spell myself. My trajectory was a little questionable, since I’d not had a lot of time to practice, but it was close enough, and I landed on the right roof without breaking any of my legs.
+
+“Where did they go Halea?” Victorina demanded, just as I landed, and by this point she was shaking visibly.
+
+“Recent teleport,” Halea responded, “Short ranged, about a mile, but I’ve got no idea where they landed, sorry Vicky.”
+
+“Sard,” Victorina growled, stamping a foot, before turning sharply and pointing at something on the roof, “What about that?”
+
+It was hard to see through the pouring rain, but it looked an awful lot like a wand.
+
+“It’s a wand,” Halea said, as she stooped to pick it up.
+
+“I can see that,” Victorina snapped, “Can we use it to track the mothersarder?”
+
+If Halea was put off by the harsh treatment, she didn’t show it, “It’s nothing special, you could buy this off of nearly any enchanter. It uses one of Amezzer’s wand blanks, but that doesn’t narrow it down much. Any Wizard or Mage could have used this. Whoever tried this didn’t spend a whole lot of time to think this through though. All this wand does is let the spellcaster cast Firebolt, no special shield penetrating enhancements, nothing to give it any more power than the caster could already use, nothing. As far as I know this is the same sort of wand Amezzer sells to Wizards or Mages too lazy to learn Firebolt themselves.”
+
+Victorina, while Halea was preoccupied inspecting the wand, had turned to face me. The previously wild look in her eyes had turned frenzied, and she was stalking slowly towards me.
+
+“An attack of opportunity then, or something meant only to rattle us,” I supplied, trying to bring this mess to a conclusion as quickly as possible, before Victorina stripped me naked right there on the roof, “Better if we get back inside and within the defences, rather than stand out here for someone else to take a shot at us.”
+
+“That’s probably for the best,” Halea said, “Victorina?”
+
+“Fine,” she said hoarsely, “You go, I’ll teleport Quinn back so he doesn’t break his long legs.”
+
+Halea nodded, before leaping from the roof.
+
+Victorina threw herself at me as soon as Halea was gone from sight, and despite her small size, she was very strong. She knocked me right off my feet, and she landed on top of me in a crouch.
+
+“Victorina,” I said calmly, “Teleport first, then we can do anything you like.”
+
+She seemed to think about this for a moment, weighing the pros and cons of setting to it right here on the roof, “Anything?” she panted.
+
+“Anything,” I nodded.
+
+“Fine,” she growled, “Teleport, then anything.”
+
+And she cast the spell, and we were whisked back to her room.
 
 # Chapter 35
 
@@ -9596,11 +9680,8 @@ She looked out over the arena, where Andrew had already closed with his opponent
 “Oh, you can do even better than that,” I said, grinning evilly, “Here’s what I’ve got in mind…”
 
 -----
------
-
 **Andrew**
 
------
 -----
 
 I pumped one fist in the air as the ending gong rang, while Sinabu kept screaming like a bitch at my feet. And it was all me, I’d done this. I’d been the one to take Acid Jet from something that most Mages thought was a gimmick, and turn it into one of the strongest spells that the arena had ever seen. And I’d been the one to turn Teleport into the best defensive spell anyone had heard of. Why bother blocking or deflecting an attack, when you could just be somewhere else? I never had to worry if an attack was too powerful for me to slow down or stop, when I was a good ten yards away when it went off. Quinn had always given me shit for not being a giant nerd like he was, a ‘dumb jock’ he’d said. Well he hadn’t done what I’d done, he hadn’t come up with as killer combo as I had. He’d refused to even face me in the arena.
@@ -13249,8 +13330,75 @@ The test then was simple. I was pretty sure that I now no longer trusted her unc
 
 -----
 
-**Continued in comments**
+My evenings were spent with Minki, and even after my flirty mud wrestling escapades with the very well-proportioned Halea, this quickly became my favourite part of the day. She’d drag me off into the corner, where I’d first tracked her down to begin my Apportation tutoring, and we’d plop ourselves down on the thick carpeting to work on the spell. I’d been worried, at first, that inventing a new combat spell could take years. After all, I’d been quoted a two year project time when I’d asked Amezzer about a custom vision enchantment. Thankfully though, non-enchantments took much less time, at least if you were talented. It took about twice as long to design a spell, as it did to learn it from a book. For me, this meant it could take as little as four days to come up with a brand new spell. Though this short time frame relied on being able to use an existing spell as a base to modify. Fortunately, I did have a spell to work from, two actually. A combat version of Apportation did already exist, and it was called Poltergeist.
 
+When I first heard of it I had worried that someone had already come up with, but this was not the case. The spell instead focused on throwing around larger objects than what I had in mind. Rocks, knives, and arrows were all possibilities, though the spell was not well regarded. With the exception of using the spell to launch arrows or bolts, the spell was less effective than fireball or other standard combat spells when it came to lethality, and even in the case of arrows, it was less than ideal. After all, why bother with magic if all you’re going to do is play archer?
+
+I asked Minki to teach me the basics of the spell though, if only to give me a background to work from, and it became the foundation for MAC. The Magically Accelerated Cannon, though Minki wanted to call it MAP, because we were accelerating a projectile, and not a cannon.
+
+I learned a great deal about the way that spells went together as part of our quest to create the greatest combat spell, and I learned that magic hates munchkins. I’d figured out early on, back in Essens in fact, that Apportation gave me about forty five Newtons per second for sixty seconds per unit of mana, and that was only considering the force that was necessary to lift the object off the ground. It did not include the force to move it from side to side. I managed to factor in that extra force with some help from Minki, and I arrived at a figure of fifty five Newtons per second for sixty second per mana provided. Pack this all into a single second, and I’d have three thousand three hundred Newtons to work with.
+
+Then I sat down and did some math, and decided that I was going to create a spell to launch a 5 gram projectile at six hundred and sixty thousand metres per second. Roughly two and a half million kilometres per hour, or one and a half million miles per hour. This was roughly 0.2% of light speed. My dreams of world domination were interrupted however, by Minki shaking my arm.
+
+Apparently, this was not how magic worked.
+
+*Shit.*
+
+I couldn’t get the whole minute’s worth of force out of the spell, I couldn’t even get a second’s worth of force out of the spell, and I couldn’t just make the projectile infinitely small to get more kinetic energy. Part of the problem was in the way that spellcasting worked in the first place. You only provided a small portion of the mana required, and the rest was drawn from ambient mana. This meant that I could draw a hell of a lot of power, I just had to do it over a longer period of time. Apportation worked because it drew in the power slowly over the course of a minute, and the ambient mana had time to recover. Combat magic was a different beast entirely. The same principle that allowed long term and large scale magic, also meant that short term and small scale effects were much harder. In real terms, this meant that combat spells were much less energy efficient.
+
+I did some more math, and a bit of research with Minki’s help, and came of an efficiency figure of ten percent. Not ten percent of the full three thousand or so Newtons, but ten percent of the force I had access to in a single second. So not fifty five Newtons, but five and a half. We also sorted out the minimum practical size of a projectile, which turned out to be just under ten grams.
+
+“Just how is this going to work Quinn?” Minki asked, “Ten grams is awfully small, I don’t think it’s even half of an ounce. Even sling bullets are heavier than this,” she said, prodding one of the tiny lead ball bearings I’d had made.
+
+“Trust me,” I said, “This is going to be a hell of a lot more powerful than some sling. Dump two mana into this spell, and you get something more powerful than anything Halea’s taught me, or anything I’ve read about.”
+
+“I trust you Quinn,” she said, and I was surprised by how serious she sounded, “We can test it tomorrow, and I think we’ll have just enough time to flesh it out properly before the homecoming tournament begins.”
+
+“Are you planning on competing?” I asked, a little surprised.
+
+Minki seemed to shrink inwards, “It’s not that I don’t trust your spell Quinn,” she said, “The arena is just really scary, what if you face Andrew?”
+
+“I hope I face Andrew,” I said honestly, “I told you how he challenged me, and what the stakes were-“
+
+“I thought you refused!” She exclaimed.
+
+“Hey, don’t worry, I did.” I reassured her, “I’m still going to kick his ass though. Just to prove that I would have won if I had accepted.”
+
+“I don’t know Quinn,” Minki said, clearly sceptical, “Halea told me about what happened on your little hike, and Andrew really likes acid.”
+
+“Acid- Hold on,” I started, “She told you about that?”
+
+Minki turned a little pink, “Yes,” she said quietly.
+
+“Well,” I said, a little embarrassed, “I’ve gotten a lot better since then, and I’m still training with Halea. What about the acid though? Is that likely to be much of a problem?”
+
+“Acid and water are two things that don’t really cooperate with Deflect Projectile,” she explained, “The spell already has a hard time deflecting more than one object, and even a shield like Halea uses doesn’t really hold up well against a constant stream. And that’s the sort of thing that Andrew likes to use. Imagine Halea’s Water Jet spell, but spewing acid.”
+
+“That does sound like it would be a problem,” I granted her, “But it’s relatively short ranged, and unless is **particularly** potent acid, then it’s not going to be terribly lethal.”
+
+Minki shook her head, her mop of grey hair flying around, “That’s not why Andrew uses it. He picked up the trick from some of the Mages from The Order of the Claves. They use acid because it’s cheap to cast, and it hurts so bad. It even burns away clothing, unless it’s magically strengthened. So they make you hurt so much that it’s hard to cast any magic to defend yourself, and they humiliate you in front of the whole school.”
+
+“Did Andrew use acid against you?” I asked, trying to keep the anger from my voice. It wasn’t her I was angry at after all.
+
+*I’m going to kill Andrew.*
+
+“No, but he did use it on Halea. Even most of the Mages that use acid are decent enough not to use it on women, but Andrew didn’t care. He was mad at how badly Halea had beaten him last time.”
+
+“I’m going to kill Andrew,” I said.
+
+“Halea did end up winning that one, but Andrew left her nearly naked in the middle of the arena,” she explained.
+
+“How did she do it?” I asked, “Did she manage to keep casting spells regardless of the pain?”
+
+“No, some Mages can do it, but that’s not how Halea beat him,” she said in her mousey voice, “Andrew had to get really close to Halea to use his Acid Jet spell, so before he could cast another spell to finish her off, she jumped on him. She just kept hitting him in the face, over and over, until he stopped moving. And then she hit him a little more,” she whispered.
+
+*Serves the fucker right.*
+
+“Well, I’ll just have to try my best to keep my distance. Or, if all else fails I can jump on him too,” I said, doing my best to reassure her, “Say, what are claves anyways?”
+
+“Oh, they’re a type of percussion instrument. A clave is a sort of stick, you bang them together to make music,” she provided.
+
+*Now hold on just one minute…*
 
 # Chapter 58
 
