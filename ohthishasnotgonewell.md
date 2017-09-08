@@ -1,13 +1,10 @@
-# Oh this has not gone well
-
-
----------------------------------------------
+# Authors Note
 
 This is a story I’ve had in my head for a while now, and this seems as good a place as any to get it out. I don’t know that it’s going to make a very good story, but I guess we’ll see how things go.
 
-My main inspiration comes from tabletop games, video games, and books where magic plays some role. That might be games where you can play a spellcaster, or books where there are magic using characters, but I always find myself coming around to the same thought. What would happen if someone took the magic system present in the game or book, and applied a modern understanding of science to get the most out of their magical studies? 
+My main inspiration comes from tabletop games, video games, and books where magic plays some role. That might be games where you can play a spellcaster, or books where there are magic using characters, but I always find myself coming around to the same thought. What would happen if someone took the magic system present in the game or book, and applied a modern understanding of science to get the most out of their magical studies?
 
-Now this has been done to some extent with “. This is not meant to be the same thing redone by a much worse writer. While HPMR showed the results of the “methods of rationality” applied to a magical world, it didn’t really focus on Harry trying to create new spells or magical items using his scientific knowledge. It’s this item and spell creation that I want to experiment with. I want to see what happens when knowledge of science, particularly chemistry and physics, are applied specifically to the **use** of magic. 
+Now this has been done to some extent with “. This is not meant to be the same thing redone by a much worse writer. While HPMR showed the results of the “methods of rationality” applied to a magical world, it didn’t really focus on Harry trying to create new spells or magical items using his scientific knowledge. It’s this item and spell creation that I want to experiment with. I want to see what happens when knowledge of science, particularly chemistry and physics, are applied specifically to the **use** of magic.
 
 It’s all well and good to say “The wizard throws a fireball” and get a big boom, but what if a clever individual with a decent memory of high school chemistry designs their own fireball with  explosives, which pound for pound will beat anything short of a nuke for destructive power.
 
@@ -18,19 +15,16 @@ The Mythbusters used tools and materials in ways for which they were never inten
 Critique is certainly welcome, I’m doing this mostly to clear my own thoughts but I also want to put out something that at least resembles a good story.
 
 
-----------------------------
 
-**Prologue**
+# Prologue / Chapter 1
 
-----------------------------
+Quinn was driving down the highway on his way back to Toronto, having spent the day hiking in Algonquin Park with some friends. He did his best to stretch in the driver’s seat of the small hatchback, muscles sore from the lengthy hike and then the past two hours spent sedentary in the car. It wasn’t terribly busy on the road, but the thunder storm that had convinced Quinn and his friends from U of T to head back to civilization hadn’t yet passed and was getting worse.
 
-Quinn was driving down the highway on his way back to Toronto, having spent the day hiking in Algonquin Park with some friends. He did his best to stretch in the driver’s seat of the small hatchback, muscles sore from the lengthy hike and then the past two hours spent sedentary in the car. It wasn’t terribly busy on the road, but the thunder storm that had convinced Quinn and his friends from U of T to head back to civilization hadn’t yet passed and was getting worse. 
-
-He could see some people had pulled off to the side of the road, hazard lights on, to try to wait out the worst of the storm. Quinn continued, trusting in the venerable Subaru’s four wheel drive and keeping a safe distance behind the vehicle ahead, rather than risk trying to pull over on the highway with semis speeding past. The storm was a rather large one, and he was rather interested in what seemed almost like a green tint to the flashes of lighting. 
+He could see some people had pulled off to the side of the road, hazard lights on, to try to wait out the worst of the storm. Quinn continued, trusting in the venerable Subaru’s four wheel drive and keeping a safe distance behind the vehicle ahead, rather than risk trying to pull over on the highway with semis speeding past. The storm was a rather large one, and he was rather interested in what seemed almost like a green tint to the flashes of lighting.
 
 *Near a factory maybe? Though I feel like spewing enough stuff into the air to make the sky change colour should probably be illegal.*
 
-The sky continued to gain this green tint; first it was only noticeable when the dark sky was lit up with a flash of lightning. Now it was becoming obvious despite the late hour and the storm blocking any light from the moon. Some of the other vehicles had started to slow down or speed up a little as people started rubbernecking and paid less attention to the road and the cars around. 
+The sky continued to gain this green tint; first it was only noticeable when the dark sky was lit up with a flash of lightning. Now it was becoming obvious despite the late hour and the storm blocking any light from the moon. Some of the other vehicles had started to slow down or speed up a little as people started rubbernecking and paid less attention to the road and the cars around.
 
 Quinn focused on the road, rather than gawk at the odd storm, as he neared an overpass that curved gently. He didn’t really want to get into an accident if some old guy in a Volvo wasn’t paying attention and had to swerve or brake suddenly to keep from bumping into the guard rail. As it turned out, octogenarian drivers were not the cause of Quinn’s crash.
 
@@ -46,16 +40,10 @@ Quinn stamped on the brake pedal, for all the good it would do, hoping he’d hi
 
 Briefly vertical, the car fell backwards onto its roof and Quinn felt it start to slide down a slope as he finally lost consciousness.
 
---------------------------------
 
 
 
-# Oh this has not gone well - 2
-Don’t want to go back and rewrite the prologue, but I’m shifting to a proper first person POV. It will probably work better for what I want to do than what I used in the first post. And this one exactly hits the 40k character limit.
-
-
-
---------------
+# Chapter 2
 
 I came to, which was a relief. It was also really painful, I felt like I had spent an hour in a tumble dryer. What had been essentially three consecutive car accidents, the first at highway speed, had taken a toll. I just laid there wheezing, chest hurting with every breath and my head hurting so much that it was hard not just to think but to see. I tried to find the door handle with my left hand, pushing myself up with my right. My arms felt stiff, numb, and hurt like hell. My hand bumped into something and I heard it shatter. That would be the window, aim lower Quinn. As I fumbled around trying to find the damned door handle, I started to feel very nauseous. I was doing my best not to panic but between the near-blindness, difficulty of breathing, and the massive headache I was getting more and more frantic when I felt someone touch my shoulder and gently press me back down.
 
@@ -63,7 +51,7 @@ I came to, which was a relief. It was also really painful, I felt like I had spe
 
 Ah right, hospital. I laid back down, stumbling around half blind after repeated head trauma probably wasn’t the best idea. Hopefully my neck wasn’t broken, though I couldn’t feel one of those immobilizing braces on my neck. I did my best to relax, and not throw up on myself or the nurse. I heard the nurse saying something else meant to be soothing when I passed out again.
 
-I must have been out for a while, because when I woke again I could see sunlight streaming in through a window next to my bed. I found this somewhat disconcerting, since what I could see in the sunlight was not really what I was expecting from a hospital room. Rather than a room smelling faintly of antiseptic with off-white walls and a rather clinical approach to interior decorating, I found a room best described as ‘rustic’. 
+I must have been out for a while, because when I woke again I could see sunlight streaming in through a window next to my bed. I found this somewhat disconcerting, since what I could see in the sunlight was not really what I was expecting from a hospital room. Rather than a room smelling faintly of antiseptic with off-white walls and a rather clinical approach to interior decorating, I found a room best described as ‘rustic’.
 
 My vision was still rather blurry, and I twisted around in the bed trying to see if my glasses were sitting on one of the side tables. No such luck. I did see my watch and phone, but apparently whoever had pulled me out of the car hadn’t also gotten my glasses. I closed my eyes and relaxed into the bed, just trying to look around had made my head throb and my vision swim.
 
@@ -79,7 +67,7 @@ There was a creak from the hallway, a light knock on the door, and a rather tall
 
 “Ah, you’re awake. I feared for sure that you’d be dead after I’d seen your carriage” said the tall man in a voice that made it sound like he was trying to talk around a mouthful of dirt.
 
-I sat up in bed, which caused my head to throb again, and I realized for the first time that I was wearing only my boxers. 
+I sat up in bed, which caused my head to throb again, and I realized for the first time that I was wearing only my boxers.
 
 “I feel like I’m most of the way to being dead, where am I?”
 
@@ -105,7 +93,7 @@ At this point a young woman stepped into the room carrying a tray with a bowl of
 
 “Here you are,” she said as she laid the tray on my lap. ”I thought you’d be hungry.” She seemed to have the same problem Harp did with actually pronouncing the words, but it was somewhat less noticeable with her.
 
-I recognized the voice as the one that I had heard the previous… night? Either way, she was the same girl from earlier. 
+I recognized the voice as the one that I had heard the previous… night? Either way, she was the same girl from earlier.
 
 “Ah, this is Sila” Harp explained.
 
@@ -131,7 +119,7 @@ I recognized the voice as the one that I had heard the previous… night? Either
 
 *One guy can read, Pell, he’s the designated smart guy.*
 
-I thanked him and he left the room, his daughter scurrying after him, door remaining slightly ajar. I leaned down, which caused my head to throb in protest, and picked up my jeans and jacket from under the table. My shoes, shirt, and socks were all there as well. They’d been cleaned, no mud from my previous hike in the park or unintentional bath in a brook. I went through the pockets of my jeans and found my wallet, and got my tiny Swiss Army knife out of the pocket of my jacket. It was the one that had come with my watch so it contained only a knife, file, scissors, and tweezers. I had long since lost the toothpick. 
+I thanked him and he left the room, his daughter scurrying after him, door remaining slightly ajar. I leaned down, which caused my head to throb in protest, and picked up my jeans and jacket from under the table. My shoes, shirt, and socks were all there as well. They’d been cleaned, no mud from my previous hike in the park or unintentional bath in a brook. I went through the pockets of my jeans and found my wallet, and got my tiny Swiss Army knife out of the pocket of my jacket. It was the one that had come with my watch so it contained only a knife, file, scissors, and tweezers. I had long since lost the toothpick.
 
 I ate while digging though my wallet. It was a delicious vegetable stew, and my stomach growled audibly when I got the first proper whiff of the stuff. In the wallet there was 85$ in bills, nine something in change, and a bunch of cards. Library card, student ID, OHIP card, debit card, and driver’s licence. Also had a slim 16GB flash drive, and a bunch of business cards and buy 9 get 1 free cards for different stores. So I hadn’t been robbed, and I couldn’t feel any new scars on my lower back so they hadn’t helped themselves to a kidney.
 
@@ -167,7 +155,7 @@ I looked up startled, to see Sila standing in the doorway with a couple of books
 
 “I know that one, sometimes Moss tells the story on feast day” she said excitedly.
 
-I nodded, and hefted the larger book “This one is titled ‘Local Elardian History’ which I’m guessing is a history book” 
+I nodded, and hefted the larger book “This one is titled ‘Local Elardian History’ which I’m guessing is a history book”
 
 *A clever writer could throw together a convincing ancient legend. But putting together the history of a whole… city? Country? Continent? Would be a lot harder to do convincingly. Though this book was volunteered to me, so it might be a clever double bluff. Hand me a seeming consistent history of a fictional… whatever it was about, and let me convince myself that no one could fake this. Though why the hell bother? I’m a computer science student from Toronto. Someone with a lot of money must be very bored.*
 
@@ -179,7 +167,7 @@ I nodded, and hefted the larger book “This one is titled ‘Local Elardian His
 
 I realized at this point that I was sitting in a bed, most of the way to being naked, in front of the girl. *I guess she’s trying to play the innocent village girl, and so she’s not supposed to be the sort of person that spends much time alone with half naked men in quiet bedrooms.* I reached down to where the rest of my clothes lay and pulled on my shirt. This seemed to settle her slightly, and she left after taking away the dinner tray.
 
-Once she left I checked my phone. No messages, no missed calls, and no signal. No 4G, zero bars, no Wi-Fi hotspots nearby. And it was my phone, I had a utility on it that would let it boot into a second hidden OS. Even if someone had been looking for it they’d not be able to find it easily, and since you needed an encryption key to get into it they couldn’t simply make a copy with the same hidden OS. If they had done it my code wouldn’t have worked to unlock the hidden portion. This was my phone, and it hadn’t been tampered with. I could tell as much from the diagnostic tools I had hidden in my secret partition. No panicked texts or calls from anyone that should have been expecting me home, and no records of deletion. Technically nothing is hack-proof, but you can only take suspicion so far before you start to doubt your own sanity. 
+Once she left I checked my phone. No messages, no missed calls, and no signal. No 4G, zero bars, no Wi-Fi hotspots nearby. And it was my phone, I had a utility on it that would let it boot into a second hidden OS. Even if someone had been looking for it they’d not be able to find it easily, and since you needed an encryption key to get into it they couldn’t simply make a copy with the same hidden OS. If they had done it my code wouldn’t have worked to unlock the hidden portion. This was my phone, and it hadn’t been tampered with. I could tell as much from the diagnostic tools I had hidden in my secret partition. No panicked texts or calls from anyone that should have been expecting me home, and no records of deletion. Technically nothing is hack-proof, but you can only take suspicion so far before you start to doubt your own sanity.
 
 It didn’t look like anyone was using a phone jammer either, my tools should have picked that up. One trouble with jamming is that it’s ‘active’. In layman’s terms the jammer needs to be shouting louder than the nearest cell tower. This means that the phone is picking something up, it’s just not a very useful something. A normal phone would just register no signal and the battery would drain as it tried to get the cell tower back. My phone however is special, mostly because I like having gadgets and you can cram a surprising number of tools onto a rooted Android. I would have been able to tell if someone was jamming the phone.
 
@@ -187,9 +175,9 @@ I turned it off. It wouldn’t do any good anyway without a network connection. 
 
 -----------
 
-It was a few days before I could really walk much further than the bathroom, which surprisingly was not just a hole in the ground. There was a sort of proto-toilet looking thing in an actual washroom, which was nice since chamber pots seemed a little undignified. It only took a few days for me to read every book in the whole village, which sounds impressive until you discover that there were only 5, and had come to some worrying conclusions. 
+It was a few days before I could really walk much further than the bathroom, which surprisingly was not just a hole in the ground. There was a sort of proto-toilet looking thing in an actual washroom, which was nice since chamber pots seemed a little undignified. It only took a few days for me to read every book in the whole village, which sounds impressive until you discover that there were only 5, and had come to some worrying conclusions.
 
-I was still hesitant to accept anything I saw as given, I was ready for someone to jump out of the bushes with a camera shouting “PUNKD” with all the actors falling over themselves laughing about how I seemed convinced that I’d traveled back in time, but I was getting concerned. The Elardian History book seemed pretty realistic. Now I’m studying Computer Science at U of T, and not history, but I have taken several History courses. They take up the bulk of my electives, and it wouldn’t be too much work to graduate with History as a second major. Expecting the history book to be a fabrication, I had thought it would be the work of a few writers brainstorming something that would make an interesting history for a fantasy novel. Instead I got what looked and felt like an actual history book. It didn’t help that it seemed to be somewhat corroborated by ‘The Triumph of Tigoro’ and the rest of the books, all of which recounted local legends. Tigoro was mentioned in the history book as a great general, like Leonidas except with less kicking Persian dudes into pits and more sneaky Trojan horse type stuff. ‘The Triumph’ was essentially the same story, but told as a heroic epic, rather than as a summary of events and important dates. It was a similar situation with the other books I had read during those few days. They were either a heroic take on specific characters, or more kid friendly stories that seemed to have enough behind them to place them properly in the history I had read. 
+I was still hesitant to accept anything I saw as given, I was ready for someone to jump out of the bushes with a camera shouting “PUNKD” with all the actors falling over themselves laughing about how I seemed convinced that I’d traveled back in time, but I was getting concerned. The Elardian History book seemed pretty realistic. Now I’m studying Computer Science at U of T, and not history, but I have taken several History courses. They take up the bulk of my electives, and it wouldn’t be too much work to graduate with History as a second major. Expecting the history book to be a fabrication, I had thought it would be the work of a few writers brainstorming something that would make an interesting history for a fantasy novel. Instead I got what looked and felt like an actual history book. It didn’t help that it seemed to be somewhat corroborated by ‘The Triumph of Tigoro’ and the rest of the books, all of which recounted local legends. Tigoro was mentioned in the history book as a great general, like Leonidas except with less kicking Persian dudes into pits and more sneaky Trojan horse type stuff. ‘The Triumph’ was essentially the same story, but told as a heroic epic, rather than as a summary of events and important dates. It was a similar situation with the other books I had read during those few days. They were either a heroic take on specific characters, or more kid friendly stories that seemed to have enough behind them to place them properly in the history I had read.
 
 *I really need to get back to my car.*
 
@@ -198,7 +186,7 @@ I was still hesitant to accept anything I saw as given, I was ready for someone 
 
 I had reset the date function on my watch, I left the time as-is, but the morning I woke up after the crash would be Jan-01 and it works a hell of a lot better than making tally marks on the wall. Besides, I didn’t really want to upset Harp my gouging up his walls if this turns out not to be a big joke.
 
-The watch read ‘Jan-04’ when Sila suggested we have supper downstairs instead of in my room. I’d gotten a little bored after finishing all the books and my head was feeling marginally better so I agreed to go make the arduous journey down the stairs. 
+The watch read ‘Jan-04’ when Sila suggested we have supper downstairs instead of in my room. I’d gotten a little bored after finishing all the books and my head was feeling marginally better so I agreed to go make the arduous journey down the stairs.
 
 I stood up, careful not to hit my head on the ceiling like I had the first couple times I’d gotten up to relieve myself. My initial assessment of Harp and Sila had been that they were near my height. With my vision still blurry without glasses, all I could see was that Harp brushed the top of the doorway. From this I guessed that he was a couple inches taller than me, putting him at 6’ 8” or 6’ 9”. Sila was about half a head shorter than Harp so I figured somewhere in the 6’ 2” to 6’ 4” range. I was wrong. By a lot.
 
@@ -208,7 +196,7 @@ The ceiling was only 6ft from the floor, which meant I couldn’t stand up strai
 
 Sila herself only came up to a little above my elbow, and the height difference had surprised her the first time I had gotten out of bed. It had also added somewhat to her shyness, but she had been getting over it once we got to know each other better. She’d come up to talk to me occasionally over the past couple days, or she’d eat in with me when she took me my meal so we’d had time to talk. She told me about what the village was like, and asked plenty of questions about me that I couldn’t really decide how to answer. I was still trying to figure out whether this was all an elaborate scheme, or that I really did travel to some other world.
 
-We entered the common room and she led me over to a table where Harp was sitting with two men I hadn’t met yet. One man seemed to have green hair, Moss I’m guessing? The other had the same brown hair that Sila and Harp shared, and seemed like the beefiest guy at the table. Harp and Moss, assuming it was Moss, both were pretty fit and had the sort of muscle tone you get if you work with your hands for a living. The third guy however looked like he could bench about 250lbs without a whole lot of trouble. I’m guessing blacksmith? Probably-Moss and Probably-Blacksmith were playing what I was sure had to be chess. Probably-Moss looked up from the game as we approached, and his eyes got rather wide when he saw me. At this reaction the other two turned to look over at Sila and I approach. 
+We entered the common room and she led me over to a table where Harp was sitting with two men I hadn’t met yet. One man seemed to have green hair, Moss I’m guessing? The other had the same brown hair that Sila and Harp shared, and seemed like the beefiest guy at the table. Harp and Moss, assuming it was Moss, both were pretty fit and had the sort of muscle tone you get if you work with your hands for a living. The third guy however looked like he could bench about 250lbs without a whole lot of trouble. I’m guessing blacksmith? Probably-Moss and Probably-Blacksmith were playing what I was sure had to be chess. Probably-Moss looked up from the game as we approached, and his eyes got rather wide when he saw me. At this reaction the other two turned to look over at Sila and I approach.
 
 “Quinn was feeling a little better so I thought that it would be good to eat down here for a change” Sila explained to those at the table.
 
@@ -216,7 +204,7 @@ We entered the common room and she led me over to a table where Harp was sitting
 
 “Hello, it’s nice to meet the two of you,” I said, shaking hands with the two men “I believe I’ve been borrowing some of your books Pell.”
 
-“Ah, someone else who appreciates them, which ones have you been reading?” Pell asked, in what sounded like a fairly normal voice. 
+“Ah, someone else who appreciates them, which ones have you been reading?” Pell asked, in what sounded like a fairly normal voice.
 
 *No dirt chewing for Pell, he’s definitely designated smart guy.*
 
@@ -274,7 +262,7 @@ As minor as the changes were it still changed the game quite a bit. Without cast
 
 “Certainly,” said Pell, “but when I play with Moss and the others we generally play for money”
 
-“Oh no you don’t, don’t go trying to take the boy’s money.” Harp chastised. 
+“Oh no you don’t, don’t go trying to take the boy’s money.” Harp chastised.
 
 *That’s the second time he’s called me boy.*
 
@@ -310,7 +298,7 @@ I slid four of the coins across the table to Harp.
 
 “Ay, I already said it was no trouble. People got to take care of each other and money doesn’t factor into it”
 
-“Alright,” I said, and I made a neat stack of four coins and set them next to the ch-Zatrikion board. 
+“Alright,” I said, and I made a neat stack of four coins and set them next to the ch-Zatrikion board.
 
 “Now hold on Quinn, don’t go betting all that against Pell. He’s real good and that’s about 2 days pay for most people” chided Harp.
 
@@ -336,7 +324,7 @@ It was a week after the crash that I decided I couldn’t wait any longer. I was
 
 “You don’t need to worry about me, I just want to go see if there’s any of my things left in the ca-uh, carriage” I replied, waiting for an excuse that would keep me away from it.
 
-“Okay, why don’t I go with you? You might need help.” Sila said brightly. 
+“Okay, why don’t I go with you? You might need help.” Sila said brightly.
 
 Sila had been spending a lot of time around me lately. I was doing my best not to get drawn into something I wasn’t ready for, but she seemed like she was doing her best to be helpful so I acquiesced.
 
@@ -362,7 +350,7 @@ Pell, Sila, and I walked through the village towards a hill in the distance. We 
 
 “You mentioned that steel was an alloy of iron and carbon, do you know much about metallurgy?”
 
-“Ah, maybe?” I hedged, thinking to the many hours spent playing Dwarf Fortress. “I think where I’m from is somewhat farther along when it comes to metallurgy as a field of study, but I’m not an expert by any definition. Why do you ask?” 
+“Ah, maybe?” I hedged, thinking to the many hours spent playing Dwarf Fortress. “I think where I’m from is somewhat farther along when it comes to metallurgy as a field of study, but I’m not an expert by any definition. Why do you ask?”
 
 “Well I’ve been thinking that I could use some help around the forge. Maybe you can show me how it is that steel is made, maybe you can’t. But you seem like the smart sort and I’m without a son to pass my trade onto.”
 
@@ -374,13 +362,13 @@ Pell, Sila, and I walked through the village towards a hill in the distance. We 
 
 ----------
 
-We left the town and they led me out to the remains of my mighty Subaru. I survived that? Damn. It was sitting wheels up in a shallow stream that ran down the hill into the town. The water was barely deep enough to dampen the upholstery on the inside of the roof. Sila hadn’t been kidding about the glass. Every single window had shattered into tiny cubes, and the cubes were spread all around the car and up the side of the hill that lead to the forest. The grass in a mostly straight line up into the woods had been mostly flattened from the car sliding down the hill, but in two spots the sod was all torn up. 
+We left the town and they led me out to the remains of my mighty Subaru. I survived that? Damn. It was sitting wheels up in a shallow stream that ran down the hill into the town. The water was barely deep enough to dampen the upholstery on the inside of the roof. Sila hadn’t been kidding about the glass. Every single window had shattered into tiny cubes, and the cubes were spread all around the car and up the side of the hill that lead to the forest. The grass in a mostly straight line up into the woods had been mostly flattened from the car sliding down the hill, but in two spots the sod was all torn up.
 
 *It looks like the car rolled a couple of times after I passed out.*
 
 I found both of the wing mirrors as I walked up the hill, broken off when the car rolled. My head started to throb as I continued walking up towards the tree line, and the nausea started to come back. It wasn’t as bad as before, but it was definitely still there. I found the tree, trees actually, that I had hit. It looked like I came in about 30ft off the ground, which made sense considering the height of the overpass, and hit two younger and shorter trees before slamming into an older and taller pine tree. The first two trees were missing about the top five or six feet, with the smashed bits lying in the underbrush around. I hadn’t been so lucky with the third tree. Instead of smashing off the top of the tree and slowing down a bit I had hit about the midpoint of the tree’s height. The tree stayed exactly where it was and it was the car that got smashed. I could see the impression of the back bumper on the ground under where I must have hit the old tree.
 
-There was one thing conspicuously absent. The overpass? Well that one was obvious, there was no big concrete bridge with cars screaming along at 100kph, but that wasn’t actually the most concerning thing missing. The ground around the crash site, actually all the ground I’d walked across to get here, was rather damp and the grass had the squishy feeling you get when the ground is really soft. Maybe they cut the first two trees and bashed them up a little to make it look like a car and not a saw had done it. Maybe they’d brought the car here to the top of the hill and pushed it down, causing it to roll and slide into the stream. 
+There was one thing conspicuously absent. The overpass? Well that one was obvious, there was no big concrete bridge with cars screaming along at 100kph, but that wasn’t actually the most concerning thing missing. The ground around the crash site, actually all the ground I’d walked across to get here, was rather damp and the grass had the squishy feeling you get when the ground is really soft. Maybe they cut the first two trees and bashed them up a little to make it look like a car and not a saw had done it. Maybe they’d brought the car here to the top of the hill and pushed it down, causing it to roll and slide into the stream.
 
 Maybe all of that happened, but where the hell were the tracks? They’d need a flatbed to bring in the car judging from the state it was in. Assuming it didn’t get bogged down in the soft earth there should be two big rents in the ground leading to and from the tree. The ground should be torn up a little from the people they’d need to help with this. Hell I could see clearly where I’d torn up the sod where I’d walked up the hill. Even a couple people moving around here, getting things into position should have left some evidence. Instead, no footprints, no tyre tracks, nothing. And no damn big overpass either.
 
@@ -407,18 +395,9 @@ And it was exactly what I didn’t want.
 Sila and I gathered my things while Pell cut some pieces from the bodywork with his tinsnips, and we headed back. Once I was back in my room, Sila shadowing me still, I spread out what I had gathered on the bed.
 
 
-# Oh this has not gone well - 3
+# Chapter 3
 
-
-Turns out that people like this which I really appreciate, thanks for all the support and commentary. 
-
-EDIT: Based on some feedback I’ve gotten, especially from /u/TheLertTheWorldNeeds, I’ve fixed up some of the first/third person stuff in this section.
-
-You can probably expect follow up posts every other day or so for now. This writing stuff takes a long time.
-
------
-
-I could see Quinn sitting with his back to one of the old oak trees just downhill from the village. The leaves had started to change their colours, and Quinn’s oak tree looked like it might have been burning with all the oranges and reds in its leaves. He was reading one of Pell’s books again and seemed lost in thought. He had his chin propped up on one hand and his brow was furrowed as he looked down at the book. He’d been recovering rather quickly, but ever since we had been to the remains of his carriage the previous week he had seemed more distant. 
+I could see Quinn sitting with his back to one of the old oak trees just downhill from the village. The leaves had started to change their colours, and Quinn’s oak tree looked like it might have been burning with all the oranges and reds in its leaves. He was reading one of Pell’s books again and seemed lost in thought. He had his chin propped up on one hand and his brow was furrowed as he looked down at the book. He’d been recovering rather quickly, but ever since we had been to the remains of his carriage the previous week he had seemed more distant.
 
 “I brought you something,” I said, which seemed to startle him. He jumped slightly and looked up.
 
@@ -430,7 +409,7 @@ As I spoke I laid out the blanket that I’d kept folded under the basket’s ha
 
 “It’s the history book you brought me the first day after the crash, I read it the once to pass the time, but I didn’t know what I was looking for then. I’m trying to do a better job of actually studying it now.”
 
-“How do you find something new in a book? You said that you’d read it already.” I asked, as I set out the lunch I had made for the two of us. 
+“How do you find something new in a book? You said that you’d read it already.” I asked, as I set out the lunch I had made for the two of us.
 
 Auntie Crisa had been the one to teach me how to cook, and she told me that cooking a good meal for your betrothed was one of the best ways to spend time together without being improper. Auntie Crisa seemed to want to make sure that everything was ‘proper’, but it seemed like good advice even if Quinn and I weren’t betrothed. So I put together a picnic for the two of us and I’d made everything myself, I didn’t have much to work with but Quinn seemed to like the stew I’d made for him the first day we’d met. So I’d made some more of that and wrapped up the bowls in cloth to keep them warm. I also had made some rolls which were fresh out of the oven and kept warm by the stew. I brought along just a little bit of butter to go with them. This was the first time since he’d started taking his meals in the common room that’d we’d sat and eaten together without anyone else bothering us. Sure we’d have dinner in the common room, but it wasn’t the same. There were always people sitting at other tables, or he’d be playing Zatrikion with Pell. Pell was also stealing Quinn away, often when I went looking for Quinn when Pappa didn’t need my help I’d find that he was with Pell learning how to run the forge.
 
@@ -450,7 +429,7 @@ Quinn spoke a lot differently than anyone I’d ever heard. He spoke even more p
 
 Quinn finished his bite of roll and asked “What makes the valley here safer than the other options? I don’t even know really how this place is laid out”
 
-“Well the valley is this strip between the two mountain ranges, you see the one over there?” I said pointing to the mountains to the east, ”and the ones over there?” I said pointing west, ”Well they stretch really far north, and they sort of meet up if you go far enough. Pell said that the dwarves have their mountain home up there somewhere in the north. There’s five villages all spread through the length of the valley, which means that the trader can stop and get supplies every night. The only people that really come to the tavern from outside the valley are the gnomes and dwarves passing through. There’s more mountains past the ones you can see, and there’s valleys and other ways through but none of the other valleys go the whole way north, and the passes are hard to get through even in summer. Especially if you’ve got a couple of horse drawn carts.” 
+“Well the valley is this strip between the two mountain ranges, you see the one over there?” I said pointing to the mountains to the east, ”and the ones over there?” I said pointing west, ”Well they stretch really far north, and they sort of meet up if you go far enough. Pell said that the dwarves have their mountain home up there somewhere in the north. There’s five villages all spread through the length of the valley, which means that the trader can stop and get supplies every night. The only people that really come to the tavern from outside the valley are the gnomes and dwarves passing through. There’s more mountains past the ones you can see, and there’s valleys and other ways through but none of the other valleys go the whole way north, and the passes are hard to get through even in summer. Especially if you’ve got a couple of horse drawn carts.”
 
 There hadn’t really been anything I could help him with once he was able to get up and walk around, and he always asked someone else when he had a question. Usually it was Harp or Pell. It was nice to have him pay the same sort of attention to me for a change. It was a little frightening though, he always looked whoever he was talking to right in the eye and it was a very intense look. They were only half the size of an elf’s eyes and were shaded by a prominent brow. They were green like Moss's eyes, though Quinn's were a much darker shade.
 
@@ -462,7 +441,7 @@ I quickly started to gather the things, not wanting him to go without me “I ho
 
 I felt a little tightness in my chest, *Auntie Crisa always takes care of her husband’s money* “Y-es I can help you with that”
 
-Quinn stood up, and up, and up from where he was sitting. He really was a giant, I don’t think I’ve ever seen anyone as tall as Quinn. He didn’t look quite like anyone else either. He had the sharp features of an elf, the of squareish face and jaw of a dwarf, and the close cut brown hair and stubble of a gnome. It should have made him look ugly with such a mix of different features, but the fine cheekbones and strong jaw darkened by his short beard blended together into something handsome and entirely unique. His skin was pale, like a dwarf’s or a Lord’s. No one could ever mistake him for a dwarf, towering head and shoulders over even her father who was the tallest man in the whole valley. 
+Quinn stood up, and up, and up from where he was sitting. He really was a giant, I don’t think I’ve ever seen anyone as tall as Quinn. He didn’t look quite like anyone else either. He had the sharp features of an elf, the of squareish face and jaw of a dwarf, and the close cut brown hair and stubble of a gnome. It should have made him look ugly with such a mix of different features, but the fine cheekbones and strong jaw darkened by his short beard blended together into something handsome and entirely unique. His skin was pale, like a dwarf’s or a Lord’s. No one could ever mistake him for a dwarf, towering head and shoulders over even her father who was the tallest man in the whole valley.
 
 *I can see why Pell thought he was a Lord.*
 
@@ -500,23 +479,23 @@ I bowed my head, clutching the basket and trying not to let Quinn see my face tu
 
 “Probably not,” he said, matter-of-factly “I think I can remember everything I need, and how to assemble the furnace but I’m not sure. I doubt I can get any of it from the trader which means that Pell and I probably need to make the pieces by hand, and even then, the sort of furnace I’m familiar with is one that needs to be taken half apart to get the steel ingot back out. It’s not really economical, reasonable rather, for anything other than making weapons. Especially since you can really only make one ingot at a time. I don’t think Pell can really justify the cost, even if it would turn out a fantastic sword who would he sell it too? Who could even afford what its worth? The current plan is for an upgrade to his existing furnace, that I’m pretty sure I can do, and it should still let him work with iron.”
 
-It surprised me. Whenever Quinn talked about anything it always seemed like he knew exactly what to do and how to do it. *Is this what’s had him distracted this past week, trying to figure out how to make steel for Pell? It didn’t seem like it, but I didn’t know what else might be bothering him* “I’m sure you can figure it out,” I said, trying to reassure him. 
+It surprised me. Whenever Quinn talked about anything it always seemed like he knew exactly what to do and how to do it. *Is this what’s had him distracted this past week, trying to figure out how to make steel for Pell? It didn’t seem like it, but I didn’t know what else might be bothering him* “I’m sure you can figure it out,” I said, trying to reassure him.
 
-He smiled a little, “You’re probably right, it’s not like I don’t have the time to figure it out.” 
+He smiled a little, “You’re probably right, it’s not like I don’t have the time to figure it out.”
 
 -----
 
 Sila continued to walk along beside me as we got into the town, which was really only about a dozen houses and some other buildings. I had been doing my best not to string her along since I realized what she had in mind. But did that even apply? Where the hell was I going to go? I had some ‘Lord Kalvan of Otherwhen’ like visions of total world domination though the liberal application of gunpowder, but it wasn’t really realistic. Calvin and I had both been injured when we first arrived in ‘Otherwhen’, but Calvin had been nursed to health in a castle. He’d been taken in by a Lord who was more than willing to provide the resources, funds, and manpower to back his inventions. I’d woken up in a village that lived mostly on subsistence farming and exported only some surplus foodstuffs. Calvin’s Otherwhen had even already gotten started with gunpowder and firearm production. All Calvin needed to do was tighten up the formula used and introduce rifled barrels. Instead I’d need to figure out where the hell to find sulphur, and try to make the tools I’d need to manufacture muskets or rifles to the proper tolerances.
 
-It wasn’t as if Sila wasn’t pretty enough, I kept getting lost in her big brown eyes when I was talking to her. I’d been doing my best not to be obvious about it, though she’d probably noticed. While her education was somewhat lacking due to the environment she’d grown up in she wasn’t stupid. That’s one mistake people tend to make about historical civilizations. The average medieval peasant was no less intelligent than the average Canadian software developer, the only difference was the educational material and technology available. Sure, ask the peasant to solve an algebraic equation and he won’t give you anything close to an answer, but try teaching the peasant algebra? Well it’s very likely that he’d learn at a similar rate to a modern human in his age group. 
+It wasn’t as if Sila wasn’t pretty enough, I kept getting lost in her big brown eyes when I was talking to her. I’d been doing my best not to be obvious about it, though she’d probably noticed. While her education was somewhat lacking due to the environment she’d grown up in she wasn’t stupid. That’s one mistake people tend to make about historical civilizations. The average medieval peasant was no less intelligent than the average Canadian software developer, the only difference was the educational material and technology available. Sure, ask the peasant to solve an algebraic equation and he won’t give you anything close to an answer, but try teaching the peasant algebra? Well it’s very likely that he’d learn at a similar rate to a modern human in his age group.
 
-Just like I’d needed to come to grips with the fact that I was indeed in some other world where Tim Horton’s and the internet didn’t exist, I needed to come to grips with the fact that there was a very good chance that the rest of my life was going to be spent in this valley. If that life was spent with Sila, maybe it wouldn’t be so bad, but I couldn’t quite shake the desire for more. 
+Just like I’d needed to come to grips with the fact that I was indeed in some other world where Tim Horton’s and the internet didn’t exist, I needed to come to grips with the fact that there was a very good chance that the rest of my life was going to be spent in this valley. If that life was spent with Sila, maybe it wouldn’t be so bad, but I couldn’t quite shake the desire for more.
 
 -----
 
-We made our way to Harp’s tavern, the merchant had pulled up out front and he seemed to be wrapping up most of his business. There weren’t a whole lot of people in the town, and they didn’t have a whole lot of money to spend so the little gnome gotten through the crowd already. And oh yes, he was a gnome. There was no mistaking him for either a human or an elf, for starters he was only three feet tall. He seemed to be the first creature I’d met that kept his hair short, and he was the first one with any facial hair though that too was trimmed. His skin was an odd shade of brown. Don’t get me wrong, it’s not like I’ve never seen a brown guy before, I lived in Toronto, it’s about as multicultural as a city gets. This guy however didn’t match any of the dozens of skin tones I’d seen on the streets of Toronto, instead he was the same reddish brown colour as the clay soil around Prince Edward Island. 
+We made our way to Harp’s tavern, the merchant had pulled up out front and he seemed to be wrapping up most of his business. There weren’t a whole lot of people in the town, and they didn’t have a whole lot of money to spend so the little gnome gotten through the crowd already. And oh yes, he was a gnome. There was no mistaking him for either a human or an elf, for starters he was only three feet tall. He seemed to be the first creature I’d met that kept his hair short, and he was the first one with any facial hair though that too was trimmed. His skin was an odd shade of brown. Don’t get me wrong, it’s not like I’ve never seen a brown guy before, I lived in Toronto, it’s about as multicultural as a city gets. This guy however didn’t match any of the dozens of skin tones I’d seen on the streets of Toronto, instead he was the same reddish brown colour as the clay soil around Prince Edward Island.
 
-“Ah, it’s a pleasure to meet you,” said the gnome, extending a small hand. I had expected a tiny and high pitched voice, but instead his voice was more or less the same as anyone else I had met. He did speak very quickly, but his pronunciation was clear and I could understand what he was saying without too much trouble. 
+“Ah, it’s a pleasure to meet you,” said the gnome, extending a small hand. I had expected a tiny and high pitched voice, but instead his voice was more or less the same as anyone else I had met. He did speak very quickly, but his pronunciation was clear and I could understand what he was saying without too much trouble.
 
 I shook the offered hand “Oh careful you, don’t carry me away,” said the gnome in his rapid fire voice.
 
@@ -558,7 +537,7 @@ He frowned and his eyebrows drew together “Ah, possibly?” He showed me some 
 
 “Well that depends, what do you have to offer me?” he said, crossing his arms and leaning against the wagon, package held in one hand.
 
-I withdrew my wallet, and took out blue 5$ note, a red 10$ note, a green 20$ note, and a red 50$ note. All were of the new polymer type of bill, with a clear window forming a strip down one side. They were all also in very good shape, and despite the Royal Canadian Mint’s assertions, I still thought that they smelled slightly of maple syrup. 
+I withdrew my wallet, and took out blue 5$ note, a red 10$ note, a green 20$ note, and a red 50$ note. All were of the new polymer type of bill, with a clear window forming a strip down one side. They were all also in very good shape, and despite the Royal Canadian Mint’s assertions, I still thought that they smelled slightly of maple syrup.
 
 “I will trade for the book, in exchange for any two of these pieces.” I said, hoping that the strange material and artwork would be enough to catch the gnome’s eye. The twenty even has a picture of the queen on it, that’s got to be worth something.
 
@@ -612,7 +591,7 @@ I cut the paper on the top of the package, careful not to nick the book. I turne
 
 “‘An Introduction to Practical Magic’, by Lili Nidur,” I said “I really hope this is worth it” and I opened the book to the first page.
 
-The first couple pages were an introduction by the author, and didn’t tell me anything that I didn’t already know. The first proper chapter however was titled ‘What makes a Mage’. *This is what I’ve been looking for.* I read on, and discovered something worrisome. According to the book not just anyone could be a Mage, you had to be born a mage. And according to the book only about 1 person in 50 had the ability to use magic and so the potential to be a Mage. *Great, an easy out. ‘It’s not my fault it didn’t work, this book is perfectly genuine, you’re just not a Mage.’* The book went on to explain that magical talent was apparently a quantifiable value determined at birth, and could only be raised through great effort. The distribution was apparently logarithmic. Those with the ability to use magic, but no talent were called ‘wizards’, and they made up 90% of the ‘1’ from the 1 in 50. The remaining 10% were mages, with varying levels of magical talent. 
+The first couple pages were an introduction by the author, and didn’t tell me anything that I didn’t already know. The first proper chapter however was titled ‘What makes a Mage’. *This is what I’ve been looking for.* I read on, and discovered something worrisome. According to the book not just anyone could be a Mage, you had to be born a mage. And according to the book only about 1 person in 50 had the ability to use magic and so the potential to be a Mage. *Great, an easy out. ‘It’s not my fault it didn’t work, this book is perfectly genuine, you’re just not a Mage.’* The book went on to explain that magical talent was apparently a quantifiable value determined at birth, and could only be raised through great effort. The distribution was apparently logarithmic. Those with the ability to use magic, but no talent were called ‘wizards’, and they made up 90% of the ‘1’ from the 1 in 50. The remaining 10% were mages, with varying levels of magical talent.
 
 Soo, out of 5000 people, 90 are wizards, 10 are mages, and one of those 10 mages is of the next… level? dan? tier? up from the rest of his fellows. How the hell am I supposed to know if I’m in the lucky 2%?
 
@@ -654,7 +633,7 @@ Sila seemed surprised at my comment about being familiar with meditation, but sh
 
 I adjusted the bezel on my watch to note the current position of the minute hand. Then I closed my eyes and focused on my breathing, the deliberate rhythm helping me keep stray thoughts from my mind. Once my mind was well and clear I began to imagine the inside of a watch. With this sort of meditation it was not enough to merely think ‘watch’ and be done with it. It also didn’t need to be a watch either, it could be whatever you wanted, flower, fire, sculpture, anything. But you had to be able to imagine it in every minute detail, you had to see it in your mind’s eye as clearly as if you were looking at it under a magnifying glass. It’s not a sort of meditation that works for anyone and it’s best for people that are visual and practical learners, but it’s very effective if you’re in that category. Visualization also takes quite some time, though this was an image I had used many times before so it was somewhat quicker than it would otherwise be. I was probably over doing it, the book only mentioned the breathing exercise, but I had to do this right the first time. I had no idea how any of this worked, but I had a hypothesis. I had guessed that even if someone was a mage they could block themselves off from their power by failing to succeed the first time they tried to use one of these stones. A failure the first time would colour all the attempts afterwards, and they wouldn’t be able to put the same force behind any subsequent attempt with each failure reinforcing the belief that they didn’t have any power.
 
-Without opening my eyes, I pushed. The book suggested that you call up a strong memory, one that defined your desire for magic. Every want and need you would fulfill with magic, all distilled into a single memory. Instead I used just two words. 
+Without opening my eyes, I pushed. The book suggested that you call up a strong memory, one that defined your desire for magic. Every want and need you would fulfill with magic, all distilled into a single memory. Instead I used just two words.
 
 ***I WILL***
 
@@ -666,21 +645,14 @@ Sila looked up at me, rubbing at her eyes “It worked, it worked!” she exclai
 
 *Oh man, I really needed that.*
 
-A short time later I leaned back against the tree, Sila in my lap, and I adjusted my glasses slightly with one hand. They’d been pushed askew when she kissed me, I took a guilty look around, but didn’t see any potential observers. Most of the townsfolk would be working at this hour anyway, our little secret was safe. I looked down at my watch. 17 minutes. A damned eventful 17 minutes too. We sat there for a while longer with our arms around each other, before she decided that it was her turn. 
+A short time later I leaned back against the tree, Sila in my lap, and I adjusted my glasses slightly with one hand. They’d been pushed askew when she kissed me, I took a guilty look around, but didn’t see any potential observers. Most of the townsfolk would be working at this hour anyway, our little secret was safe. I looked down at my watch. 17 minutes. A damned eventful 17 minutes too. We sat there for a while longer with our arms around each other, before she decided that it was her turn.
 
 I took my time and explained meditation to her, using the simplified version that the book recommended. Granted, I had used the more advanced meditation technique to get my results, but I didn’t want to make matters more complicated by trying to teach her how visualization worked. It took practice, and an error in the meditation method might translate to an error in the test. Best then to stick to as simple a meditation method as possible, which is probably why the book recommended the one that it did.
 
 I finished my explanations and Sila slipped out of my lap and sat cross legged on the ground in front of me, crystal cupped in her hands. I could see her relaxing into it, head drooping, and her breaths became deeper and less frequent. She sat like that for nearly an hour, before I saw her steel herself, and **push.**
 
 
-# Oh this has not gone well - 4
-
-
-This part is the first one where I start to get to magic, with Quinn trying to define what it can do in physical terms. There are numbers involved, which hopefully shouldn’t scare anyone away. I’ve tried to reach a balance. Hopefully I’ve provided enough specifics to please those that are technically minded enough to care, but have also explained it in a way that makes sense to the normal people that don’t do math for fun.
-
-Let me know what you guys think. Is too technical, not enough technical enough, or is it just right?
-
------
+# Chapter 4
 
 I took my time and explained meditation to her, using the simplified version that the book recommended. Granted, I had used the more advanced meditation technique to get my results, but I didn’t want to make matters more complicated by trying to teach her how visualization worked. It took practice, and an error in the meditation method might translate to an error in the test. Best then to stick to as simple a meditation method as possible, which is probably why the book recommended the one that it did.
 
@@ -690,7 +662,7 @@ I finished my explanations and Sila slipped out of my lap and sat cross legged o
 
 Nothing. There wasn’t a flicker of light from the stone.
 
-*Oh.* 
+*Oh.*
 
 Sila opened her eyes and looked at the stone, frowning. She met my eyes and froze. I think she saw something she didn’t like in the way that I was looking at her. She put a hand to her mouth and choked back a sob, tears forming in her eyes.
 
@@ -718,11 +690,11 @@ Detect Magic was also pretty much what it said on the tin. Aside from telling me
 
 *Type of magic? I wonder if we’re talking a D&D style Evocation/Illusion/Abjuration system of classification, or is this an elemental Fire/Water/Earth/Air system? Another thing not explained.*
 
-The Light spell seemed useful, though it still wasn’t very precise about the units and figures involved. A table like the one from the Ignite spell gave three rather unhelpful references for mana per brightness. One mana for candle equivalent, and two for torch equivalent. Both options would last for one minute. 
+The Light spell seemed useful, though it still wasn’t very precise about the units and figures involved. A table like the one from the Ignite spell gave three rather unhelpful references for mana per brightness. One mana for candle equivalent, and two for torch equivalent. Both options would last for one minute.
 
-*So 1 mana buys me 1 candela, but 2 mana buys me, what, 50 candela?* 
+*So 1 mana buys me 1 candela, but 2 mana buys me, what, 50 candela?*
 
-The next paragraph explained how I could change the colour of the light. It went on to mention that coloured light in general and red light specifically wouldn’t interfere with dark-adaption, and recommended using coloured light when traveling at night. 
+The next paragraph explained how I could change the colour of the light. It went on to mention that coloured light in general and red light specifically wouldn’t interfere with dark-adaption, and recommended using coloured light when traveling at night.
 
 *I wonder how the spell defines colour. Am I limited to the visual spectrum, or can I make an X-Ray ‘coloured’ light? Don’t know how useful that would be, but maybe I can find a use in something else from the electromagnetic spectrum. Assuming I can even create ‘lights’ that aren’t just visual light*
 
@@ -754,7 +726,7 @@ I flipped back through the spells, trying to decide which one to start on first.
 
 By the time I got back to town the sun had started to go down and it was starting to get rather chilly. There were only a few leaves on the ground, it was still early Autumn, and they were blown around by the cool breeze.
 
-It had taken some time to sort out how the book was trying to teach the spell. There were arcane symbols on the first several pages, and the book explained a few memorization exercises that you were meant to follow. I wasn’t sure how it was supposed to teach me how to cast the spell, but something about the symbols seemed to almost tickle my brain. I had the same feeling I’d get when a name was on the tip of my tongue. There were also gestures and incantations to go along with the spell, but the book didn’t just give me one set of gestures, and one set of incantations. There were multiple sets of diagrams, each one more complicated than the last. The gestures could be done one or two handed, and with our without either a wand or a staff. 
+It had taken some time to sort out how the book was trying to teach the spell. There were arcane symbols on the first several pages, and the book explained a few memorization exercises that you were meant to follow. I wasn’t sure how it was supposed to teach me how to cast the spell, but something about the symbols seemed to almost tickle my brain. I had the same feeling I’d get when a name was on the tip of my tongue. There were also gestures and incantations to go along with the spell, but the book didn’t just give me one set of gestures, and one set of incantations. There were multiple sets of diagrams, each one more complicated than the last. The gestures could be done one or two handed, and with our without either a wand or a staff.
 
 *If this is anything like Harry Potter and 90% of people need wands to use magic then I need to learn wandless magic ASAP. I don’t want to carry around a big sign saying ‘Hey everybody, I’m a mage!’ and I also don’t want my power to be jeopardized if I accidentally lose a freaking stick.*
 
@@ -766,7 +738,7 @@ There weren’t quite as many different combinations when it came to the incanta
 
 -----
 
-I steeled myself for the coming confrontation, and pushed open the door. It was rather busy, all the regulars were here, along with some people who had come in from their farms or other villages. They’d be staying at the tavern tonight to enjoy the feast day festivities tomorrow. I could see Harp sitting at a table with Moss, Pell, and some of the other people in town that played Zatrikion. He looked up when the little bell over the door rang. 
+I steeled myself for the coming confrontation, and pushed open the door. It was rather busy, all the regulars were here, along with some people who had come in from their farms or other villages. They’d be staying at the tavern tonight to enjoy the feast day festivities tomorrow. I could see Harp sitting at a table with Moss, Pell, and some of the other people in town that played Zatrikion. He looked up when the little bell over the door rang.
 
 *Here we go*
 
@@ -802,7 +774,7 @@ I walked over, and sat in the only empty chair remaining at the table. Moss was 
 
 “Alright, let me reset the board” said Harp, and he rearranged things while my food was brought over.
 
-I explained the Scholar’s Mate to the table, which seemed to earn me some esteem from the little Zatrikion club. Most of the Zatrikion players were older village folk which meant they had some pull within the village. I’d been expecting some suspicion or xenophobia when I came here, but everyone seemed rather friendly. I wasn’t sure if that’s how they always were with visitors or if Pell and the other players had put in a good word, but so far I seemed to be accepted. 
+I explained the Scholar’s Mate to the table, which seemed to earn me some esteem from the little Zatrikion club. Most of the Zatrikion players were older village folk which meant they had some pull within the village. I’d been expecting some suspicion or xenophobia when I came here, but everyone seemed rather friendly. I wasn’t sure if that’s how they always were with visitors or if Pell and the other players had put in a good word, but so far I seemed to be accepted.
 
 *You’d think that they’d be suspicious of a guy that claimed to be from another world*
 
@@ -810,7 +782,7 @@ I also showed them a few ways to counter the scholar’s mate, and went on to as
 
 *If I am making the trip to Nimre I’m going to need money, and I’d much rather gamble for it than work for it if I need to get more along the way.*
 
-Not only was gambling going to slow me down a lot less, but I also just generally didn’t like hard work. I could do it if I had to, I’d been helping Pell at the forge after all, I just didn’t like it. If 2 drachm a day was an average wage for a days work, then I certainly could make more than that in a night of gambling or Zatrikion. Especially since every night would be a new tavern with fresh marks, not yet out of gambling money. It just depended on the game. Purely chance based games are no good, I needed something like blackjack where I could get a net increase with the right strategy. On the other hand, if it’s something like Baccarat then I’ll need to stick to Zatrikion for earning money. 
+Not only was gambling going to slow me down a lot less, but I also just generally didn’t like hard work. I could do it if I had to, I’d been helping Pell at the forge after all, I just didn’t like it. If 2 drachm a day was an average wage for a days work, then I certainly could make more than that in a night of gambling or Zatrikion. Especially since every night would be a new tavern with fresh marks, not yet out of gambling money. It just depended on the game. Purely chance based games are no good, I needed something like blackjack where I could get a net increase with the right strategy. On the other hand, if it’s something like Baccarat then I’ll need to stick to Zatrikion for earning money.
 
 *Unless I can get Apportation working without needing words or gestures…*
 
@@ -952,13 +924,13 @@ I lay there, staring up at the ceiling unable to sleep. My back was aching, and 
 
 I lit the lantern with the striker on my Zippo and opened up ‘An Introduction to Practical Magic’ to the section on Apportation. I continued reading where I’d left off, memorizing the symbols it detailed. The book contained a couple different memorization exercises, though from what I understood I didn’t need to use these specific exercises to memorize the spell. It was the actual memorization that mattered, not the process of memorization. This meant I could draw upon some more advanced techniques than what was detailed in the book, just like I’d done with the meditation. No real person is going to be able to assemble a Sherlock style ‘memory palace’, but the concept had some foundation in reality. Learn how to design clever mnemonics and you could get pretty far without needing to hallucinate words hovering in the air. Some people had better memory than others, mine is probably pretty far to the right on the bell curve, but anyone could learn to augment their memory with a surprisingly small amount of practice.
 
-In practical terms, this meant that by about midnight I was satisfied enough with my memorization of the symbols to try casting the spell. I didn’t have a wand or a staff *oh I’ll show you* **my** *staff* so I opted for the two handed gestures, with about a one sentence incantation. *I’m going to need to memorize the gestures and incantations too.* I sat up in bed and shook a loonie out of my wallet and onto the bed in front of me. *Moment of truth.* I made the gestures and whispered the incantation. 
+In practical terms, this meant that by about midnight I was satisfied enough with my memorization of the symbols to try casting the spell. I didn’t have a wand or a staff *oh I’ll show you* **my** *staff* so I opted for the two handed gestures, with about a one sentence incantation. *I’m going to need to memorize the gestures and incantations too.* I sat up in bed and shook a loonie out of my wallet and onto the bed in front of me. *Moment of truth.* I made the gestures and whispered the incantation.
 
-It rose off the bed and into the air. 
+It rose off the bed and into the air.
 
 *Well, there it is. I was expecting some incredible epiphany, but I feel kinda underwhelmed.*
 
-I could direct it pretty much as I wanted. I could rotate or move it in three dimensions, and it seemed fairly precise. I experimented with moving the coin around. Imagining the spell as an invisible hand or pair of hands seemed to work well, and I could be about as precise as I could if I was trying to move something with my actual hands. I tried giving some more specific ‘instructions’ to the spell, but it didn’t really seem like the spell was built for it. I tried to move the coin a specific number of millimetres or rotate it by a specific number of degrees but in both cases the coin’s response was to not move at all. 
+I could direct it pretty much as I wanted. I could rotate or move it in three dimensions, and it seemed fairly precise. I experimented with moving the coin around. Imagining the spell as an invisible hand or pair of hands seemed to work well, and I could be about as precise as I could if I was trying to move something with my actual hands. I tried giving some more specific ‘instructions’ to the spell, but it didn’t really seem like the spell was built for it. I tried to move the coin a specific number of millimetres or rotate it by a specific number of degrees but in both cases the coin’s response was to not move at all.
 
 *Oh well, let’s see what I can do if I wanted to mess around with some dice.*
 
@@ -972,14 +944,9 @@ Satisfied and finally tired enough to get to sleep I dozed off.
 
 -----
 
-# Oh this has not gone well - 5
+# Chapter 5
 
-
-Here it is, a few hours earlier than normal.
-
------
-
-I slept in the following morning, having stayed up quite late learning and experimenting with Apportation. According to my watch it was 10am by the time I got down to the common room, Sila had seemingly spent the morning serving breakfast and she seemed in a better mood than I had left her the night before. She brought over the same breakfast I always ordered, pancakes with peanut butter and fresh fruit on the side. I would have preferred maple syrup to peanut butter but as far as I knew no one cultivated maple trees to make syrup. 
+I slept in the following morning, having stayed up quite late learning and experimenting with Apportation. According to my watch it was 10am by the time I got down to the common room, Sila had seemingly spent the morning serving breakfast and she seemed in a better mood than I had left her the night before. She brought over the same breakfast I always ordered, pancakes with peanut butter and fresh fruit on the side. I would have preferred maple syrup to peanut butter but as far as I knew no one cultivated maple trees to make syrup.
 
 During my first week in the village Pell’s wife, Phelio, had asked me what sort of breakfast food Canadians ate. She seemed to think I was a little homesick, which maybe I was. I explained pancakes and maple syrup to her, the most Canadian of breakfast food. Unfortunately she hadn’t known what maple syrup was but pancakes were pretty easy to make, they were mostly just flour, milk, and eggs. Since then pancakes had apparently become fairly popular for breakfast at the tavern. She had asked me if I’d like anything else to go along with them, and I was tempted to ask for sausages or bacon but stopped myself. I knew that they had eggs, milk, and butter which were all animal products, but in the time I’d been there I’d never seen or smelled any meat being cooked or eaten. They did have plenty of fresh fruit though, so I asked for some of that.
 
@@ -1027,7 +994,7 @@ The other three had hair like the rest of the men I’d seen, long but pulled ba
 
 *Ah shit*
 
-I heard one of the people sitting at another table get up and say something meant to defuse the situation. I didn’t quite hear what was said, and apparently neither did Anthior. He rushed towards Sila who was mostly behind me. I stood up, hands spread apart. 
+I heard one of the people sitting at another table get up and say something meant to defuse the situation. I didn’t quite hear what was said, and apparently neither did Anthior. He rushed towards Sila who was mostly behind me. I stood up, hands spread apart.
 
 “Now just a moment,” I said in a reasonable tone.
 
@@ -1055,7 +1022,7 @@ Finally one of the men I’d seen at the other table grabbed Anthior from behind
 
 I pressed a hand to my side, trying to staunch the bleeding. I bit back a pained gasp, trying to focus.
 
-“Sila is promised to me, and this man,” Anthior half shouted, half whined while stabbing a finger at me accusingly, “is making a whore out of her!” 
+“Sila is promised to me, and this man,” Anthior half shouted, half whined while stabbing a finger at me accusingly, “is making a whore out of her!”
 
 Sila started to say something loud and mostly incoherent, she was mad as hell, but I cut her off. “**Enough!** You’re Baron Polepho I take it? I’m willing to call things even, knife wounds included, if your son apologizes to Sila and agrees to stay away from her in the future,” it took an effort to keep my voice from cracking, and hopefully I managed to disguise the fact that I was barely keeping it together.
 
@@ -1099,7 +1066,7 @@ I relaxed back into the chair, and looked up to see Harp, Pell, and some others 
 
 “Well I think you should ask Baron Polepho about that,” I said, nodding to the Baron who Harp hadn’t noticed when he’d first come in.
 
-I couldn’t tell if Baron Polepho was glad or irritated that I’d left the responsibility of explaining the situation to the gathering crowd inside the tavern, but I figured that I’d rather know the Baron’s position ahead of time before giving my own account of events. 
+I couldn’t tell if Baron Polepho was glad or irritated that I’d left the responsibility of explaining the situation to the gathering crowd inside the tavern, but I figured that I’d rather know the Baron’s position ahead of time before giving my own account of events.
 
 “My son felt slighted by your daughter, and stepped forwards to chastise her,” the Baron began to explain.
 
@@ -1147,7 +1114,7 @@ The Baron blinked. “Oh, and why would you do that?” he said slowly “Nimre 
 
 “You are quite right, they are handled differently. For me it is a straightforward matter, Sila does not want to marry Anthior, therefore she doesn’t have to marry Anthior.”
 
-“That is rather a simplistic view of things, while such a viewpoint might seem sensible to a common man such as yourself,” he said ‘common man’ as if it was a slight against me, “I must take a rather more complex view of matters, I will go to some lengths to ensure that my family is provided for. That includes providing a suitable bride,” 
+“That is rather a simplistic view of things, while such a viewpoint might seem sensible to a common man such as yourself,” he said ‘common man’ as if it was a slight against me, “I must take a rather more complex view of matters, I will go to some lengths to ensure that my family is provided for. That includes providing a suitable bride,”
 
 *Oh, I think he’s threatening me,* I stood. The Baron was not easily intimidated, but despite his lack of obvious reaction I hoped that I made some impression.
 
@@ -1171,7 +1138,7 @@ The Baron didn’t seem sure what to make of this, “You are aware that there a
 
 “If that’s the deal you want to make, then I’ll have some suitable maps delivered here. Now excuse me, I must see to my son.”
 
-The baron went off to check on his son, and I went upstairs to get my other shirt, having ruined the one I’d had on when I got slashed. At least I hadn’t been wearing my hoodie at the time, I only had one of those and I’d need it for the journey to Nimre. As I was walking back upstairs I heard some shouting in Sila’s room, and saw Harp come back down the stairs with a warning expression. Despite this warning, I was thinking of taking a look in before I’d realized that I was still not wearing a shirt. 
+The baron went off to check on his son, and I went upstairs to get my other shirt, having ruined the one I’d had on when I got slashed. At least I hadn’t been wearing my hoodie at the time, I only had one of those and I’d need it for the journey to Nimre. As I was walking back upstairs I heard some shouting in Sila’s room, and saw Harp come back down the stairs with a warning expression. Despite this warning, I was thinking of taking a look in before I’d realized that I was still not wearing a shirt.
 
 *Probably not the best idea to step into her room with whoever she was arguing with while half naked.*
 
@@ -1191,7 +1158,7 @@ She left in a huff, chin up, trying to do her best to look down her nose at me. 
 
 “What was she going on about?” I asked, bleary eyed and tired, as I leaned against the doorframe.
 
-The adrenaline rush had worn off, I hadn’t gotten a whole lot of sleep last night despite sleeping in, and it’s surprising how tired even a short fight will make you. 
+The adrenaline rush had worn off, I hadn’t gotten a whole lot of sleep last night despite sleeping in, and it’s surprising how tired even a short fight will make you.
 
 “I told her that I wasn’t going to marry Anthior, no matter what. She didn’t like that.”
 
@@ -1201,7 +1168,7 @@ The adrenaline rush had worn off, I hadn’t gotten a whole lot of sleep last ni
 
 It looked like she was trying to decide whether or not to wrap her arms around me. *That’s over and done with Quinn.*
 
-“I’ll be fine Sila, that’s what the business about the whiskey and the boiling water was about. Cleaning the wound site and the needle and thread like that should prevent any infection. I’ll just need to keep it clean and I’ll be fine. Besides,” I said, “it worked out in the end. Sure I got cut up, but now you’ve got a promise from Anthior to leave you alone and I’ll have the maps I need to plan my trip.” 
+“I’ll be fine Sila, that’s what the business about the whiskey and the boiling water was about. Cleaning the wound site and the needle and thread like that should prevent any infection. I’ll just need to keep it clean and I’ll be fine. Besides,” I said, “it worked out in the end. Sure I got cut up, but now you’ve got a promise from Anthior to leave you alone and I’ll have the maps I need to plan my trip.”
 
 *And it gives me a very good excuse to get out of dancing.*
 
@@ -1239,26 +1206,17 @@ I’d also need some sort of backup weapon, a bow would work at fairly close ran
 
 -----
 
-# Oh this has not gone well - 6
-
-
-I’m into final exams and have papers to write. This does mean my output will be reduced slightly, but rather than break my schedule I’m going to be putting out slightly shorter updates instead. I should get back to my normal output once the exams are done with.
-
-THINK OF THIS AS AN ELF SIZED POST.
-
-Also it's a few hours early again.
-
------
+# Chapter 6
 
 I was still scribbling notes on what I’d need for the trip when I heard a knock at the door.
 
-“Come in,” I said, expecting Sila. 
+“Come in,” I said, expecting Sila.
 
 Instead it was Harp who stepped through the door, and he seemed angry about something, “What’s this Sila and the Baron are telling me about you leaving?”
 
 *Ah shit, here we go*
 
-“The Baron said that you two had worked out a deal and as part of it you had to leave? When I asked Sila about it she seemed to know, but told me to ask you,” he continued. 
+“The Baron said that you two had worked out a deal and as part of it you had to leave? When I asked Sila about it she seemed to know, but told me to ask you,” he continued.
 
 I could see Sila standing shyly in the doorway behind her father.
 
@@ -1276,19 +1234,19 @@ He brushed at the book with his hand, in a way that suggested he though his hand
 
 “And the Baron isn’t forcing you to leave?” he asked, still unsure, anger dying away.
 
-“No, I guess that’s what he’s going to tell people to save face, but I’m leaving of my own accord,” I explained. 
+“No, I guess that’s what he’s going to tell people to save face, but I’m leaving of my own accord,” I explained.
 
 “Well, I guess there’s that then,” he said, “I’d thought the Baron had threatened you or something. He’s got no business throwing people out of my town,” he paused, and seemed to gather his thoughts “You’re really doing this? Who else have you told already?”
 
 “Sila was the first to know, I also told the Baron since I wanted the maps from him, and now you know.” I said, “I’d planned to tell Pell today since I’ve been helping him with the forge.”
 
-“Well,” he said, quietly, “We’ll be sad to see you go.” Sila, who was still standing behind him turned her face away when he said this. 
+“Well,” he said, quietly, “We’ll be sad to see you go.” Sila, who was still standing behind him turned her face away when he said this.
 
 *No kidding.*
 
 “I do plan to leave things better than when I started though,” I said, trying to brighten the mood, “I want to get Pell set up to work with iron at the very least, that alone should give Essens a leg up on things. The other thing I want to do is get some aluminum goods made for sale outside the valley. Done right this could bring in a lot of money for the village. Between the two I’ll have hopefully paid my debt to you for helping me.”
 
-“Oh, that was nothing,” he said immediately, picking up the fallen book, “It was just the right thing to do.” 
+“Oh, that was nothing,” he said immediately, picking up the fallen book, “It was just the right thing to do.”
 
 “All the same though, I appreciate it. I’ve got a couple months, and that should be enough to do what I’m planning.”
 
@@ -1344,7 +1302,7 @@ I cast the spell again, this time putting some Will behind it like I had with th
 
 “No, am I doing something wrong Quinn?”
 
-“You’re doing fine Sila, what about now?” I asked, giving the book a tug. 
+“You’re doing fine Sila, what about now?” I asked, giving the book a tug.
 
 It seemed to startle her and she jumped a little, loosening her grip on the book enough for it to slip free of her hands.
 
@@ -1362,7 +1320,7 @@ It seemed to startle her and she jumped a little, loosening her grip on the book
 
 She nodded, suddenly serious, and maybe a little concerned, “Okay, what do you want to try next?”
 
-I spent some more time with Sila testing out some theories I had on just how Apportation would work when interacting with another person. Hopefully the ‘rules’ for Apportation would carry over to the other spells in the book. It wasn’t just Apportation I was trying to get a handle on, but magic in general. 
+I spent some more time with Sila testing out some theories I had on just how Apportation would work when interacting with another person. Hopefully the ‘rules’ for Apportation would carry over to the other spells in the book. It wasn’t just Apportation I was trying to get a handle on, but magic in general.
 
 The first thing I tried once I knew I could actually effect another person was whether or not someone could ‘harden’ their defences against someone using magic on them. So I got Sila to focus very hard on not letting me take the book, and then I tried the spell again. I still managed to get through her, *Will, I guess?* but it was noticeably more difficult. We repeated that a couple times and it got a little harder each time to take the book. I wasn’t sure if that was me wearing out, or Sila getting better, but I hadn’t felt a drain even after casting the spell so many times. I’d felt the pressure when trying to get through Sila’s will, but not any drain when actually casting the spell. *I hope that I’ve actually got tons of mana, and that I’m not one spell away from dropping dead due to mana-exertion. Maybe I’m recovering my mana as fast as I spend it? I do a hell of a lot of cardio after all, my endurance and recuperation time are pretty good when it comes to physical tasks. Maybe that carries over to magic? But that doesn’t seem very in-theme to me.* I was fairly sure that the effects I was seeing were due to Sila actually putting up additional defences on top of the apperantly passive defence that anyone had, so I moved on.
 
@@ -1427,18 +1385,11 @@ It was early afternoon when she finished helping me with my tests, and I read to
 -----
 
 
-# Oh this has not gone well - 7
-
-
-Still doing the elf sized posts.
-
-Having a little trouble getting the dialogue straight in my head, it might be me getting bogged down with the village. I’m thinking it’s time to get Quinn on his way. If you’ve got a recommendation I’d be glad to hear it. I can’t promise I’ll do it, but I’ll certainly read it.
-
------
+# Chapter 7
 
 As it turned out I was right about my injury getting me out of work for a couple days. Pell and I had planned to start stripping the car a day or two after the feast day festivities, but Pell had insisted that I rest. It’s always nice when people cooperate with my plans to slack off. This gave me a few more days to experiment with Apportation and to learn the other spells in the book. Sila also had some free time now that the last big feast day before winter was over. There wasn’t going to be any more traffic from outside of the valley, and as winter came closer people traveled between the villages much less frequently. This abundance of free time on her part meant that she’d decided to appoint herself as my assistant and had insisted on helping with my experiments.
 
-I had two tests in mind for today, the first test was to get a specific figure for my mana capacity, and the second was to see if I’d be able to use Apportation to protect myself. *Small stones would work in a pinch, but I bet I could make some lead bullets at Pell’s forge.* 
+I had two tests in mind for today, the first test was to get a specific figure for my mana capacity, and the second was to see if I’d be able to use Apportation to protect myself. *Small stones would work in a pinch, but I bet I could make some lead bullets at Pell’s forge.*
 
 “What are we trying first Quinn?” Sila asked as we were finishing a late breakfast.
 
@@ -1536,7 +1487,7 @@ She leaned up and gave me a reassuring peck on the cheek, “Well then what abou
 
 “What about the other test in the mean time? You said you wanted to use Apportation to protect yourself, how would that work?” she asked, picking up my glasses from the table.
 
-Sila had been asking more questions recently, asking me to explain what I was doing and how I was doing it. She might have been genuinely interested, but I was pretty sure the main reason for all the questions was that she’d realized how much I enjoyed having someone to explain my ideas to. Especially when that someone was quite pretty and liked to sit in my lap. 
+Sila had been asking more questions recently, asking me to explain what I was doing and how I was doing it. She might have been genuinely interested, but I was pretty sure the main reason for all the questions was that she’d realized how much I enjoyed having someone to explain my ideas to. Especially when that someone was quite pretty and liked to sit in my lap.
 
 “Well Apportation is designed to pick up something weighing 10lbs, and hold it there for sixty seconds. That’s actually quite a lot of energy, my plan is to use that energy in a much shorter time frame to throw something small and dense. Probably lead or steel balls, though stones would do in a pinch.”
 
@@ -1637,26 +1588,17 @@ Sila giggled a little, and I set to work learning the spell.
 -----
 
 
-# Oh this has not gone well - 8
-
-
-Still doing the elf sized posts, though this one is a little less elf sized.
-
-This update is one that I definitely feel could be extended into three or four whole sections on their own. Trouble is, it’s not really something I find interesting to write. I feel like the quality of my output is much better when it’s something that interests me. Dialogue is clearer, descriptions are better, and it’s ordered more clearly. So I’m kinda skipping ahead here, maybe this is something that I’d come back to, but I honestly don’t feel like much is lost by condensing it. Hopefully you guys like it, and the coming updates should be rather interesting.
-
-EDIT: The last section has been slightly edited to give a better idea of Quinn's thoughts on his predicament.
-
------
+# Chapter 8
 
 The days went by excruciatingly slowly as I waited for the pass south to clear. From what I’d found out from the Baron’s maps and speaking with some of the better traveled folk in the village I might have been waiting until early summer if I’d tried going north. Not only was that about a month after the acceptance deadline in Nimre, it would have also driven me crazy, sitting there in the village bored out of my mind. As it was, waiting for the beginning of spring was bad enough. According to my watch I’d spent nearly 150 days in the village by the time that I left for Nimre, and the last 120 or so had been some of the most boring days of my life. In the first month spent in the village I’d read every book, learnt all the spells, and run every experiment I could think of. I continued to test things with the spells just to entertain myself, but I quickly discovered that the spells were incredibly limited in what they could do. My additional experiments were really only slight variations on what I’d tried before, and they hadn’t taught me anything new.
 
 I spent many days working with Pell in the forge trying to reinvent some of the modern crafting methods I was familiar with. I’d like to think that I did a pretty good job, but it was astounding how much time everything took. I basically knew which ideas would work and what wouldn’t work by the end of the first month, but actually implementing those ideas took ages. I eventually got him working with iron but to do it we’d needed to rebuild the entire forge. *I can see why everyone spends so much time drinking and gambling at the tavern, there’s nothing else to do here. Simple life? To hell with that.*
 
-We’d spent a couple of weeks stripping the car of everything even slightly useful. Every single scrap of aluminum was melted down and made into ingots which were stacked in a shed behind Pell’s forge. We’d tried aluminum pots, but it didn’t really work, they required a lot of careful handling to ensure they didn’t just melt on the fire. We had much more luck with jewellery and trinkets, I even made myself a few sets of aluminum dice. We gave thermite a shot, but we both realized quickly that it wasn’t really feasible. Not only was is a waste of aluminum, but getting enough iron oxide together was a slow and tedious process especially since it wasn’t till midwinter that the forge was ready for making iron. Even if we were willing to spend the time and materials, thermite has such a high ignition point that it wasn’t really possible to light it outside of the forge. 
+We’d spent a couple of weeks stripping the car of everything even slightly useful. Every single scrap of aluminum was melted down and made into ingots which were stacked in a shed behind Pell’s forge. We’d tried aluminum pots, but it didn’t really work, they required a lot of careful handling to ensure they didn’t just melt on the fire. We had much more luck with jewellery and trinkets, I even made myself a few sets of aluminum dice. We gave thermite a shot, but we both realized quickly that it wasn’t really feasible. Not only was is a waste of aluminum, but getting enough iron oxide together was a slow and tedious process especially since it wasn’t till midwinter that the forge was ready for making iron. Even if we were willing to spend the time and materials, thermite has such a high ignition point that it wasn’t really possible to light it outside of the forge.
 
 We’d pulled apart the engine, which was in really terrible shape. The battery was cracked and smashed open, Pell salvaged some of the lead, but nearly all of the acid had all leaked out onto the ground. The alternator had fared a similar fate, the wires and coils were recoverable but it wasn’t ever going to work again. I did hit the tree head on at highway speed, so most of the engine was under the front seats and smashed to pieces. We got some use out of the tires by partnering with the Baron’s cobbler, apparently the only proper cobbler in the whole valley. We stripped the treads off the tires and the cobbler used it to sole shoes. They weren’t as nice as what I was wearing, but they were a far sight better than anything else in the valley.
 
-Pell and I tried to melt down the rims, but I had no idea what they were actually made of and we just couldn’t get the forge hot enough. As far as I know they still sit in his shed next to what’s left of the aluminum. Just for fun we made a siege crossbow from the car’s leaf springs. Damn it was powerful, but it wasn’t anything I’d be able to take with me on the road. It took the two of us in turns to load the thing and it weighted nearly as much as Sila. I think Pell ended up selling it to the Baron. Pell was surprised at just how much copper wiring was in the car. There probably **was** about a mile of it all together, which Pell promptly recycled. I had some dreams about power generation, but there wasn’t much I could really do in only a few months. I might have tried charging my phone, but I could just as easily have blown out the thing if I’d given it the wrong voltage or amperage. We also dug the little bits of gold out of the car’s computer, but it was such a tiny amount that it was barely worth the effort. 
+Pell and I tried to melt down the rims, but I had no idea what they were actually made of and we just couldn’t get the forge hot enough. As far as I know they still sit in his shed next to what’s left of the aluminum. Just for fun we made a siege crossbow from the car’s leaf springs. Damn it was powerful, but it wasn’t anything I’d be able to take with me on the road. It took the two of us in turns to load the thing and it weighted nearly as much as Sila. I think Pell ended up selling it to the Baron. Pell was surprised at just how much copper wiring was in the car. There probably **was** about a mile of it all together, which Pell promptly recycled. I had some dreams about power generation, but there wasn’t much I could really do in only a few months. I might have tried charging my phone, but I could just as easily have blown out the thing if I’d given it the wrong voltage or amperage. We also dug the little bits of gold out of the car’s computer, but it was such a tiny amount that it was barely worth the effort.
 
 Some of the women in the village took the seat upholstery off our hands. I found it rather entertaining when I first saw Sila wearing my Subaru’s front seat as a dress, though she seemed a little hurt after I started laughing. I was right about the seat filler as well, I have no idea what the orange foam stuff is but the village got a couple of winter coats out of the deal. With the help of Phelio I made myself a tarp using the carpets from the Subaru. We stripped off the fuzz, just as if we were preparing a hide to be tanned, and we were basically left with a plastic sheet. I experimented with recycling the paper from the car’s manual. I wasn’t terribly impressed with the results, but it did leave me with another notebook.
 
@@ -1664,13 +1606,13 @@ But even all that work didn’t take very long. When I’d first agreed to help 
 
 I did experiment with decurve bows, purely since I liked the idea of a bow that could be left strung all the time, but I eventually discarded the idea. They were less powerful even than the simplest straight bow, and I had come up with some very clever designs over the winter. It’s amazing what a person can do with the right tools, materials, and about a hundred straight days of mind numbing boredom.
 
-The bow I finally came up with was monstrous, both in power and in appearance. I’d combined the techniques and designs used by half a dozen different cultures, leaving me with the Franken-bow. I’d started building it centre out, since I decided early on that I wanted an arrow shelf. It was more precise and allowed the arrow to pass through the centre line of the bow instead of being slightly offset. I’d also grown used to it from shooting modern compounds bows. From the Mongols *always the exception* I took the reflex design, and from the Native Americans the recurve design. Both were techniques to get more power out of a shorter bow, and it was possible to use both methods in a single design. For the final version of the bow I even made the trip to the north end of the valley to get my hands on both sinew and horn, making my final design a composite bow in the style of medieval China. Horn and sinew weren’t quite as good as fiberglass when it came to energy storage, but they were superior to any wood I might find. A ‘composite reflex recurve shortbow’ is a hell of a mouthful, but this was one hell of a bow. The weakest of the English longbows had at least a 100 pound draw weight, and were still 6 feet tall. I was fairly sure that I’d gotten this bow damn close to 100 pounds, and this was out of a 4ft package. The Franken-bow can probably be described as overkill, but this was also going to be my primary means of self-defence out on the road. I did also pack both a hatchet and a dagger, but those were weapons I had no experience with. A bow on the other hand? That I could use. 
+The bow I finally came up with was monstrous, both in power and in appearance. I’d combined the techniques and designs used by half a dozen different cultures, leaving me with the Franken-bow. I’d started building it centre out, since I decided early on that I wanted an arrow shelf. It was more precise and allowed the arrow to pass through the centre line of the bow instead of being slightly offset. I’d also grown used to it from shooting modern compounds bows. From the Mongols *always the exception* I took the reflex design, and from the Native Americans the recurve design. Both were techniques to get more power out of a shorter bow, and it was possible to use both methods in a single design. For the final version of the bow I even made the trip to the north end of the valley to get my hands on both sinew and horn, making my final design a composite bow in the style of medieval China. Horn and sinew weren’t quite as good as fiberglass when it came to energy storage, but they were superior to any wood I might find. A ‘composite reflex recurve shortbow’ is a hell of a mouthful, but this was one hell of a bow. The weakest of the English longbows had at least a 100 pound draw weight, and were still 6 feet tall. I was fairly sure that I’d gotten this bow damn close to 100 pounds, and this was out of a 4ft package. The Franken-bow can probably be described as overkill, but this was also going to be my primary means of self-defence out on the road. I did also pack both a hatchet and a dagger, but those were weapons I had no experience with. A bow on the other hand? That I could use.
 
 It took me some time to work up to the 100 pound draw weight. Before being dropped, literally, into Essens I’d had a 60 pound compound bow. Nearly doubling the strength required was quite a jump, but I’d had plenty of time to work up to it. Early on in the design process I tried my best to replicate the cams and levers of a compound bow with bits from the car, but it simply wasn’t feasible. Thankfully I’d played plenty of Age of Empires, and I knew how important it was to research thumb rings as soon as they became available. Rather than the English two fingered draw I could instead use the thumb ring to basically grab the string in my fist and use all of the strength in my hand to draw the bow. A modern quick release would probably let me use even more strength, but the thumb ring would be a great deal faster on the draw and it was something I could make with the tools available to me.
 
 -----
 
-It was the eve of the spring equinox, and the rain outside fell in sheets. I could hear it beating against the window shutters and crashing against the clay roof tiles. Pell, Sila, Moss, and myself were gathered around the fireplace, wood crackling and popping, preparing for the journey south. We had all of our things spread out on the floor in front of the fire, and were checking over what we’d prepared. The plan was for the four of us to travel together to Colos which was a city, at least by medieval standards, only a couple of days south of the valley. The others would stay in Colos and locate a building to set up shop in. Pell and Harp had some small amount of money stored away, and between the two of them Moss seemed confident that they’d be able to rent the space they’d need. Harp would stay in Essens to man the tavern, and instead Sila would handle her father’s share of the business. Pell would turn the aluminum into jewellery and various trinkets, and Sila would do her best to charm wealthy customers into buying Pell’s goods. Moss would be on hand to make sure that things run smoothly, since he was one of the only people in the village that had really spent any time in Colos. 
+It was the eve of the spring equinox, and the rain outside fell in sheets. I could hear it beating against the window shutters and crashing against the clay roof tiles. Pell, Sila, Moss, and myself were gathered around the fireplace, wood crackling and popping, preparing for the journey south. We had all of our things spread out on the floor in front of the fire, and were checking over what we’d prepared. The plan was for the four of us to travel together to Colos which was a city, at least by medieval standards, only a couple of days south of the valley. The others would stay in Colos and locate a building to set up shop in. Pell and Harp had some small amount of money stored away, and between the two of them Moss seemed confident that they’d be able to rent the space they’d need. Harp would stay in Essens to man the tavern, and instead Sila would handle her father’s share of the business. Pell would turn the aluminum into jewellery and various trinkets, and Sila would do her best to charm wealthy customers into buying Pell’s goods. Moss would be on hand to make sure that things run smoothly, since he was one of the only people in the village that had really spent any time in Colos.
 
 If I’d set things up properly the village should see a nice influx of funds, which should make life there a little easier. Sila would be out of the Baron’s reach, and would have her pick of the merchant class’s unmarried sons. Harp should even have the money to hire on a proper apprentice to pass on his trade. From Colos, I’d continue on for another couple of days to arrive in Myra where I’d hopefully find a ship headed in the right direction that wasn’t too expensive to afford. I had been saving up though, Pell paid me two drachm a day, and Harp only charged me one. Combine that with my almost **magical** luck at dice and I had about 200 drachm saved up. Hopefully that would be enough to buy me passage if not to Nimre, at least past Adympia.
 
@@ -1702,7 +1644,7 @@ I opened my mouth to speak, and then hesitated, “Are you casting aspersions on
 
 “I helped rebuild your entire forge!” I said, a little indignantly.
 
-“Well sure, but that doesn’t count-“ 
+“Well sure, but that doesn’t count-“
 
 “Doesn’t count?”
 
@@ -1720,7 +1662,7 @@ I raised my hands in surrender, “Fine, you win. But I’m not planning to stop
 
 “I don’t know if there’s gonna be any passenger ships heading to Nimre, but you might find a mail carrier or cargo ship. If you can, try to find a ship owned by one of the big merchant families, they’ll usually be flying the family crest on a banner from the top of the mainmast. Most of their captains are paid by the milion, not on shares. They’ll welcome the chance to make some money on the side,” explained Moss.
 
-I’d been picking his brain over the past several months as I’d been planning my trip. He was much better traveled than I’d first thought, and I’d been starting to think that he might have once been in the military. It wasn’t that he stood straight as a board and marched around giving orders, because he didn’t. Instead he had the sort of quiet confidence of a man that was comfortable in his own body. 
+I’d been picking his brain over the past several months as I’d been planning my trip. He was much better traveled than I’d first thought, and I’d been starting to think that he might have once been in the military. It wasn’t that he stood straight as a board and marched around giving orders, because he didn’t. Instead he had the sort of quiet confidence of a man that was comfortable in his own body.
 
 Moss and I checked over all of our gear, and finally the four of us had a chance to eat dinner, and go to bed.
 
@@ -1734,15 +1676,15 @@ I’d been doing my best over the winter to keep things from getting too heated 
 
 The last time I’d found myself in a situation like this, things had not gone well. It had been clumsy, unsatisfying, short, and a frustratingly long time ago. The lack of internet access had added to my frustration, and I was having a hard time thinking of reasons not to just throw her lithe form down on the bed and relieve a little stress.
 
-“mmmmphhh,” I tried to speak, though Sila was making that rather difficult. 
+“mmmmphhh,” I tried to speak, though Sila was making that rather difficult.
 
 I felt her pull the rough linen covers down to my waist, and she slipped her hands up under my shirt. I could feel her delicate nails dragging along my skin. I brought one of my hands up to her face, and pushed her gently away, giving me a chance to breath and allowing me to speak.
 
 “Sila,” I said warningly.
 
-“Shut up. Just shut up,” she said forcefully, and I could hear her voice quaver with both need and frustration. 
+“Shut up. Just shut up,” she said forcefully, and I could hear her voice quaver with both need and frustration.
 
-She slapped my hand away, and dug her fingers into my hair, angling my head back. She kissed me hard, and with her other hand she grabbed me rather firmly between the legs. 
+She slapped my hand away, and dug her fingers into my hair, angling my head back. She kissed me hard, and with her other hand she grabbed me rather firmly between the legs.
 
 *Alright, decision made, this is a terrible idea.*
 
@@ -1760,14 +1702,7 @@ She started to cry quietly, and sat up to bury her face in my chest. Seeing her 
 
 -----
 
-# Oh this has not gone well - 9
-
-
-Still doing the elf sized posts.
-
-~~I noticed I’ve got the city Pell, Moss, and Sila will be stopping off at in my notes twice. Once under the name Colos, and again as Myrna. I’ve gone back and fixed up the previous references and now it’s all Colos, mainly because it’s what I’ve been calling it in the most recent updates.~~ I HAVE NO IDEA HOW TO ENGLISH LANGUISGE
-
------
+# Chapter 9
 
 I woke up an hour or two before dawn, and I could still hear the rain crashing against the window shutters. I cast Light to help me navigate the small room as I prepared for the day. I shaved, not sure how often I’d be able to while out on the road. Pell and I had managed to make some fairly good straight razor blades, but even if I sharpened them with the multitool I wasn’t sure how long they’d last. Steel straight razor blades could last a long damn time, but these ones were bronze, and it wasn’t like I had a proper sharpener.
 
@@ -1777,7 +1712,7 @@ As we ate we went over our travel plans for today. We’d leave a bit before the
 
 “Not everyone has got your super-elven endurance Quinn, and it’s going to be a hard enough to get to Letea carrying all of this,” Said Pell, gesturing at the supplies and aluminum ingots that the others were bringing along, “Without trying to sprint the whole way.”
 
-“Alright,” I said, raising my hands in surrender. 
+“Alright,” I said, raising my hands in surrender.
 
 One thing I’d noticed over the past several months was that elves seem disproportionally strong for their size. It wasn’t an ant like strength to mass ratio, but it was noticeable. Despite their slim builds and shorter stature the average elf seemed stronger than the average human. Pell was probably an above average example of elfin strength, but I was pretty sure that even Harp was a bit stronger than me, despite being more than a foot shorter and quite a bit lighter. I’d noticed rather early on though that my endurance seemed to be much higher than that of anyone I’d met so far. Even despite my laziness I could keep working at the forge far longer than Pell could, and I needed to take far fewer breaks. To some extent that was due to my heavy focus on cardio training prior to ending up here, but he seemed to have less endurance even than your average slightly pudgy office worker. If humans were persistence hunters descended from plains apes then my guess was that elves were descended from forest apes and were either ambushers or trappers. They’d be optimized for quick bursts of strength but would be unable to keep going for very long after that. Though from what I could tell the elves had stopped eating meat long ago and had restricted themselves to a mostly vegetable diet, eating only the animal products that could be taken without killing the animal.
 
@@ -1805,7 +1740,7 @@ I laughed, and it was a big belly laugh. I was glad just to be on the road, fina
 
 We set up a fire, though it took some time to get the tinder to light. If I’d been able to pump more power into ignite I bet I could have gotten it blazing much more quickly, but as it was I simply cast several copies of the spell and gave the tinder a little time to dry out. I’d found out early on that I could maintain about five spells at once before I started to have difficulty, and it could be any combination of the spells I had. I could sometimes get a sixth spell going but it was tricky to hold the other five in my mind and cast the sixth, so it didn’t always work. Sometimes when it failed it would even disrupt my other spells and I’d lose one or two of the ones I already had going, so I tended to stick to five or fewer.
 
-Pell setup his little wire stand and hung a pot over the fire. We weren’t short on water so Moss started a nice vegetable soup. We sat around the fire and ate, the hearty soup doing a lot to warm everyone up. They weren’t going to be able to dry off all the way, but the chance to rest was as refreshing psychologically as it was physically. It gave the others the energy to slog through the next dozen or so miles to Letea. 
+Pell setup his little wire stand and hung a pot over the fire. We weren’t short on water so Moss started a nice vegetable soup. We sat around the fire and ate, the hearty soup doing a lot to warm everyone up. They weren’t going to be able to dry off all the way, but the chance to rest was as refreshing psychologically as it was physically. It gave the others the energy to slog through the next dozen or so miles to Letea.
 
 -----
 
@@ -1897,14 +1832,7 @@ We chatted for a while longer, though Sila went up to bed early. She hadn’t sa
 
 
 
-# Oh this has not gone well - 10
-
-
-Still doing the elf sized posts.
-
-I DREW A MAP. Sort of, in hexograper. I’ll probably show it to you guys at some point, but right now everything is really rough. It’s mostly there to give me an idea of terrain and distances. For now I hope you’re satisfied with a basic description.
-
------
+# Chapter 10
 
 Despite the nicer rooms here in Letea, I still had a hard time sleeping. Even after several months of living in the valley I hadn’t quite gotten used to sleeping in what passed for a bed here. Linen sheets and mattresses stuffed with straw were quite a downgrade from 900 thread count cotton sheets and a memory foam mattress. It was a little nicer here in Letea, the sheets were some sort of almost-cotton and the mattress seemed like they were stuffed with down, but the bed was still over a foot too short. Maybe I was being a bit of a diva, but even with all the time I’d had to get used to life in the village, sleeping was still a problem for me.
 
@@ -1916,7 +1844,7 @@ From what I could tell though, a lot of Adympia’s land wasn’t doing a whole 
 
 The other major difference between Elardia and Europe was the scale. On earth the trip from eastern Italy to south west Portugal couldn’t have been much more than a thousand miles. Here though the trip was more like *five* thousand miles, which was borne out both by the scale on the map, and by my estimated travel time. *Hold on a second, that means… Adympia has got to be what, the size of Russia? It’s not just five times the size of France, it’s twenty five times the size. How the hell do they keep such large kingdoms together?*
 
-I did not have an answer, so bored with the map I pulled out the little spell book that had started me on my journey. I’d need to figure out what to do with it if I couldn’t find a ship to Nimre. Getting caught in Adympia would be bad enough, but I didn’t want to deal with whatever worse fate faced Mages that were captured and carrying around a spellbook would kind of be a giveaway. Hopefully my mage stone ring wasn’t quite as obvious, though the thought of the stone brought something to mind. I’d had to work for it to get the stone to light up, it hadn’t just lit up the second I’d touched the stone. But if what Moss said about the Adympians testing nobles for magic was true then they must have some alternative way to detect it. Otherwise the noble just wouldn’t put the required effort in, and the stone would stay dark. I’d be in really bad shape if they tested every potential slave for magic as a matter of course. 
+I did not have an answer, so bored with the map I pulled out the little spell book that had started me on my journey. I’d need to figure out what to do with it if I couldn’t find a ship to Nimre. Getting caught in Adympia would be bad enough, but I didn’t want to deal with whatever worse fate faced Mages that were captured and carrying around a spellbook would kind of be a giveaway. Hopefully my mage stone ring wasn’t quite as obvious, though the thought of the stone brought something to mind. I’d had to work for it to get the stone to light up, it hadn’t just lit up the second I’d touched the stone. But if what Moss said about the Adympians testing nobles for magic was true then they must have some alternative way to detect it. Otherwise the noble just wouldn’t put the required effort in, and the stone would stay dark. I’d be in really bad shape if they tested every potential slave for magic as a matter of course.
 
 I put the spell book in an outside pocket where it would be easy to reach. If worst came to worst and I was going to get captured I’d want to be able to ditch the book before they found me with it. My notebook would need to go too since it’s full of my magical notes, such as they are.
 
@@ -1964,7 +1892,7 @@ Sila and Pell nodded, suddenly very serious, they seemed glad to defer to the mo
 
 “Come on, you’ll be fine girl, just walk right over to me,” said Moss, motioning her over.
 
-I could see Sila centre herself, hesitate, and then sprint across the ledge. She nearly bowled Moss over when she got to the other side, but she’d made it. Pell followed shortly after, though at a calmer pace. Then it was my turn. I’m honestly terrified of heights, but there was no way in hell I was going to let anyone else know about that, so before I could convince myself that this was a terrible idea I walked out onto the ledge. 
+I could see Sila centre herself, hesitate, and then sprint across the ledge. She nearly bowled Moss over when she got to the other side, but she’d made it. Pell followed shortly after, though at a calmer pace. Then it was my turn. I’m honestly terrified of heights, but there was no way in hell I was going to let anyone else know about that, so before I could convince myself that this was a terrible idea I walked out onto the ledge.
 
 And it was a terrible idea.
 
@@ -2002,12 +1930,7 @@ I stood up, already well past the point of exhaustion, and started running.
 
 
 
-# Oh this has not gone well - 11
-
-
-Little late on this update, but I might have added an extra 1000 words when I did my proofreading pass.
-
------
+# Chapter 11
 
 I didn’t die. Which was nice.
 
@@ -2045,7 +1968,7 @@ Moss shook his head slowly, “I thought for sure that you were dead Quinn, for 
 
 “Well to be fair, I was mostly just treading water. The river did most of the moving and I kinda got dragged along with it, most of the difficulty was from trying not to smash my head open against the cliff or any of the boulders in the river.”
 
-It turned out that it was not the right thing to say. I could tell that it was not the right thing to say because Sila immediately burst into tears. 
+It turned out that it was not the right thing to say. I could tell that it was not the right thing to say because Sila immediately burst into tears.
 
 Maybe I just lack empathy, but I find it annoying when people near me start crying. I don’t know what the hell I’m supposed to do with myself in that situation, and I usually end up standing or sitting there awkwardly waiting for them to stop. Am I supposed to say something comforting? Should I give them a hug? It’s damned inconvenient, and somehow the whole thing ends up being my fault. Thankfully Sila solved my predicament for me by running off down the hall, presumably to her own room to cry some more.
 
@@ -2063,7 +1986,7 @@ I managed to browbeat the others into continuing on the following morning, despi
 
 Sila had fortunately calmed down from the previous evening, though she’d gone back to not talking to me. The others were pretty quiet as well, saving their breath for the day’s journey. Hiking with elves was quite a lot quieter than hiking with other humans. When I was in Algonquin Park all those months ago with my friends we had chatted nearly the whole way, pointing out interesting sights or animals, but elves seemed much less talkative. They seemed to have a hard enough time just covering the distance in a reasonable amount of time, so they avoided getting thirsty and out of breath from talking the whole way.
 
-Instead as I walked I thought about my plans for Colos. Ideally I was going to stay in the city for the one night, gamble a little, and then the following morning I’d start out for Myra. If I kept to my schedule I’d stop that night in a village just outside of Myra, and I’d be able to get to Myra around noon the day after that. The rest of the day in Myra would be spent looking for a ship to Nimre, and if I was lucky I’d have found a ship and be on my way by the fourth or fifth day. I’d accounted for a week spent looking for transportation. In theory I could push that further, but then I’d be cutting into the days I’d set aside for resting. Granted, if I found a ship then I’d potentially be weeks ahead of schedule, but it could just as easily be the case that there weren’t going to be any suitable ships for some time. I couldn’t waste time waiting for a ship that would never come. Another potential delay that might cut into my week looking for ships would be if Moss and Pell expected me to help them get set up in Colos. I liked both of them, but I wanted to get the hell on my way. 
+Instead as I walked I thought about my plans for Colos. Ideally I was going to stay in the city for the one night, gamble a little, and then the following morning I’d start out for Myra. If I kept to my schedule I’d stop that night in a village just outside of Myra, and I’d be able to get to Myra around noon the day after that. The rest of the day in Myra would be spent looking for a ship to Nimre, and if I was lucky I’d have found a ship and be on my way by the fourth or fifth day. I’d accounted for a week spent looking for transportation. In theory I could push that further, but then I’d be cutting into the days I’d set aside for resting. Granted, if I found a ship then I’d potentially be weeks ahead of schedule, but it could just as easily be the case that there weren’t going to be any suitable ships for some time. I couldn’t waste time waiting for a ship that would never come. Another potential delay that might cut into my week looking for ships would be if Moss and Pell expected me to help them get set up in Colos. I liked both of them, but I wanted to get the hell on my way.
 
 Honestly, the others were probably right. If I was smart I would have spent a day or two resting after the ordeal in the river, but spending one more day sitting still would have driven me crazy. Fortunately the day’s travel was uneventful, and we arrived at Colos just as the sun was reaching the horizon.
 
@@ -2141,7 +2064,7 @@ The *wench?* set my food in front of me, and I thanked her.
 
 Pell seemed to have a similar concern, and looked to Moss, wide-eyed, “It will be fine, I know a tailor in town. She’ll be more than willing to get you some proper clothes to meet the Count, and she’ll let us pay her back afterwards.”
 
-This did not seem to put their concerns entirely to rest, but they did relax a little. Sila and Pell were definitely out of their comfort zone. Not only were they many dozens of miles further from home than they’d ever been, but they were –hopefully- going to meet what they probably considered to be a higher class of person. 
+This did not seem to put their concerns entirely to rest, but they did relax a little. Sila and Pell were definitely out of their comfort zone. Not only were they many dozens of miles further from home than they’d ever been, but they were –hopefully- going to meet what they probably considered to be a higher class of person.
 
 *There aren’t six million people in all of Rhona, maybe not even all of Elardia. There’s no way in hell I’d be this awestruck upon meeting the mayor of Toronto.*
 
@@ -2163,9 +2086,9 @@ Moss nodded approvingly, “That’s quite a good plan. Mail carriers work for t
 
 We chatted for a little longer as we ate our meals, and then it came time to say our goodbyes. Sort of like the crying thing, I have a hard time with goodbyes. I’m perfectly content to say “Goodbye,” and then get the hell on my way. Other people though seem to get a little emotional, and it can take forever to finally get out the door without offending anyone. I resolved to get this over with as quickly as possible.
 
-I waved over the, *wench? I’m going with wench,* and paid for my room and board, leaving a decent tip. I’m pretty sure elves tipped, so I tipped. 
+I waved over the, *wench? I’m going with wench,* and paid for my room and board, leaving a decent tip. I’m pretty sure elves tipped, so I tipped.
 
-I stood, extending a hand towards Moss, “Well, I appreciate all the advice you’ve given me Moss.” 
+I stood, extending a hand towards Moss, “Well, I appreciate all the advice you’ve given me Moss.”
 
 He seemed a little surprised at how abruptly I was leaving, but he shook, “We’ll be sad to see you go.”
 
@@ -2207,11 +2130,7 @@ And I left, without looking back.
 
 
 
-# Oh this has not gone well - 12
-
-
-
------
+# Chapter 12
 
 Without the others along I covered the distance to Myra quite a lot faster than I would have otherwise. Aside from just being able to walk more quickly, I was also carrying a lot less weight. Not only had I left the aluminum I’d been carrying with Pell, but I also didn’t need to carry as much food and water since I’d be stopping in villages and towns for lunch, rather than bringing along the food to eat on the road. I also hadn’t yet replaced my ruined pemmican, and I decided to wait until I reached Myra to try to find something suitable. After all, if I found a ship I probably wasn’t going to need it quite as much.
 
@@ -2219,7 +2138,7 @@ The journey to Myra passed rather uneventfully, and it was near noon on the seco
 
 *I guess that they’d have a much easier time shipping in stone since they’re right on the water. Colos would need to drag it nearly ninety miles inland, or quarry it basically on site.*
 
-The city did not have much of a harbour to work with, and instead I could see long wharfs extending out into the sea. *Unless it’s an ocean.* With the sailing ships tied up alongside. Seeing the ships reinforced my belief that the local level of technological development was about Greco-Roman. *TL2* All of the ships appeared to be galleys of some sort, like ancient Greek triremes, though some had two or four sails instead of three. *Biremes and quadriremes I think?* I could see one major difference though, between the ships out in the sea and the Greek equivalents. None of the ships I could see seemed to have oars, and were relying instead only on wind power. Human made triremes had two or even sometimes three banks of rowers, but I couldn’t see anything like that out in the bay. 
+The city did not have much of a harbour to work with, and instead I could see long wharfs extending out into the sea. *Unless it’s an ocean.* With the sailing ships tied up alongside. Seeing the ships reinforced my belief that the local level of technological development was about Greco-Roman. *TL2* All of the ships appeared to be galleys of some sort, like ancient Greek triremes, though some had two or four sails instead of three. *Biremes and quadriremes I think?* I could see one major difference though, between the ships out in the sea and the Greek equivalents. None of the ships I could see seemed to have oars, and were relying instead only on wind power. Human made triremes had two or even sometimes three banks of rowers, but I couldn’t see anything like that out in the bay.
 
 *I guess rowing isn’t really an option for a race that has such limited endurance.*
 
@@ -2277,9 +2196,9 @@ The Anchor Chain was not too hard to find, and I got in a little after lunchtime
 
 The rest of the inn matched the quality of the food. The tables and chairs where patrons sat to eat were functional, but still featured some fancy scrollwork and were stained a rich dark brown. The innkeeper and the serving girls were also better dressed and better spoken than what I’d been used to while traveling here. There was even a nice sitting area near the fire with some nice upholstered chairs where patrons could sit and relax.
 
-One of the serving girls came over to take away my plate, and I tried not to let her notice quite the way I was looking at her. 
+One of the serving girls came over to take away my plate, and I tried not to let her notice quite the way I was looking at her.
 
-I remembered Sila mentioning that some of the elves in the city claimed to be of a different sort than the elves in the villages, and I’d originally chalked this up to some lower class versus upper class snobbery, though I’d noticed some details while passing through the city. There were clear differences to be seen between the village elves, *wood elves I guess?*, and city elves, *high elves maybe?* They were both roughly the same height, and the city elves were still rather slim, but they were proportioned rather more generously than the wood elves. This was something I had noticed around the serving girl’s hips and chest, and she was definitely not someone that I’d mistake for a child. The colouration was another clear difference, though it wasn’t as stark as the difference between some humans. The wood elves weren’t really dark skinned, they were still somewhat fair, but somehow ‘earthy’ seemed like a rather good adjective to use. The variety of hair and eye colours I saw followed this theme, their hair and eyes were generally some shade of brown, though there was the odd wood elf like Moss that had green hair or green eyes. 
+I remembered Sila mentioning that some of the elves in the city claimed to be of a different sort than the elves in the villages, and I’d originally chalked this up to some lower class versus upper class snobbery, though I’d noticed some details while passing through the city. There were clear differences to be seen between the village elves, *wood elves I guess?*, and city elves, *high elves maybe?* They were both roughly the same height, and the city elves were still rather slim, but they were proportioned rather more generously than the wood elves. This was something I had noticed around the serving girl’s hips and chest, and she was definitely not someone that I’d mistake for a child. The colouration was another clear difference, though it wasn’t as stark as the difference between some humans. The wood elves weren’t really dark skinned, they were still somewhat fair, but somehow ‘earthy’ seemed like a rather good adjective to use. The variety of hair and eye colours I saw followed this theme, their hair and eyes were generally some shade of brown, though there was the odd wood elf like Moss that had green hair or green eyes.
 
 The city elves on the other hand, calling them high elves felt wrong, were pale and had much more variety in hair and eye colour. I saw some almost metallic seeming shades, copper, which was my personal favourite, various shades of silver, and there were even some with steel-like grey hair. I didn’t see anyone with gold-like blonde hair, though that may have simply been due to my limited sample size. Eye colour was what I found most interesting though, there were the greens and blues, but there were also some elves with purple, lavender, yellow, or orange eyes. The particular girl that had been serving me had long pale silver hair, up in a bun, and lavender eyes. I found the combination rather stunning, especially with her huge elfin eyes. The clothes certainly helped the impression, she was wearing a light pink dress, laced tightly up the back. It was especially tight around the waist, and between the resulting hourglass shape and her sharply attractive features it took some work not to stare.
 
@@ -2453,7 +2372,7 @@ I found where the laces were tied at her lower back. The dress was done up very 
 
 “Enough,” she said forcefully, voice husky.
 
-She turned, and grabbed at the robe with both fists, and she threw me bodily onto the bed in a display of elfin strength. She straddled me, and I ran one hand down her thigh, running my eyes over her. She looked just as amazing naked as she had in that dress. She was petite like Sila had been, but where Sila had been flat chested with narrow hips, Thera was a bombshell with wide hips and a quite ample bust. Her lips were slightly parted, and her eyes were hungry as she pulled at the belt that tied my robe. I put my hands on her waist, as she finally pulled away what little covering I had. She lifted herself up to mount me but instead I rolled over, pinning her to the bed underneath me, using my greater weight to counter her strength. She let out a primal growl, and tried to pull me into her with her legs, but I held myself off of her, mostly. I rolled my hips, teasing at her opening, as I leaned down to kiss her. She met my mouth hungrily, and I could hear her growl in the back of her throat as she tried to wrap herself around me. 
+She turned, and grabbed at the robe with both fists, and she threw me bodily onto the bed in a display of elfin strength. She straddled me, and I ran one hand down her thigh, running my eyes over her. She looked just as amazing naked as she had in that dress. She was petite like Sila had been, but where Sila had been flat chested with narrow hips, Thera was a bombshell with wide hips and a quite ample bust. Her lips were slightly parted, and her eyes were hungry as she pulled at the belt that tied my robe. I put my hands on her waist, as she finally pulled away what little covering I had. She lifted herself up to mount me but instead I rolled over, pinning her to the bed underneath me, using my greater weight to counter her strength. She let out a primal growl, and tried to pull me into her with her legs, but I held myself off of her, mostly. I rolled my hips, teasing at her opening, as I leaned down to kiss her. She met my mouth hungrily, and I could hear her growl in the back of her throat as she tried to wrap herself around me.
 
 “You seem a little pent up Thera,” I teased, still not quite letting myself all the way down onto her.
 
@@ -2461,7 +2380,7 @@ She tried to say something, probably unkind, but I pressed my lips down onto her
 
 I was probably even more pent up than she was, but I am a definite believer in deferred gratification. I took my time, teasing her, running a hand over her chest and teasing at her nipples. I knew that she’d tire out eventually, all I had to do was keep control of her until she did.
 
-Finally I felt the strength drain away, she was stronger, but just couldn’t keep it up for very long. Then the commanding growls turned into pleading whimpers, and I finally let her have what she wanted. She shuddered, letting out a moan. 
+Finally I felt the strength drain away, she was stronger, but just couldn’t keep it up for very long. Then the commanding growls turned into pleading whimpers, and I finally let her have what she wanted. She shuddered, letting out a moan.
 
 “I am so going to make you pay for this,” she gasped out, with the rhythm of our bodies.
 
@@ -2474,16 +2393,7 @@ Her eyes got wide and watery and I heard her muffle a high pitched moan. That se
 She went limp as I finished, her arms and legs sprawled on the bed. I rolled off of her, and I could see that she had same watery eyed, open mouthed expression on her face as she lay there gasping. We both just lay there in the big bed, exhausted and breathing hard, enjoying the afterglow. She rolled over weakly, and pulled her face into to my side with arm thrown across my chest, and we fell asleep just like that.
 
 
-# Oh this has not gone well - 13
-
-
-I know that some of you guys feel that Sila has been mistreated, so I made a poll: http://www.strawpoll.me/12778783
-
-IMPORTANT: I want you to do the poll BEFORE reading this chapter. 
-
-Let me know what you think, I’d like to know what the general feeling is for the next time Quinn sees… Did I say that?
-
------
+# Chapter 13
 
 I woke up feeling amazing. I was comfortable, relaxed, and I felt truly satisfied for the first time in ages. It was very early in the morning, and while I could hear the odd bird chirping outside, the sky was still dark. The fire had burned down to coals and a cool breeze blew in through the open window. Thera was still curled up next to me, her head resting on my shoulder with one arm thrown across my chest. I slid out from under her as carefully as possible, trying not to disturb her. The blankets slipped down her back as she settled into the depression I’d left in the bed, and I stood there for a moment admiring the look of her as she lay sprawled on her side, I was glad to see that the marks left by the tight dress had faded. I was getting a little chilly, standing there naked, and I padded over to the bathroom to answer nature’s call. I’d just washed up in the basin, when I heard the bed creak as if someone was moving around. When I came back into the room Thera was kneeling on the bed with the blankets drawn up around herself. Even with all the blankets I could see that she was shivering visibly, and I recalled that Sila and the other elves I’d met had more difficulty with cold than I did.
 
@@ -2501,7 +2411,7 @@ I smiled, “More or less, though human men are usually a bit warmer than human 
 
  “Ahh, you’re a little taller I guess,” she said, hunching her shoulders a little and turning pink. That was the first time I’d seen her blush at all, up till now she had seemed pretty comfortable with her sexuality.
 
-“Hmm? I feel like there’s more you’re not telling me,” I taunted. 
+“Hmm? I feel like there’s more you’re not telling me,” I taunted.
 
 “Well I’ve never been with another elf before,” she said a little shyly.
 
@@ -2541,7 +2451,7 @@ She elbowed me in the stomach, “Oh look at me,” she said, in a deep voice th
 
 “Why go through the trouble though? I mean, not to be indelicate, though I feel like we’re well past indelicate,” she did after all, have my middle finger all the way in her mouth, and I had an idea of where it would be going next, “But aren’t your parents still going to be royally pissed off if they find out you’ve been with anyone, whether it could get you pregnant or not?”
 
-My finger came out of her mouth with a ‘pop’, “Yeah, but a girl has got to take care of herself. It’s no good to get all pent up and then let some boy put his hands all over you in a moment of weakness. Then you have to go to a special home for ‘women in a similar situation’. Nobles do the same thing when they can, both the men and the women, whole Adympian families make their business selling unique ‘toys’ to the very wealthy." 
+My finger came out of her mouth with a ‘pop’, “Yeah, but a girl has got to take care of herself. It’s no good to get all pent up and then let some boy put his hands all over you in a moment of weakness. Then you have to go to a special home for ‘women in a similar situation’. Nobles do the same thing when they can, both the men and the women, whole Adympian families make their business selling unique ‘toys’ to the very wealthy."
 
 I stiffened a little at that, and not in an interesting fun time way.
 
@@ -2625,11 +2535,11 @@ I stroked her hair, imagining how much worse it must have been for a woman my ag
 
 “Yeah, but…” I let out a sigh, “It’s kinda complicated, but there’s someone I think deserves another shot at the whole ‘magic’ thing.”
 
-I think my expression and general awkwardness about the situation might have given something away, but she didn’t push it. Instead she reached across me, going out of her way to shove her breasts in my face, to pick up a bracelet from the nightstand next to the bed. 
+I think my expression and general awkwardness about the situation might have given something away, but she didn’t push it. Instead she reached across me, going out of her way to shove her breasts in my face, to pick up a bracelet from the nightstand next to the bed.
 
 “Here,” she said, dropping the bracelet into my hands, and propping herself up on my chest with an elbow.
 
-It was the sort of bracelet that forms a single solid band when clasped together. It looked like it was made some simple metal, but plated with silver, though the silver had flaked off in places exposing the base metal underneath. At the bracelet’s centre was a single blue stone. Like my own mage stone this one looked initially like it was a piece of glass, though clearer than any of the glass I’d seen in use so far. 
+It was the sort of bracelet that forms a single solid band when clasped together. It looked like it was made some simple metal, but plated with silver, though the silver had flaked off in places exposing the base metal underneath. At the bracelet’s centre was a single blue stone. Like my own mage stone this one looked initially like it was a piece of glass, though clearer than any of the glass I’d seen in use so far.
 
 “It’s blue,” I said.
 
@@ -2681,11 +2591,11 @@ I raised my hands in surrender, and she uncovered my mouth, though she didn’t 
 
 “Tonight, before we go to bed.” I answered.
 
-“Tonight? You’re assuming that there will be a tonight,” she taunted, keeping the small smile off her face, “Why wait-“ 
+“Tonight? You’re assuming that there will be a tonight,” she taunted, keeping the small smile off her face, “Why wait-“
 
 I raised an eyebrow, and her eyes widened, “Oh, you know **that** kind of magic?” she said, very intrigued by this possibility, “Alright, I suppose that’s worth waiting for.”
 
-She hopped off of me and stood up, stretching one side, then the other. 
+She hopped off of me and stood up, stretching one side, then the other.
 
 “Back to work?” I asked.
 
@@ -2703,11 +2613,11 @@ I took a seat in one of the comfy chairs by the fireplace and cracked open ‘Ba
 
 *Maybe it’s just my way of approaching a problem. Hell, I’ve probably spent more time in school than a lot of Mages my age or even older. Maybe they honestly don’t think of the same questions, though that does seem a rather arrogant assumption to make.*
 
-I read over the descriptions of both spells before starting on the symbol memorization for sound, and I immediately saw some possibilities. 
+I read over the descriptions of both spells before starting on the symbol memorization for sound, and I immediately saw some possibilities.
 
 Sound apparently was the auditory counterpart to Light, and the two spells together formed the basis for illusion magic. It was much like light, for 1 mana per minute I got a relatively small effect. For light it was candlelight, for Sound it was a quiet sound, whispers, a buzzing insect, something like that. For 2 mana I got a large effect, for Light it was torchlight, for Sound it was anything between a whisper and a distant shout. Probably not enough to deafen someone if I set it off right near their ear, but I bet it would be surprising as hell. Voices were apparently not an option though, which did mean my ventriloquist act idea was unworkable.
 
-Basic Illusion was the real prize though, this was something I could use on the road, as is, with no screwing around, to protect myself. I could make an illusory scene, ‘anything the caster may imagine’, with a volume of 1 cubic yard per mana I put into it. The preamble did mention that I couldn’t simply stretch out that 1 cubic yard into an impossibly thin sheet, but I had a decent amount of control over the dimensions, as long as the shape remained a rectangle of some sort. I could also move the illusion, though it mentioned that this took a great degree of concentration. 
+Basic Illusion was the real prize though, this was something I could use on the road, as is, with no screwing around, to protect myself. I could make an illusory scene, ‘anything the caster may imagine’, with a volume of 1 cubic yard per mana I put into it. The preamble did mention that I couldn’t simply stretch out that 1 cubic yard into an impossibly thin sheet, but I had a decent amount of control over the dimensions, as long as the shape remained a rectangle of some sort. I could also move the illusion, though it mentioned that this took a great degree of concentration.
 
 *I wonder if I can use this as a hacky invisibility spell, I guess it depends on how hard it is to move the illusion.*
 
@@ -2716,12 +2626,7 @@ I sat there for a while, learning Sound, and spinning my mana stone ring on my f
 -----
 
 
-# Oh this has not gone well - 14
-
-
-I’ve seen posts and had pms from a couple different people mentioning that I might consider a Patreon. I’m amazed that anyone is interested in my work enough to consider paying for it, but I went ahead and set one up . Honestly, I don’t really have anything to offer patrons right now other than my attention when brainstorming ideas, but I appreciate it all the same.
-
------
+# Chapter 14
 
 I ate dinner late that night, not only did I have a hard time pulling myself away from my book, but waiting until later meant that I could eat dinner with Thera once she was done working. I wasn’t quite sure where I stood with her, but I hadn’t gotten robbed or stabbed to death in my sleep, so I wasn’t about to complain. I probably should have thought of the risks ahead of time, but a dry spell can only go on for so long before a man must take drastic, foolish action.
 
@@ -2915,7 +2820,7 @@ She got up on tiptoe, grabbing me by the hair with one hand, to pull me down int
 
 I stayed in my room rather than venturing downstairs, I wasn’t sure what Thera had planned, but I wanted to be prepared so I wasn’t about to risk getting distracted. I should have known there would be trouble when I first told her about the spell, her eyes lit up like she with child-like wonder, except eviler. Especially when I mentioned that it might be possible to use the spell to turn someone invisible. *This might be a terrible idea.* I went ahead with my studies though, trusting that I had the self-control to say no if it seemed like she was going to try to coerce me into doing something I shouldn’t. *Is this the long con? But I didn’t even tell her about Basic Illusion until I started ‘testing’ some of my spells on her.*
 
-It took me some time, about twice as long as it had for the beginner spells, but I eventually got to the point where I could cast Basic Illusion. The first thing I tried to do with the spell was break it. The book had mentioned that there was a limit to how much you could stretch the 1 cubic yard of volume, but hadn’t given any specifics beyond mentioning that I couldn’t make it infinitely thin, and infinitely tall. I cast the spell, imagining a big stone cube floating in the air. It looked like a cubic yard of stone at least, but then I didn’t really have any way to measure it. I tried stretching it and bending the outer boundaries of the spell into different shapes, cubes and spheres were apparently fine, but if I tried anything more complicated I just ended up with whichever of the two was closer. I could stretch the shape into an ellipsoid or a rectangle, and I used bits of twine to measure just how much I could stretch it. The cube itself must have been 3 feet to a side so I used that as the baseline of my very professional twine-based measuring system. I didn’t have exact figures, but it looked like I could stretch the illusion into a rectangle that was a little less than one foot deep, three and a half feet wide, and a little over 8 feet tall. 
+It took me some time, about twice as long as it had for the beginner spells, but I eventually got to the point where I could cast Basic Illusion. The first thing I tried to do with the spell was break it. The book had mentioned that there was a limit to how much you could stretch the 1 cubic yard of volume, but hadn’t given any specifics beyond mentioning that I couldn’t make it infinitely thin, and infinitely tall. I cast the spell, imagining a big stone cube floating in the air. It looked like a cubic yard of stone at least, but then I didn’t really have any way to measure it. I tried stretching it and bending the outer boundaries of the spell into different shapes, cubes and spheres were apparently fine, but if I tried anything more complicated I just ended up with whichever of the two was closer. I could stretch the shape into an ellipsoid or a rectangle, and I used bits of twine to measure just how much I could stretch it. The cube itself must have been 3 feet to a side so I used that as the baseline of my very professional twine-based measuring system. I didn’t have exact figures, but it looked like I could stretch the illusion into a rectangle that was a little less than one foot deep, three and a half feet wide, and a little over 8 feet tall.
 
 *So I guess I should have enough space to make an illusion of a person then?*
 
@@ -2956,16 +2861,7 @@ And as it turned out, I was exactly right.
 -----
 
 
-# Oh this has not gone well - 15
-
-
-I’ve got a Patreon now .
-
-It’s a little late, but it’s also a little bigger.
-
-ALSO. IT’S CALLED ADMYPIA NOW. ARE YOU HAPPY NOW /u/q00u ? (but for srs, Admypia is way more pronounceable than Adympia)
-
------
+# Chapter 15
 
 I was exhausted, and could hear my ribs creaking under the enormous pressure, I was sure that something was going to break. Thera suddenly choked out a short, high scream, before crumpling forwards bonelessly. It was suddenly deathly quiet, and after gathering my strength I shoved Thera off of me and to the side.
 
@@ -2992,7 +2888,7 @@ This was why Thera was so interested in the applications of Basic Illusion, acco
 “Hey! What’s that supposed to mean?” I asked, a little indignantly.
 
 “Well, it’s just strange to have a man cooking for me. It’s actually kind of sweet.”
-	
+
 “What, do elven men just not cook?” I asked, *I suppose that fits with the Victorian/Greco-Roman theme that this world seems to follow.*
 
 “Some, but only if it’s their job. Cooks cook, and some innkeepers might man the stove once in a while, but there’s no way father would ever cook for us. Mother or one of the servants is always expected to do the cooking.”
@@ -3013,7 +2909,7 @@ Leaving the house ended up being more difficult than entering it, and that didn�
 
 I had originally planned on walking around a little, maybe find what passed for a church or temple here in Rhona, but the stares I was getting quickly changed my mind. It made me feel a little self-conscious, and while no one was going to stop me and tell me I couldn’t just walk around the city, I still felt rather awkward drawing so much attention. Instead I found one of the bookstores I’d been by earlier, and I poked around looking for a book on local religions. A book was probably a better option than stumbling around if I wanted some idea of the local religious beliefs anyway. I was not a particularly devout person, but I figured that I should probably have some idea of other people’s beliefs, it would be very easy for me to end up in trouble if I made some religious gaffe.
 
-I found a simple primer on the local religions, and headed back to The Anchor Chain to read. Aside from a bit of gambling, the book would give me something to do other than Thera. I realized, as I sat down in one of the comfy chairs by the fire, that I was really going to miss Thera. Our attraction had been almost entirely physical, and probably wouldn’t ever have become more than that, but I enjoyed her company and she was fun to talk to. 
+I found a simple primer on the local religions, and headed back to The Anchor Chain to read. Aside from a bit of gambling, the book would give me something to do other than Thera. I realized, as I sat down in one of the comfy chairs by the fire, that I was really going to miss Thera. Our attraction had been almost entirely physical, and probably wouldn’t ever have become more than that, but I enjoyed her company and she was fun to talk to.
 
 *Well, hopefully I’ll see her again once we’ve both made it to Nimre, even if we’re not going to pick up where we left off.*
 
@@ -3101,7 +2997,7 @@ He showed me below decks to an empty room that looked like it might have been me
 
 “Ah, they should be able to. But what’s a hammock?” He asked.
 
-“I’ll show you,” I said, taking the hammock out of my bag and stringing it between the two opposite walls. I pulled myself up into the hammock once I had it set up, luxuriating in the Quinn-sized sleeping accommodations. 
+“I’ll show you,” I said, taking the hammock out of my bag and stringing it between the two opposite walls. I pulled myself up into the hammock once I had it set up, luxuriating in the Quinn-sized sleeping accommodations.
 
 “I suppose that works,” he remarked.
 
@@ -3143,7 +3039,7 @@ I forced myself to relax, leaning against the railing *bulwark?* and putting on 
 
 I ran through my options as quickly as I could, knowing that the second the Admypians boarded the list would get a lot shorter. I didn’t come up with many escape plans. In fact, I came up with only one, and it was really terrible.
 
-I stayed where I was, leaning against the rail *unless it’s a bulwark* and waited as the Admypian ship pulled up alongside. I unzipped the front pocket of my coat, slipping my glasses inside as I watched while ropes were tied off on both ships. A gangplank was laid across the narrow gap left between the ships, and five men walked across. Now the Admypians looked Roman, no Greco- about it. The man, or should I say elf, at their head wore what looked just like the Roman armour I’d seen on the History channel. He had the stereotypical Roman helmet, though it had no plume, and the segmented plate armour that I was sure was called Lorica Sement-somthingorother. Except for the too-large eyes he was the very model of a Roman soldier. *Oh, he’ll do very nicely.* The other four wore the same Roman style of helmet as their leader, but had mail on instead of the heavier plate armour. It was probably lighter and easier to get out of, since swimming in that plate armour was probably not fun at all. 
+I stayed where I was, leaning against the rail *unless it’s a bulwark* and waited as the Admypian ship pulled up alongside. I unzipped the front pocket of my coat, slipping my glasses inside as I watched while ropes were tied off on both ships. A gangplank was laid across the narrow gap left between the ships, and five men walked across. Now the Admypians looked Roman, no Greco- about it. The man, or should I say elf, at their head wore what looked just like the Roman armour I’d seen on the History channel. He had the stereotypical Roman helmet, though it had no plume, and the segmented plate armour that I was sure was called Lorica Sement-somthingorother. Except for the too-large eyes he was the very model of a Roman soldier. *Oh, he’ll do very nicely.* The other four wore the same Roman style of helmet as their leader, but had mail on instead of the heavier plate armour. It was probably lighter and easier to get out of, since swimming in that plate armour was probably not fun at all.
 
 I saw the leader look dismissively towards Enutur, before approaching me with the other four soldiers in tow.
 
@@ -3171,7 +3067,7 @@ The soldiers didn’t seem to know what to make of it as Enutur counted out my m
 
 “What about my pay?” Enutur fretted.
 
-One of the soldiers threw a coin pouch at Enutur, hitting him in the face, and Enutur clutched at the money as he made his way a little quickly back to the safety of his crewmen. The soldiers then drew out a pair of manacles, a short chain connected the hand and foot restraints. *Shit.* 
+One of the soldiers threw a coin pouch at Enutur, hitting him in the face, and Enutur clutched at the money as he made his way a little quickly back to the safety of his crewmen. The soldiers then drew out a pair of manacles, a short chain connected the hand and foot restraints. *Shit.*
 
 “Really, am I going to run away?” I asked sarcastically.
 
@@ -3195,13 +3091,13 @@ It was a little unsteady, since each end of the gangplank was rising and falling
 
 I think he had probably been ready for me to try to pull away from him, but catching him off balance, and pushing towards instead of pulling away caught him by surprise. He tried to stay on his feet, his shorter stature and lower centre of gravity helping a lot, and he almost made it. Almost didn’t cut it though, and we both tumbled into the water between the ships. I managed to control the fall enough that he landed under me in the water, and I went out of my way to try to boot him in the abdomen when I landed on him. I was rewarded with a **whoof** as the air was knocked out of him right before his head went under, and I pushed away quickly to stop him from grabbing at my legs. I ended up under the surface as well, but where I’d been ready for it, he hadn’t and was now entirely out of breath. I could see him foundering in the murky water, trying to swim to the surface and unbuckle his armour at the same time. I surfaced, and could immediately hear the chaos I’d started above. The four soldiers were shouting conflicting commands, and I could hear more voices on both ships shouting back. I looked over at where the leader had ended up, and I could see the odd flailing limb breach the surface. I took in a huge breath, and dove.
 
-It was not easy, swimming with both hands tied. But I managed a modified doggy paddle, the weight didn’t help a whole lot, but it did make it easier to stay under the surface as I swam under the Admypian ship. Both crews would be distracted by the man in the water, so I only needed to stay below the surface long enough to get clear of the immediate area. If I stayed below water not only would they lose track of me, they might even think that I’d drowned, dragged to the bottom by the manacles. 
+It was not easy, swimming with both hands tied. But I managed a modified doggy paddle, the weight didn’t help a whole lot, but it did make it easier to stay under the surface as I swam under the Admypian ship. Both crews would be distracted by the man in the water, so I only needed to stay below the surface long enough to get clear of the immediate area. If I stayed below water not only would they lose track of me, they might even think that I’d drowned, dragged to the bottom by the manacles.
 
-I managed to swim all the way under the Admypian ship, it had a surprisingly shallow draft, and I kicked as hard as I could towards, what I hoped was, the shore. It felt like I had spent an hour swimming under the water, but it couldn’t have been more than thirty seconds. I surfaced, being careful not to inhale any water along with the much needed air. I rolled onto my back, just buoyant enough to stay above water, and kicked away from the ships. I could see that they were still tied together and from the look of the figures moving around on the decks they were in total chaos. I wasn’t sure if they’d pulled their man out of the water or not, but thankfully I didn’t see anyone looking in my direction as I kicked towards shore.  I slowed my pace a little once I decided that I was clear of the ships. It would be no good to exhaust myself, and I had quite a ways to go. The shore hadn’t quite been on the horizon as we were traveling, but that only meant that it was three or four miles away, instead of five or six. 
+I managed to swim all the way under the Admypian ship, it had a surprisingly shallow draft, and I kicked as hard as I could towards, what I hoped was, the shore. It felt like I had spent an hour swimming under the water, but it couldn’t have been more than thirty seconds. I surfaced, being careful not to inhale any water along with the much needed air. I rolled onto my back, just buoyant enough to stay above water, and kicked away from the ships. I could see that they were still tied together and from the look of the figures moving around on the decks they were in total chaos. I wasn’t sure if they’d pulled their man out of the water or not, but thankfully I didn’t see anyone looking in my direction as I kicked towards shore.  I slowed my pace a little once I decided that I was clear of the ships. It would be no good to exhaust myself, and I had quite a ways to go. The shore hadn’t quite been on the horizon as we were traveling, but that only meant that it was three or four miles away, instead of five or six.
 
 *Just think of it as a hundred laps of the pool.*
 
-I’d done plenty of swimming along with all the biking and running, I had even done a hundred laps in a single session before, but I’d never done it with my hands tied. I’d known it was a stupid plan when I first thought of it, and I only became more certain of that as I swam. The tide was going in, which did help a little, unfortunately it also meant that the closer I got to shore the more waves there were crashing over my face. I managed to avoid inhaling any water, but the whole time I swam I was sure that I was about a second away from a watery grave. I managed to get through the breakers, avoid any under tow currents, and get to shore. I was gasping and sputtering as I tried to get my feet under me, waves crashing into me and knocking me flat each time I pulled myself up. My legs felt like they were made of lead, and I barely had enough coordination to crawl out of the surf. I did it though, dragging myself out of the sea and clear of the waves. 
+I’d done plenty of swimming along with all the biking and running, I had even done a hundred laps in a single session before, but I’d never done it with my hands tied. I’d known it was a stupid plan when I first thought of it, and I only became more certain of that as I swam. The tide was going in, which did help a little, unfortunately it also meant that the closer I got to shore the more waves there were crashing over my face. I managed to avoid inhaling any water, but the whole time I swam I was sure that I was about a second away from a watery grave. I managed to get through the breakers, avoid any under tow currents, and get to shore. I was gasping and sputtering as I tried to get my feet under me, waves crashing into me and knocking me flat each time I pulled myself up. My legs felt like they were made of lead, and I barely had enough coordination to crawl out of the surf. I did it though, dragging myself out of the sea and clear of the waves.
 
 I crumpled forwards onto the ground, and managed to roll onto my side. I lay there gasping, noticing for the first time that the manacles had cut up my wrists. They did not fit well, and with the other half hanging loose they’d been jerked around by the current and the waves as I neared the shore. *Something about the multitool, need to get these off.* I was so exhausted that I could barely think straight, and I felt a stab of panic before I remembered that my glasses were in my pocket, and not lost to the sea.
 
@@ -3210,18 +3106,7 @@ I crumpled forwards onto the ground, and managed to roll onto my side. I lay the
 *Oh for fucks sake.*
 
 
-# Oh this has not gone well - 16
-
-
-I’ve got a Patreon now .
-
-I made another poll:  JUST TELL ME WHAT TO DO. PLEASE.
-
-I had to cut this one a little short. I might post the rest of what was supposed to be here tomorrow, but no promises.
-
------
-
------
+# Chapter 16
 
 I crumpled forwards onto the ground, and managed to roll onto my side. I lay there gasping, noticing for the first time that the manacles had cut up my wrists. They did not fit well, and with the other half hanging loose they’d been jerked around by the current and the waves as I neared the shore. *Something about the multitool, need to get these off.* I was so exhausted that I could barely think straight, and I felt a stab of panic before I remembered that my glasses were in my pocket, and not lost to the sea.
 
@@ -3233,7 +3118,7 @@ I crumpled forwards onto the ground, and managed to roll onto my side. I lay the
 
 I managed to haul myself up onto my knees, and saw three blurry figures spread out along the beach. I sighed heavily, and I pulled open my chest pocket, withdrawing my glasses. I slipped them on, and seeing things clearly did not make me feel any better. In the centre was an elf woman wearing a self-satisfied smile, and she seemed short even for a member of her specifies. Even kneeling as I was, we were nearly at eye level. She wore a dress of light blue silk, and over the dress was something that looked like a hybrid between a shawl and a cloak it was made of a coarser material, but dyed a rich green. Her gold hair was up in a bun, held in place with a pair of jade hairpins. The two other figures on the beach were women as well, though they wore the same style of segmented plate armour as the man I’d booted into the sea. Both had silver hair up in a bun, though their hairpins seemed to be wood rather than jade, and they each had a helmet tucked under one arm. They were both fairly large for elven women, maybe five and a half feet tall, and judging from the similarities the two were probably sisters. They were spread out widely on the beach, not quite surrounding me, but ready to move if I tried anything.
 
-“This is not fair,” I said, with equal parts exhaustion and exasperation, “How could you even notice me in the water?” 
+“This is not fair,” I said, with equal parts exhaustion and exasperation, “How could you even notice me in the water?”
 
 She pursed her lips, and pointed behind me. I turned, to see the two ships I’d left in a rather poor state. It seems that I’d underestimated the amount of chaos I’d caused by throwing the leader off the gangplank. The two ships were twisting around each other, but some of the ropes tying them together must have snapped or come loose, because they weren’t side by side anymore. Instead the prow of the Admypian trireme was buried in the side of Enutur’s mail carrier, and that side of the mail carrier had been smashed in. The two ships were still afloat, but neither would be fit to sail any time soon.
 
@@ -3245,11 +3130,11 @@ I looked up and down the beach, considering. To the east was the city, less than
 
 I looked down at my bloody wrists, seriously considering a run for it, regardless of how hopeless it would be. But as much as I hated the thought of being a slave, I wasn’t really the sort for bloody last stands. It probably wouldn’t go down like that anyway, the soldiers would be far more likely to club me over the head than stab me through the back, and then I’d still be captured. *It fucking kills me to do it, but I need to play along.*
 
-“Oh it’s not so bad,” she said as she walked towards me, “You’ll have a far better life with me, than you’d have wherever you were going.” 
+“Oh it’s not so bad,” she said as she walked towards me, “You’ll have a far better life with me, than you’d have wherever you were going.”
 
 “Come on,” she said gently, taking hold of my forearms and helping me up. *So were going for induced Stockholm Syndrome then.*
 
-I got my feet under me, and she took a surprised step back when she realized just how big I was. She couldn’t have been more than four and a half feet tall, and her soldiers edged a little closer when they saw her reaction. She gathered herself quickly, and waved them back. She stepped in close to me, and withdrew a crude key from her pocket. *Don’t try to strangle her Quinn, remember, we’re playing along. No strangling people. Yet.* She was very gentle as she unlocked the manacles, making sure not to aggravate my wounds, and she dropped the rough iron chains into the sand. 
+I got my feet under me, and she took a surprised step back when she realized just how big I was. She couldn’t have been more than four and a half feet tall, and her soldiers edged a little closer when they saw her reaction. She gathered herself quickly, and waved them back. She stepped in close to me, and withdrew a crude key from her pocket. *Don’t try to strangle her Quinn, remember, we’re playing along. No strangling people. Yet.* She was very gentle as she unlocked the manacles, making sure not to aggravate my wounds, and she dropped the rough iron chains into the sand.
 
 “Come along, we’ll get you cleaned up,” she said, in the same sort of voice you might use with a skittish horse.
 
@@ -3277,7 +3162,7 @@ I held out my arms and she tended to my wounds, using some sort of strong grain 
 
 *Rest up, get out under cover of illusion, and then book it for the border.*
 
-I felt a little surer of myself now that I had a clear idea of how to deal with my imminent enslavement. The best antidote to fear is information, and having a plan went a long way to dispelling any feelings of hopelessness or helplessness. 
+I felt a little surer of myself now that I had a clear idea of how to deal with my imminent enslavement. The best antidote to fear is information, and having a plan went a long way to dispelling any feelings of hopelessness or helplessness.
 
 Once Chypia was done cleaning out the wounds she wrapped up my wrists in clean bandages. I just leaned against the side of the carriage, exhausted and soaked. *Everything is sitting back on that damn ship. If Enutur tries to sell my things in Admypia while he’s getting the ship repaired someone might discover the spellbook, I need to get the hell out of here as fast as possible.*
 
@@ -3295,7 +3180,7 @@ I forced myself to play along, and I ducked into the carriage. I leaned my head 
 
 “She’s the first I’ve seen here,” I replied, “it’s not so strange where I come from, though men still make up the bulk of the military.”
 
-“Oh?” Chypia asked, smiling, “Just where are you from?” 
+“Oh?” Chypia asked, smiling, “Just where are you from?”
 
 “Canada,” I sighed.
 
@@ -3311,7 +3196,7 @@ She seemed taken aback, “You know, most men usually try to sell themselves a l
 
 “Well actually I’m pretty sure that the guys who were trying to sell me are on their way to the bottom of the bay,” I said wryly, jabbing a thumb out the window.
 
-“Fine,” she said, biting off a quick laugh, “You said you went to university? You’re educated then?” And I could see the wheels turning in her head. 
+“Fine,” she said, biting off a quick laugh, “You said you went to university? You’re educated then?” And I could see the wheels turning in her head.
 
 It was clear that I was going to get put to work doing something, so I might as well aim for something that would make escape easier.
 
@@ -3323,7 +3208,7 @@ It was clear that I was going to get put to work doing something, so I might as 
 
 “I suppose,” I hedged.
 
-Chypia was about to respond, but was distracted as the carriage stopped. I could hear voices outside, and guessed that we’d reached the city gates. 
+Chypia was about to respond, but was distracted as the carriage stopped. I could hear voices outside, and guessed that we’d reached the city gates.
 
 She pulled aside the shutter, “Guardsmen?” She called.
 
@@ -3406,12 +3291,7 @@ I was rather lost in thought, when the door suddenly opened and one of the girls
 -----
 
 
-# Oh this has not gone well - 17
-
-
-I’ve got a Patreon now .
-
------
+# Chapter 17
 
 I got out of the bath a little while later, clean and dry, and I picked up the clothes left out for me. There was a silk tunic, the same light blue colour as Chypia’s dress had been, and it was belted with a green silk rope. I stepped out of the bathroom, and into the large and luxurious bedroom beyond. Chypia was sitting on the bed, and had what remained of my things laid out next to her on a towel. She patted the bed next to her, and I sat down rebelliously. It was like sitting down obediently, except I was thinking rebellious thoughts as I did it.
 
@@ -3497,7 +3377,7 @@ She undid the bandages on both arms, revealing my injured wrists. Now that they�
 
 “Mmm, can’t have these leaving nasty scars on my new trophy,” she murmured as she rubbed the salve onto the wounds.
 
-I inhaled sharply as the salve was applied, it stung like hell, but I could also see the wounds closing cleanly right before my eyes. *Damn. I need me some healing magic.* Once the wounds were done closing she took the damp cloth and cleaned off the excess salve. I examined my arms to find that there was absolutley no trace of any injury, no scar, no scab, not even any redness. 
+I inhaled sharply as the salve was applied, it stung like hell, but I could also see the wounds closing cleanly right before my eyes. *Damn. I need me some healing magic.* Once the wounds were done closing she took the damp cloth and cleaned off the excess salve. I examined my arms to find that there was absolutley no trace of any injury, no scar, no scab, not even any redness.
 
 Then she snapped a cuff onto each wrist. *Be calm, play along. You can get these off later.*
 
@@ -3533,9 +3413,9 @@ She held out an open hand, though didn’t speak, and I placed the knife into he
 
 She left, and as soon as the door closed I padded over as quickly and quietly as possible. I put my ear to the door and listened. I didn’t hear any eye opening conversation between Chypia and her guards, but I did hear three sets of footsteps walking away. I considered bolting immediately, but I was pretty sure that I would only get one shot at this. I didn’t know enough about how Adympia kept track of their slaves to risk a run for the gate, and the cuffs were kind of a giveaway if I tried to talk my way out. Basic Illusion was also out of the question until I could determine what kind of countermeasures they had in place over the gates to stop exactly the sort of thing I wanted to try.
 
-I sat back down on the bed, and examined the cuffs. They were both gold, which I supposed was some rank of status. *Something something small favours.* And I was fairly sure that they were solid gold, though the cuffs weren’t very thick. There was silk padding on the inside of the cuffs, though these would still start to chafe eventually. 
+I sat back down on the bed, and examined the cuffs. They were both gold, which I supposed was some rank of status. *Something something small favours.* And I was fairly sure that they were solid gold, though the cuffs weren’t very thick. There was silk padding on the inside of the cuffs, though these would still start to chafe eventually.
 
-*I could get through these things with a metal file in rather short order.* 
+*I could get through these things with a metal file in rather short order.*
 
 *Unless these are magic too… Do I cast Detect Magic on them?* It was risky, on the one hand they might carry an enchantment to start setting off alarms if someone tried to magic them, but on the other hand they might need to check up on any magical enchantments that might exist. I decided to risk it, perhaps foolishly, but I figured that they’d only put the magical countermeasures on restraints meant specifically for mages. As far as I knew mages were rare, and probably rarer in Adympia since most mages with any mobility would get the hell out as quickly as possible, so they probably *hopefully* wouldn’t be throwing complicated enchantments on every damn thing.
 
@@ -3545,7 +3425,7 @@ I went for it, casting Detect Magic, and I’d be lying if I said that I wasn’
 
 They didn’t, which was nice.
 
-But my antics distracted me as the spell went off, and had to recast the damn thing to actually get the reading on the cuffs. The cuffs were magical, and the spell informed me that the type of magic was ‘Abjuration’, but the spell didn’t give me any idea of the magnitude of the enchantment. 
+But my antics distracted me as the spell went off, and had to recast the damn thing to actually get the reading on the cuffs. The cuffs were magical, and the spell informed me that the type of magic was ‘Abjuration’, but the spell didn’t give me any idea of the magnitude of the enchantment.
 
 *No  ‘Detection’ or any detecty sounding words, so I guess I’m safe?*
 
@@ -3561,7 +3441,7 @@ I poked around the bedroom, hoping to find convenient secret passages or hidden 
 
 -----
 
-There was a knock on the door an hour or so later, “Enter,” I called. 
+There was a knock on the door an hour or so later, “Enter,” I called.
 
 The two servants from before entered, *Pasa and Aris?* bearing trays with fancy covered dishes. I was sitting at the desk in the room, reading the book I’d found and I pushed it aside to give them room to set down the trays. They lifted off the covers, and oh dear god, the food was amazing. There was a steak, an actual steak, and there might have been some vegetables, but I was distracted by the steak. To go along with the steak was a tall glass of what looked and smelled like beer which was a nice touch, though I’d never really been very fond of beer. I cut into the steak and took a bite, it was a little rarer than I usually got my steak, but it was still fantastic.
 
@@ -3601,13 +3481,13 @@ I looked between the two of them, and they both seemed eager and willing, but as
 
 *Dye job? But who dyes someone’s skin? That’s one hell of a way to display ownership of a person though, and Chypia does seem fond of blue and green. Shame that neither of them is red.*
 
-I sighed, I was doing a lot of that lately, “You then,” I said, nodding towards Aris. 
+I sighed, I was doing a lot of that lately, “You then,” I said, nodding towards Aris.
 
-Pasa looked a little crestfallen, but Aris jumped up, arms up in the air as if she’d just won some contest. 
+Pasa looked a little crestfallen, but Aris jumped up, arms up in the air as if she’d just won some contest.
 
 “Yes! Now shoo, shoo,” Aris said, as she swept Pasa out of the room.
 
-I watched the antics as I ate my steak, not sure what I’d need to contend with once I was alone with Aris. Thankfully I didn’t get leapt on immediately, but she hovered by my elbow, eyeing me as I ate. 
+I watched the antics as I ate my steak, not sure what I’d need to contend with once I was alone with Aris. Thankfully I didn’t get leapt on immediately, but she hovered by my elbow, eyeing me as I ate.
 
 “Aris,” I started.
 
@@ -3711,22 +3591,17 @@ I sighed, “Yeah, I guess.”
 
 
 
-# Oh this has not gone well - 18
+# Chapter 18
 
-
-I’ve got a Patreon now .
-
------
-
-I was standing in the doorway to the library, leaning on the doorframe, watching Quinn work. I’d told him what I expected of him, but I wasn’t quite prepared to handle what I’d unleashed when I showed him some of my ledgers. He initially seemed confused when he started flipping through them, and I was worried that he wasn’t quite as learned as I’d thought, but then confusion turned to anger, and anger turned to disgust. 
+I was standing in the doorway to the library, leaning on the doorframe, watching Quinn work. I’d told him what I expected of him, but I wasn’t quite prepared to handle what I’d unleashed when I showed him some of my ledgers. He initially seemed confused when he started flipping through them, and I was worried that he wasn’t quite as learned as I’d thought, but then confusion turned to anger, and anger turned to disgust.
 
 He began some sort of explanation about something called ‘positional numbering systems’ while he started to pull out the rest of my ledgers and flip through them. This might have been the first steward or scribe I’d ever had that approached accounting with such fervour. I couldn’t understand half of what he was saying, but wasn’t about to let him know that so I nodded along with him, letting him know that I had other business to handle and that I’d check in on him later.
 
-At some point between then and now he’d roped in both of my scribes, and seemed to be browbeating the two of them into learning his new numbering symbols. Whether I understood what he was saying or not, it was impressive to watch. The more I heard him speak, especially to the other servants, the more I came to the conclusion that he was not some simple merchant’s son. It was like watching a nobleman holding court, or a general briefing his officers. 
+At some point between then and now he’d roped in both of my scribes, and seemed to be browbeating the two of them into learning his new numbering symbols. Whether I understood what he was saying or not, it was impressive to watch. The more I heard him speak, especially to the other servants, the more I came to the conclusion that he was not some simple merchant’s son. It was like watching a nobleman holding court, or a general briefing his officers.
 
 He’d found a chalkboard somewhere, and was gibbering something about “The concept of zero” while the two scribes looked on with an expression that made me think they doubted Quinn’s sanity. Oh, and poor Aris. She was sitting in a chair near Quinn with her knees pulled up to her chest, and she had a very wide-eyed expression as her gaze darted between Quinn and his chalkboard. She was a dear, but if I had a hard time understanding what Quinn was going on about then Aris was truly lost.
 
-Quinn’s self-confidence and commanding attitude was an asset in a steward, I certainly didn’t want to spend my time micromanaging the servants, but the same commanding attitude that made him a good steward made him a bad toy. It was the same dilemma I had with his body, he was a huge and delicious piece of meat, but if he decided that he didn’t want me ‘playing’ with him then there wouldn’t be much I could do to stop him from hurting me. 
+Quinn’s self-confidence and commanding attitude was an asset in a steward, I certainly didn’t want to spend my time micromanaging the servants, but the same commanding attitude that made him a good steward made him a bad toy. It was the same dilemma I had with his body, he was a huge and delicious piece of meat, but if he decided that he didn’t want me ‘playing’ with him then there wouldn’t be much I could do to stop him from hurting me.
 
 This was why I’d set Aris the task of taming him. If Quinn had his own toys to play with then he might be a little bit more grateful in the future. It was always a slow process to convert a new slave to my side, but it was always more rewarding to make a slave **want** to obey, than it was to beat them into submission. Pasa and Aris were proof of that, it had taken years to meld them into the slaves they were today, but I’d never have been able to get results anything like this if I’d tried more brutal methods. It was much the same with Quinn, there was no point in trying to whip him into submission, when I wanted a giant sized plaything to hold me close in the middle of the night.
 
@@ -3760,7 +3635,7 @@ I frowned, “Aris, do you think…” I trailed off, what good would Quinn be a
 
 “Alright, well I leave it in your capable hands then Aris,” I said, patting her cheek.
 
-“Yes m’Lady,” she said, a bit more cheerful now. 
+“Yes m’Lady,” she said, a bit more cheerful now.
 
 I shooed her along, and she returned to tending to Quinn. I growled once she was gone, bringing one closed hand down on the shelf next to me.
 
@@ -3768,7 +3643,7 @@ I shooed her along, and she returned to tending to Quinn. I growled once she was
 
 -----
 
-I spent the rest of the day curled up in the chair, watching Quinn try to teach the others his new numbering system. He didn’t seem to be getting through to them, especially since Erilon seemed insulted when Quinn said that his numbers were better than Erilon’s numbers. 
+I spent the rest of the day curled up in the chair, watching Quinn try to teach the others his new numbering system. He didn’t seem to be getting through to them, especially since Erilon seemed insulted when Quinn said that his numbers were better than Erilon’s numbers.
 
 “I’ve been serving our Lady for over sixty years, you’ve been here for only two days and you think you know this material better than we do?” Erlion said angrily.
 
@@ -3840,7 +3715,7 @@ Quinn seemed a little surprised at the change in attitude, but seemed to take it
 
 “You’re right about Pasa and Aris, but this is something we will speak on at a later time,” Lady Chypia said, the thought of her sister had clearly shaken her, “Enjoy your meal Quinn.”
 
-Lady Chypia stood up, leaving most of her meal uneaten. Pasa glanced at me before leaving with her. Lady Chypia likely didn’t want to cry in front of Quinn. 
+Lady Chypia stood up, leaving most of her meal uneaten. Pasa glanced at me before leaving with her. Lady Chypia likely didn’t want to cry in front of Quinn.
 
 Quinn looked to me, seeming a little worried, “Should I not have suggested…” he trailed off.
 
@@ -3872,7 +3747,7 @@ Quinn seemed to understand, “And as Lord Nusalvo was digging around for dirt o
 
 I woke up in the library, to find it completely empty. I was laying on the couch with a pillow under my head, and a couple of blankets covering me. Quinn had packed up all the books he’d been reading and gone to bed it seemed. I looked at the clock, it was nearly ten at night, and we’d been here since Quinn finished lunch. I guess I’d fallen asleep at some point, and Quinn had done his best to make me comfortable. I sat up, pushing the blankets aside. I still had work to do on him, and I wanted to get him used to me sleeping in the same room as him. Hopefully I’d be able to work up to the same bed at some point.
 
-I padded though the quiet halls of Lady Chypia’s manor, everyone else had already gone to bed, until I found Quinn’s room. I put an ear to the door, and could hear someone moving around. I opened the door quietly, hoping to catch Quinn of guard by walking in while he was half dressed. His hair was still wet from the bath, and he didn’t have a shirt on and seemed to be trying to stretch out his back, I appreciated the show. He looked up when he saw me, but didn’t seem embarrassed by his undress, *damn.* 
+I padded though the quiet halls of Lady Chypia’s manor, everyone else had already gone to bed, until I found Quinn’s room. I put an ear to the door, and could hear someone moving around. I opened the door quietly, hoping to catch Quinn of guard by walking in while he was half dressed. His hair was still wet from the bath, and he didn’t have a shirt on and seemed to be trying to stretch out his back, I appreciated the show. He looked up when he saw me, but didn’t seem embarrassed by his undress, *damn.*
 
 “I guess you’re not going to let me get away with letting you sleep on the couch,” he said, sighing.
 
@@ -3892,7 +3767,7 @@ I sighed and looked down dejectedly, trying to earn as many sympathy points as p
 
 He still seemed unsure, but nodded, “Okay. But you be careful where you put your hands,” he warned, though he was smiling a little.
 
-I got him down onto the bed, and climbed up onto his back. There was a lot of Quinn laid out on that bed, and I set to work. He seemed to be making an effort to remain quiet, but I managed to get some contented groans out of him. I didn’t blame him, his back muscles were all tense and knotted up, and I took as much time as I could kneading and rubbing with my hands. I was worried that I’d find myself back in the servants bed once I was done, but It turned out that I didn’t need to worry. I was in the middle of going over his back for a second time, just to drag things out as much as possible, when I noticed that I’d put him right to sleep. 
+I got him down onto the bed, and climbed up onto his back. There was a lot of Quinn laid out on that bed, and I set to work. He seemed to be making an effort to remain quiet, but I managed to get some contented groans out of him. I didn’t blame him, his back muscles were all tense and knotted up, and I took as much time as I could kneading and rubbing with my hands. I was worried that I’d find myself back in the servants bed once I was done, but It turned out that I didn’t need to worry. I was in the middle of going over his back for a second time, just to drag things out as much as possible, when I noticed that I’d put him right to sleep.
 
 I smiled, *perfect.*
 
@@ -3903,14 +3778,7 @@ I was very careful, pulling the blankets up over his back, and slipping under hi
 
 Pancakes, PSYCH. But srsly, I did kinda feel like this deserved the NSFW considering the rest of what was discussed.
 
-# Oh this has not gone well - 19
-
-
-I’ve got a Patreon now .
-
-This one’s rather short, next one should be back to normal size though.
-
------
+# Chapter 19
 
 Quinn
 
@@ -3920,7 +3788,7 @@ I woke to sound of birds chirping outside, and I could feel a small, lithe form 
 
 “Mmm, Thera?” I murmured sleepily.
 
-“Who’s Thera?” 
+“Who’s Thera?”
 
 I started awake, and looked down to see that it was Aris curled up against me.
 
@@ -3940,7 +3808,7 @@ She got dressed, right in the middle of the room, and I’d be lying if I said t
 
 *If I can kill Nusalvo and free Concia I’ll do it, but priority one is get the fuck out of here.*
 
-I looked at my watch. 
+I looked at my watch.
 
 *June-24, so… 175 days since I arrived. I should have been arriving in Nimre right about now. I’ve still got roughly eighty days until the deadline, I can do this.*
 
@@ -3948,7 +3816,7 @@ There was a knock on the door that jerked me back to reality, and I got out of t
 
 -----
 
-I had breakfast in my room, with Aris, who apperantly wasn’t going to let me out of her sight for very long. I spent the morning going over Lady Chypia’s ledgers, copying them from the pseudo-Roman numerals into a more sane decimal notation. The hardest part was deciphering the damned things, it wasn’t as simple as a column of numbers, and it took some work to figure out what the hell each number was supposed to be so I could copy it out properly into a fresh ledger. 
+I had breakfast in my room, with Aris, who apperantly wasn’t going to let me out of her sight for very long. I spent the morning going over Lady Chypia’s ledgers, copying them from the pseudo-Roman numerals into a more sane decimal notation. The hardest part was deciphering the damned things, it wasn’t as simple as a column of numbers, and it took some work to figure out what the hell each number was supposed to be so I could copy it out properly into a fresh ledger.
 
 Chypia came in a little before lunch to see how I was doing, I think that Cusole and Erlion might have complained to her. She stood beside me, one hand on the back of my chair. Even sitting down as I was, we were at eye level.
 
@@ -4049,12 +3917,7 @@ It took over a week to assemble all of the tools and equipment I’d need for my
 *We’re gonna need a…* ***montage.***
 
 
-# Oh this has not gone well - 20
-
-
-I’ve got a Patreon now .
-
------
+# Chapter 20
 
 Lady Chypia
 
@@ -4064,7 +3927,7 @@ Lady Chypia
 
 “No m’Lady, Aris might be able to explain it better since she’s been sitting and watching almost constantly, but nothing he’s made so far looks very much like a weapon either,” she said, stiffly as ever.
 
-“I’m not disparaging your abilities Enes, but are you sure? He might be familiar with weapons that are entirely foreign to us, he is an outsider after all.” 
+“I’m not disparaging your abilities Enes, but are you sure? He might be familiar with weapons that are entirely foreign to us, he is an outsider after all.”
 
 “Yes, Aris and I have been keeping a close eye on him. I’ve made sure to go out with the two of them whenever Quinn leaves to gather more materials. Aris has also been with nearly every second of every day since she started serving him, and unless she’s told you differently he’s not been smuggling anything else in,” she reported, “We might just ask Quinn, he seems eager to show off the things he’s making, even if what he’s making doesn’t seem to make much sense to anyone but himself.
 
@@ -4072,15 +3935,15 @@ Lady Chypia
 
 “Thank you m’Lady,” she replied, no less stiffly than before.
 
-Enes fell in behind me as I went to check on Quinn. 
+Enes fell in behind me as I went to check on Quinn.
 
 -----
 
-I stepped into the little workshop, and was rather amused by what I found. Aris was curled up on one of the chairs, peeking over the backrest and looking towards where Quinn was standing. He was facing towards the far end of the room where he’d set several of my ledgers on the shelf that ran along the wall, and he was holding a long tube to his mouth. 
+I stepped into the little workshop, and was rather amused by what I found. Aris was curled up on one of the chairs, peeking over the backrest and looking towards where Quinn was standing. He was facing towards the far end of the room where he’d set several of my ledgers on the shelf that ran along the wall, and he was holding a long tube to his mouth.
 
 *My ledgers? What in the world…*
 
-Quinn took a deep breath, then there was a hiss of air, and a ‘thwippp’ sound as a shiny bronze dart suddenly sprouted from the cover of one of my ledgers. 
+Quinn took a deep breath, then there was a hiss of air, and a ‘thwippp’ sound as a shiny bronze dart suddenly sprouted from the cover of one of my ledgers.
 
 “Quinn…” I said quietly, “Are those my ledgers?”
 
@@ -4208,7 +4071,7 @@ He did as he was told, and I wrapped my arms tightly around his neck as I was li
 
 “Yes m’Lady.”
 
-Quinn carried me into my bedroom, and as planned Pasa was elsewhere. Moonlight and a cool breeze streamed in through massive windows, and Pasa had left several candles burning before she’d left. 
+Quinn carried me into my bedroom, and as planned Pasa was elsewhere. Moonlight and a cool breeze streamed in through massive windows, and Pasa had left several candles burning before she’d left.
 
 “Set me down on the bed,” I instructed.
 
@@ -4232,7 +4095,7 @@ Quinn’s hands found my hips, and the almost circled my narrow waist. I put my 
 
 “Mmmaanghhh- Ohh Verrin, Ohh Q-Quinn,” I gasped out, “Hhh-Ohhhh”
 
-I held on as best I could. My toes curled almost painfully, and my back arched as I dragged my fingernails across Quinn’s chest. I fell forwards limply, unable to hold myself up anymore. It seemed that Quinn wasn’t quite done with me though, and he wasn’t about to let it end. His grip tightened on my waist, and it was his turn to lift me up and down, up and down, over and over and over and- *Oh Verrin!* It was almost overwhelming, and I clawed weakly at his chest and shoulders as he did as he pleased with my body. 
+I held on as best I could. My toes curled almost painfully, and my back arched as I dragged my fingernails across Quinn’s chest. I fell forwards limply, unable to hold myself up anymore. It seemed that Quinn wasn’t quite done with me though, and he wasn’t about to let it end. His grip tightened on my waist, and it was his turn to lift me up and down, up and down, over and over and over and- *Oh Verrin!* It was almost overwhelming, and I clawed weakly at his chest and shoulders as he did as he pleased with my body.
 
 I **wanted** him so much, and I found myself biting at his chest. My teeth found his collar bone and I latched on. I was sure that I was being too rough, and that in a second my mouth would be full of the taste of blood, but I did **not** care.
 
@@ -4246,7 +4109,7 @@ I woke several hours later, as the sun rose to light the large bedroom. I found 
 
 I did feel slightly sorry for him though. I had not been gentle with him, and while I didn’t taste blood in my mouth, the bite marks would take some time to heal. I could already see dark bruises forming where I’d bitten him. For a moment I considered getting the jar of healing salve from my bureau, but eventually decided against it. He was going to feel every twinge of pain, the tenderness where he’d bruised, the stinging as his clothes rubbed against the scratches, and remember just who owned him.
 
-There was one mark though, that was out of place. A long scar, running from just under one pectoral, and down to the corner of his hip. It had been closed properly, though crudely, I could see the crisscrossing marks that had been left by the stitches. The scar was a livid, puckered, red line. I’d need to have that healed properly. I couldn’t have him bearing marks left by another, and it was the one ugly mark on an otherwise beautiful specimen. I traced one finger along the scar, it looked to have been left by some sort of blade, there was surely a story there. Quinn twinged slightly as I traced the scar down to his hip, it seemed that he was a little ticklish. He stirred awake, and rubbed at his eyes. 
+There was one mark though, that was out of place. A long scar, running from just under one pectoral, and down to the corner of his hip. It had been closed properly, though crudely, I could see the crisscrossing marks that had been left by the stitches. The scar was a livid, puckered, red line. I’d need to have that healed properly. I couldn’t have him bearing marks left by another, and it was the one ugly mark on an otherwise beautiful specimen. I traced one finger along the scar, it looked to have been left by some sort of blade, there was surely a story there. Quinn twinged slightly as I traced the scar down to his hip, it seemed that he was a little ticklish. He stirred awake, and rubbed at his eyes.
 
 “You are very demanding of your servants m’Lady,” he said, by way of greeting.
 
@@ -4285,22 +4148,15 @@ It took nearly an hour longer than usual for me to finally stumble out of the ba
 -----
 
 
-# Oh this has not gone well - 21
-
-
-I’ve got a Patreon now .
-
-I’d originally thought that I’d need to skip tonight’s post, but thankfully I’m not quite so busy as I thought I’d be.
-
------
+# Chapter 21
 
 Quinn
 
 -----
 
-The more I thought about it, the more I realized how terrible an idea it was to let Lady Chypia ‘seduce’ me. I’d thought that it would be a good way to get her to trust me, after all, if she thought that I was well in hand then she’d not be keeping as close an eye on me. And to some extent, that was true. The difference was clear, and immediate, I had more or less free reign in the grounds of the manor. No longer was Aris following me around all the time, and when I was working in the little workshop I’d set up I didn’t have Enes watching constantly. 
+The more I thought about it, the more I realized how terrible an idea it was to let Lady Chypia ‘seduce’ me. I’d thought that it would be a good way to get her to trust me, after all, if she thought that I was well in hand then she’d not be keeping as close an eye on me. And to some extent, that was true. The difference was clear, and immediate, I had more or less free reign in the grounds of the manor. No longer was Aris following me around all the time, and when I was working in the little workshop I’d set up I didn’t have Enes watching constantly.
 
-I wanted her to underestimate me, so I did my best to act vulnerable and awkward If I could make her think that I felt uncomfortable around anyone other than herself then she’d conclude that I was basically hers already. After all, what’s better than a slave that runs **towards** you, and only you, when seeking comfort and safety. The trouble was, it hadn’t taken a whole hell of a lot of acting on my part, and that scared the hell out of me. In trying to get her to underestimate me I’d in fact been underestimating her, or at least overestimating myself. I really was vulnerable and awkward, and I really did feel uncomfortable around most people. I’d wanted to trick Lady Chypia into thinking that she was one of the few people I felt okay around, and I was fairly sure that I’d convinced her, but was it really a trick, if that was how I really felt? 
+I wanted her to underestimate me, so I did my best to act vulnerable and awkward If I could make her think that I felt uncomfortable around anyone other than herself then she’d conclude that I was basically hers already. After all, what’s better than a slave that runs **towards** you, and only you, when seeking comfort and safety. The trouble was, it hadn’t taken a whole hell of a lot of acting on my part, and that scared the hell out of me. In trying to get her to underestimate me I’d in fact been underestimating her, or at least overestimating myself. I really was vulnerable and awkward, and I really did feel uncomfortable around most people. I’d wanted to trick Lady Chypia into thinking that she was one of the few people I felt okay around, and I was fairly sure that I’d convinced her, but was it really a trick, if that was how I really felt?
 
 *I should have paid more attention to what Thera said. I really am naïve when it comes to this sort of thing. Is that all it takes? For a pretty woman to show a modicum of interest, and provide the tiniest amount of emotional support?*
 
@@ -4310,7 +4166,7 @@ I was probably being too harsh, especially to Thera, but I was a little caught u
 
 *And what the hell is my escape plan again?*
 
-I’d seized upon the idea of killing Nusalvo to ingratiate myself to Lady Chypia, but that was another idea that was revealed to be terrible as I thought about it more. What, was it going to cause chaos? Well maybe, but he was the heir, not the Marquis. The rest of the city would keep ticking along as usual. It would give me a chance to help out Lady Chypia’s sister, but why was I doing that again? Slavery, especially the sort that Concia seemed to be a victim of, was pretty damn high on my list of ‘fates comparable to death’, but she was by no means the only Mage that needed help. She probably wasn’t even the easiest to rescue. I’d guess that Lady Chypia would want to take the opportunity to get her sister out of the city, and I was right, but that didn’t help me much. I’d imagined me tagging along when Concia was whisked out, but that idea didn’t hold up though. 
+I’d seized upon the idea of killing Nusalvo to ingratiate myself to Lady Chypia, but that was another idea that was revealed to be terrible as I thought about it more. What, was it going to cause chaos? Well maybe, but he was the heir, not the Marquis. The rest of the city would keep ticking along as usual. It would give me a chance to help out Lady Chypia’s sister, but why was I doing that again? Slavery, especially the sort that Concia seemed to be a victim of, was pretty damn high on my list of ‘fates comparable to death’, but she was by no means the only Mage that needed help. She probably wasn’t even the easiest to rescue. I’d guess that Lady Chypia would want to take the opportunity to get her sister out of the city, and I was right, but that didn’t help me much. I’d imagined me tagging along when Concia was whisked out, but that idea didn’t hold up though.
 
 Lady Chypia would arrange for Concia to escape Nusalvo’s manor while it was still being worked out what to do with her, this was the first hurdle. The second hurdle being the city gates, and Lady Chypia would likely be able to arrange for some guard to be looking the other way while Concia slipped out. Then Concia would run like hell to Nimre, or even just Ashur, and she’d be safe. There were two problems with trying to crash the little freedom party though. The first was that at no point in the escape plan would I be very helpful. Arranging the escape? Maybe, but I was Lady Chypia’s steward, and it would be odd for me to be missing during the transition. I’d probably have my hands full helping to sort the inheritance out. Better to pick someone that wouldn’t be missed, maybe Enes or Amas, especially since they’d be able to handle any opposition that they might face. Unarmed against an unskilled opponent I’d be fine, but that was a low damn bar, and if there was opposition it wasn’t going to be unskilled and it sure as hell wouldn’t be unarmed. No, I couldn’t insert myself there. Could I help get Concia past the city gates? No, that was even more laughable. I’d had some grand designs involving an improvised gunpowder firework, but it was foolishness. Lady Chypia had the contacts, and knew the right sort of people. Some bribe or favour, and the way would be clear, and it wouldn’t draw nearly as much attention as my idea. She might not even need to bribe anyone if she happened to know of some gap in the guard rotation, or of some hidden passage out of the city. It was when I considered Concia’s overland escape to Ashur or Nimre that I realized the bigger problem.
 
@@ -4322,11 +4178,11 @@ No. I’d be staying here when Concia escaped.
 
 It was sixty two days until the deadline, and it would take eighteen days to get to Nimre on foot. That left forty four days to come up with a **real** plan that wasn’t some James Bond level bullshit. Less even than that, leaving forty four days from now would put me in Nimre on the day of the deadline around lunch time. That left no room for error, and for all I knew they closed up early on the last day. I wouldn’t be leaving forty four days from now, I’d be leaving as soon as I had a decent chance of escape.
 
-One, I needed six days of food to get me out of Adympia. I wasn’t going to be able to stop at inns along the way to sleep and eat. 
+One, I needed six days of food to get me out of Adympia. I wasn’t going to be able to stop at inns along the way to sleep and eat.
 
-Sleeping, that was two. I needed some form of shelter that was quick to set up and tear down for those same six days. 
+Sleeping, that was two. I needed some form of shelter that was quick to set up and tear down for those same six days.
 
-Three, I needed money. I’d been working on that already, Lady Chypia had given me quite a large budget for my airgun and I might have been embezzling it a little. 
+Three, I needed money. I’d been working on that already, Lady Chypia had given me quite a large budget for my airgun and I might have been embezzling it a little.
 
 Four, I needed to get these damnable cuffs off. I’d already tried the trick with the metal file, and it had not gone well. I’d snuck it into the bathroom inside my tunic and had timed my progress on my watch, I wanted some idea of how long it would take to get these off when it came time. For sixty seconds I’d scraped away with the file, working just on the edge near my wrist, I didn’t want anyone to notice any suspicious marks left on the cuff. I need not have worried, in the sixty seconds I’d timed it for I’d barely scuffed the cuff. It wasn’t zero progress, but this was not the solution I was looking for. The cuffs looked and felt like gold, they were even the right weight, but they were far too tough. It was probably the enchantment I’d first detected weeks ago. The enchantment probably also accounted for how comfortable the cuffs were. By all rights they should have rubbed my wrists raw, I’d been wearing them every hour of the day for weeks, and padding was only going to help so much.
 
@@ -4396,7 +4252,7 @@ Lady Chypia let go of my arm, and cupped my face in her hands, “You’re mine 
 
 -----
 
-Cusole, Erilon, and I had the clothier’s ledgers spread out on one of the tables in the library. I could hear Lady Chypia’s conversation with the two men through the open door to the sitting room, and from the feel of things I guessed that this business deal was more like an acquisition. This explained Lady Chypia’s interest in their books, they’d be her books soon if all went well. Cusole and Erilon had not been difficult to bring around to my way of thinking once I had Lady Chypia’s seal of approval, and between the three of us we got through the ledgers rather quickly. We went over each one twice before the meeting was finished, and I was briefly disappointed that I didn’t find anything nefarious on the part of the merchants. Then I kicked myself. Dammit I was **not** looking for ways to impress Lady Chypia. 
+Cusole, Erilon, and I had the clothier’s ledgers spread out on one of the tables in the library. I could hear Lady Chypia’s conversation with the two men through the open door to the sitting room, and from the feel of things I guessed that this business deal was more like an acquisition. This explained Lady Chypia’s interest in their books, they’d be her books soon if all went well. Cusole and Erilon had not been difficult to bring around to my way of thinking once I had Lady Chypia’s seal of approval, and between the three of us we got through the ledgers rather quickly. We went over each one twice before the meeting was finished, and I was briefly disappointed that I didn’t find anything nefarious on the part of the merchants. Then I kicked myself. Dammit I was **not** looking for ways to impress Lady Chypia.
 
 The meeting went well, and while nothing was decided for certain, Lady Chypia acquiring their little business seemed to be a forgone conclusion. I spent what was left of the day trying to figure out real solutions to my actual problems. It wasn’t like food would be hard to get my hands on, and I could work something out for sleeping accommodations, but whatever I made or gathered I needed to be able to pass off as something else or hide. That was true for all of my problems, I had the means and materials to build a big damn rope ladder for climbing the city wall, but if anyone else saw what I’d made then they might get just a little suspicions.
 
@@ -4458,14 +4314,7 @@ She sighed, and slipped back down under the covers. I rolled onto my side and pu
 I try not to make so many posts about pancakes, but it just keeps happening.  ¯\\_(ツ)_/¯
 
 
-# Oh this has not gone well - 22
-
-
-I’ve got a Patreon now .
-
-The next update will be delayed an extra 24 hours. Hopefully this extra long, and extra syrupy update will keep you satisfied until the next one.
-
------
+# Chapter 22
 
 Quinn
 
@@ -4477,7 +4326,7 @@ Lady Chypia seemed eager to test the limits of my endurance, and didn’t let me
 
 It was definitely odd, compared to Adympian clothing, but the oddity was not in the way that it could hide the cuffs. Hopefully it could distract from the rest of my planned deception.
 
-Lady Chypia had returned my knife and multitool when I started to assemble my little workshop, which left only my jacket to recover. It was long enough to cover the cuffs, so if I couldn’t get them off before escaping I could at least just wear the jacket. It wasn’t ideal, but I’d rather get the hell gone than waste time trying to figure out how to cut through them. 
+Lady Chypia had returned my knife and multitool when I started to assemble my little workshop, which left only my jacket to recover. It was long enough to cover the cuffs, so if I couldn’t get them off before escaping I could at least just wear the jacket. It wasn’t ideal, but I’d rather get the hell gone than waste time trying to figure out how to cut through them.
 
 *I need to ask Lady Chypia about Enutur and his big stupid boat. If some of my things are kicking around the city it might be nice to take them with me when I leave.*
 
@@ -4537,7 +4386,7 @@ I’d hung the hammock as high as it could go, I wasn’t sure how Lady Chypia f
 
 I deposited her in the hammock, before climbing in myself.
 
-“Careful! Careful!” she exclaimed, when the hammock twisted as I was getting in. 
+“Careful! Careful!” she exclaimed, when the hammock twisted as I was getting in.
 
 It seemed that she wasn’t very fond of heights after all, and she clung rigidly to me as the hammock settled.
 
@@ -4627,9 +4476,9 @@ As time wore on I started to feel things changing between us, at least from my p
 
 -----
 
-I was ready to leave, at least in theory, about a week after I finished the hammock. I’d come up with solutions to the rest of my problems, and even gotten the airgun working. 
+I was ready to leave, at least in theory, about a week after I finished the hammock. I’d come up with solutions to the rest of my problems, and even gotten the airgun working.
 
-Problem one had been food, and that had been solved easily enough. I’d been thinking about trying to make pemmican, or maybe hard tack, but I didn’t really need that much food. It didn’t need to keep that long either, so I settled for raw fruits and vegetables. I could pick them up on the last day, and stash them with the rest of my escape kit for that night. The fruit would keep for a couple days, and the vegetables for a couple more, and they were relatively calorie dense so didn’t take up a lot of space. 
+Problem one had been food, and that had been solved easily enough. I’d been thinking about trying to make pemmican, or maybe hard tack, but I didn’t really need that much food. It didn’t need to keep that long either, so I settled for raw fruits and vegetables. I could pick them up on the last day, and stash them with the rest of my escape kit for that night. The fruit would keep for a couple days, and the vegetables for a couple more, and they were relatively calorie dense so didn’t take up a lot of space.
 
 Problem two had been sleeping accommodations, which was obviously solved with the hammock and oilskin tarp. The tarp also doubled as a waterproof container when I wrapped it up tight, using the ties normally meant to hang it from trees, to keep it closed. My food, money, spare clothing, multitool, and knife, would go in there.
 
@@ -4659,7 +4508,7 @@ I woke, to find myself tied to the bed, naked.
 
 I could hear Chypia moving about the room, but the curtains on the canopied bed had been lowered, so I couldn’t see quite what she was doing. She must have heard the mattress shift, because she pulled apart the curtains at the foot of the bed to look at me lying there. She was naked, sweaty, and her hair was a mess. Heaving me onto the bed must have taken quite a bit of effort on her part.
 
-“Well, don’t you seem excited,” she said, with a wry expression on her face as she looked at me. 
+“Well, don’t you seem excited,” she said, with a wry expression on her face as she looked at me.
 
 “Maybe once I’ve spent some time on my new throne,” she said, patting my cheek, “We’ll see if you’ve earned some of my attention. I hope you can hold your breath for a long while, I might take some time to get comfortable on my new seat. I’ll leave you to think about that while I get cleaned up.”
 
@@ -4693,7 +4542,7 @@ I took the silk ropes she’d used to bind my feet to the bedposts, and used tho
 
 “Oh trust me, I will, now open up,” I instructed.
 
-She narrowed her eyes at me, but obliged, and I slipped a gag into her mouth. The next thing on was a silk blindfold, and she was reduced to muffled moaning. I looked at my watch, and then at the little collection she’d laid out at the end of the bed. 
+She narrowed her eyes at me, but obliged, and I slipped a gag into her mouth. The next thing on was a silk blindfold, and she was reduced to muffled moaning. I looked at my watch, and then at the little collection she’d laid out at the end of the bed.
 
 *Damn, there’s quite the collection here, I only wish I had the time.*
 
@@ -4789,12 +4638,7 @@ I managed to get to shore without a cry going up though, and I pulled myself qui
 -----
 
 
-# Oh this has not gone well - 23
-
-
-I’ve got a Patreon now .
-
------
+# Chapter 23
 
 Quinn
 
@@ -4812,7 +4656,7 @@ If I was right, that would mean my pursuers would be right on top of me when the
 
 I stripped out of my wet clothes, and changed into my Earth clothes to sleep. I’d gone some distance inland, well away from the road, in some light forests. It was still not quite as much cover as I would have liked, but I wasn’t likely to find anything very much better than this. I hung my wet clothes over some branches to dry, I’d be changing back into them for the journey tomorrow, and pulled myself up into the hammock. I laid my jacket across myself, though it was a warm night, and did my best to fall asleep.
 
-It did take me a little while to relax, and I found myself thinking back to the way that I’d arranged my head start. At the time I’d thought it absolutely hilarious, and it was one hell of a way to knock Chypia down a few pegs. But once I had time to stop and think, I started to see what I’d done in a new light. Chypia seemed to enjoy our little struggles for control, at least within the boundaries of her bedroom, but this was different. Fooling around in the tub, or scaring her when I’d first made the hammock was one thing, this was different. Chypia at least had played along a little, but she’d likely thought of it as more of the same. She had no idea that I’d planned for her to be tied up for another twelve hours. Would she be okay with that? Definitely not. If that’s all I’d arranged for, then I wouldn’t have had a second thought. But I didn’t do that. I didn’t go to Aris and Pasa, and tell them to avoid disturbing Chypia until noon. I told them to go in there and amuse themselves, at great expense to Chypia. Worse still, as far as they knew they’d be doing as she’d ordered. As far as they knew, her struggling and muffled protests would all part of the game. Was doing all this worse than killing her? Most people would forgive a slave for killing their master to escape. Hell, some would celebrate it. 
+It did take me a little while to relax, and I found myself thinking back to the way that I’d arranged my head start. At the time I’d thought it absolutely hilarious, and it was one hell of a way to knock Chypia down a few pegs. But once I had time to stop and think, I started to see what I’d done in a new light. Chypia seemed to enjoy our little struggles for control, at least within the boundaries of her bedroom, but this was different. Fooling around in the tub, or scaring her when I’d first made the hammock was one thing, this was different. Chypia at least had played along a little, but she’d likely thought of it as more of the same. She had no idea that I’d planned for her to be tied up for another twelve hours. Would she be okay with that? Definitely not. If that’s all I’d arranged for, then I wouldn’t have had a second thought. But I didn’t do that. I didn’t go to Aris and Pasa, and tell them to avoid disturbing Chypia until noon. I told them to go in there and amuse themselves, at great expense to Chypia. Worse still, as far as they knew they’d be doing as she’d ordered. As far as they knew, her struggling and muffled protests would all part of the game. Was doing all this worse than killing her? Most people would forgive a slave for killing their master to escape. Hell, some would celebrate it.
 
 *Was this worse? Maybe it was.*
 
@@ -4826,13 +4670,13 @@ Three o’clock rolled around, and I hadn’t yet been run down and dragged back
 
 I didn’t stop that night until the sun was well and truly below the horizon. Everything I knew about horses came from fantasy novels, but I hoped that they’d have trouble traveling at night through rough terrain, so I pushed on as long as I could. It wasn’t until the glow from the setting sun was completely gone that I’d stopped. I had the energy to keep going, but the last thing I wanted to do was get lost in a forest at night. Instead I found a place to hang my hammock for the night, and planned for the inevitable confrontation.
 
-My resources were fairly limited. I had my knife and the multitool, my watch, all four of my rings, my pen, and one waterproof jacket. But I also had magic, though admittedly, not a whole hell of a lot of it. Using magic would also mean that surrender was not an option, though my little stunt with Chypia had probably already seen to that. She was not going to be pleased with me if she caught me. I had the mana stones set into the ring, I’d found out early on that they recharged themselves in about a day, which did give me an extra 4 mana. That did mean that Ignite was a possibility, I could dump in three mana and try to catch someone in the face with it, though it would be tricky. Apportation was the other spell of note if it came to a fight. Throwing rocks wasn’t a terribly good use for the spell, but that wasn’t all I could do. I knew from my very extensive testing with Thera’s aid that I could create long, thick, and flexible… rods. They were rods. It was a strange thought, blocking a sword or a spear with a magical sex toy, but it would work. Just like I could bat away a weapon with my hand, I could do it with Apportation. The difference was that the manipulators couldn’t be hurt, though the force I could apply was reduced. It wasn’t perfect, it seemed that other people could ‘resist’ my interference if they didn’t make a conscious decision to consent, but I’d been able to overcome the resistance put up by both Thera and Sila when they’d helped in testing the spell. Basic Illusion and Sound were the other two spells I could get a use out of, and the other contender for mana stone use. Basic Illusion could hide me, though if I was right and the bracers held a tracking enchantment that might not matter, and Sound could distract them. 
+My resources were fairly limited. I had my knife and the multitool, my watch, all four of my rings, my pen, and one waterproof jacket. But I also had magic, though admittedly, not a whole hell of a lot of it. Using magic would also mean that surrender was not an option, though my little stunt with Chypia had probably already seen to that. She was not going to be pleased with me if she caught me. I had the mana stones set into the ring, I’d found out early on that they recharged themselves in about a day, which did give me an extra 4 mana. That did mean that Ignite was a possibility, I could dump in three mana and try to catch someone in the face with it, though it would be tricky. Apportation was the other spell of note if it came to a fight. Throwing rocks wasn’t a terribly good use for the spell, but that wasn’t all I could do. I knew from my very extensive testing with Thera’s aid that I could create long, thick, and flexible… rods. They were rods. It was a strange thought, blocking a sword or a spear with a magical sex toy, but it would work. Just like I could bat away a weapon with my hand, I could do it with Apportation. The difference was that the manipulators couldn’t be hurt, though the force I could apply was reduced. It wasn’t perfect, it seemed that other people could ‘resist’ my interference if they didn’t make a conscious decision to consent, but I’d been able to overcome the resistance put up by both Thera and Sila when they’d helped in testing the spell. Basic Illusion and Sound were the other two spells I could get a use out of, and the other contender for mana stone use. Basic Illusion could hide me, though if I was right and the bracers held a tracking enchantment that might not matter, and Sound could distract them.
 
 *I would kill for a wand of Magic Missile right now.*
 
 -----
 
-I pressed on over the next three days, getting up early, and pushing hard all day, not stopping until the sun was well below the horizon. It was spring here in Adympia, which meant I was traveling about twelve hours a day. It was hard going, but it was about what I’d planned for anyways, all those months ago in Essens. I realized, as I woken on what would be my last day in Adympia, that Thera would have arrived in Nimre by now. 
+I pressed on over the next three days, getting up early, and pushing hard all day, not stopping until the sun was well below the horizon. It was spring here in Adympia, which meant I was traveling about twelve hours a day. It was hard going, but it was about what I’d planned for anyways, all those months ago in Essens. I realized, as I woken on what would be my last day in Adympia, that Thera would have arrived in Nimre by now.
 
 *It’s a good thing we took different ships. If what Chypia said is true then Thera’s probably fine, but if I’d been there and the captain was the unscrupulous sort then they might have handed over* ***all*** *of their passengers.*
 
@@ -4856,11 +4700,11 @@ I started to get a little more tense as my watch ticked closer and closer to noo
 
 *Well that’s not ominous at all.*
 
-I pushed myself up, heading down the hill, and I had to make a conscious effort to not break into a jog. Instead I paced myself, I was going to need every bit of energy I had once my pursuers caught up with me. 
+I pushed myself up, heading down the hill, and I had to make a conscious effort to not break into a jog. Instead I paced myself, I was going to need every bit of energy I had once my pursuers caught up with me.
 
 -----
 
-The rain started to fall around 2pm, though ‘fall’ didn’t really describe just what was happening. The tree cover helped to some extent, but the rain was streaking sideways, and it stung my face when I made the mistake of turning to look behind me. I was glad that I’d managed to recover my jacket, hopefully the riders following me were miserable. Assuming anyone was following me. All this planning for what ‘the riders’ and ’my pursuers’ might be doing, it would be kinda underwhelming if no one was after me. 
+The rain started to fall around 2pm, though ‘fall’ didn’t really describe just what was happening. The tree cover helped to some extent, but the rain was streaking sideways, and it stung my face when I made the mistake of turning to look behind me. I was glad that I’d managed to recover my jacket, hopefully the riders following me were miserable. Assuming anyone was following me. All this planning for what ‘the riders’ and ’my pursuers’ might be doing, it would be kinda underwhelming if no one was after me.
 
 *Am I that lucky?*
 
@@ -4872,13 +4716,13 @@ I could **see** the river from my perch on the hill, unfortunately I could also 
 
 *That would be the tracker.*
 
-I looked back down towards the river, it was maybe two kilometres away. I looked back, even if that was a tracker, I bet I could distract the hell out of them if they spotted a little Quinn illusion stand up and start running. I cast my spell at the bottom of the hill behind a clump of bushes. I kept it in line between myself and the riders, I didn’t want Chypia to notice that what she saw and what the tracker said didn’t make sense. I gave it a second, making sure that one of the armoured riders was watching in the bushes direction, and then had not-Quinn bolt towards the south. One of the riders raised a cry immediately, and I had not-Quinn sprint to and slide down a short depression. I ended the spell the second he was out of sight from them. I wanted to continue it on longer, Chypia would probably look down at the tracker the second she lost track of the illusion, but I could barely hold the spell together at that distance. 
+I looked back down towards the river, it was maybe two kilometres away. I looked back, even if that was a tracker, I bet I could distract the hell out of them if they spotted a little Quinn illusion stand up and start running. I cast my spell at the bottom of the hill behind a clump of bushes. I kept it in line between myself and the riders, I didn’t want Chypia to notice that what she saw and what the tracker said didn’t make sense. I gave it a second, making sure that one of the armoured riders was watching in the bushes direction, and then had not-Quinn bolt towards the south. One of the riders raised a cry immediately, and I had not-Quinn sprint to and slide down a short depression. I ended the spell the second he was out of sight from them. I wanted to continue it on longer, Chypia would probably look down at the tracker the second she lost track of the illusion, but I could barely hold the spell together at that distance.
 
 *Run. Now.*
 
 I pushed myself up off the hill, and started to run. There weren’t a lot of options when it came to places to hide, and the trees were too sparse and too small to be able to give any real cover. They’d see me almost immediately once they came around the hill, not that it would make much of a difference with that tracker. I could use the illusion spell again, though apparently not at the range I wanted to, but I’d probably need to be stationary for that. And I did not want to spend much time stationary. I cast a few copies of Apportation as I ran.
 
-I was maybe a couple hundred metres from the river when I heard thundering hooves behind me, and I threw myself sideways behind a tree. There was a crack of wood on wood, and a charging horse bowled through the space I’d just occupied. It was Enes on the back of the horse, and she fumbled to keep a hold of her spear. I scrambled up off the ground, and Enes tried to turn her horse around, though the horse was caught up on a tree. I ran behind her and to the left as she tried to turn right to face me. 
+I was maybe a couple hundred metres from the river when I heard thundering hooves behind me, and I threw myself sideways behind a tree. There was a crack of wood on wood, and a charging horse bowled through the space I’d just occupied. It was Enes on the back of the horse, and she fumbled to keep a hold of her spear. I scrambled up off the ground, and Enes tried to turn her horse around, though the horse was caught up on a tree. I ran behind her and to the left as she tried to turn right to face me.
 I looked around as I ran, trying to locate the other riders. I did not want to get boxed in. I’d lucked out, it looked like the other armoured rider, probably Amas, had been on Enes’s right. The last rider had been a bit behind those two, and turned to chase me.
 
 “QUINN!” Aris screamed, and her voice sounded rough, “QUINN!”
@@ -4903,7 +4747,7 @@ I could barely make out her features. I’d lost my glasses when she’d hit me 
 
 I got the pontoon inflated, and made sure I had a solid grip on it before sliding down what remained of the hill. I managed to control my descent fairly well, and while I collected some more scrapes, I didn’t smash into any more obstacles. I hit the water feet first, which of course was freezing cold, and started kicking out into the middle of it. I was carried away quickly by the fast current, and Amas’s screaming faded into the distance, covered by the rushing water and pouring rain. Even with the pontoon it was a fight to keep my head above water in the rushing river. The current would carry me downstream and fighting against that would be useless, but there was nothing stopping me from swimming across it, I focused on swimming for the far bank.
 
-I was about half way across the river when I suddenly felt a blinding pain. In one moment I felt tired, sore, I could hear my ragged breaths, and the uncomfortable squelch of my soaked clothing. In the next moment, all of that was overwhelmed by an unimaginable pain in my forearms. It didn’t stop either, and it took a moment for me to realize where I was, and just what I should be doing. It was all I could do to keep my grip on the pontoon, and I kicked my legs, trying to get to shore. The pain was immense, and my vision was nothing but a white void. I could hear myself screaming whenever I wasn’t gasping for breath or coughing up water, and an eternity later I felt myself bump against something. My legs found the riverbed and I tried to stand, only to fall forwards again. I scrambled up the riverbank and onto dry land, feeling blindly at sand, pebbles, roots, and clumps of grass. I thrashed around in the sand and dirt beside the river, screaming and tearing uselessly at the cuffs. 
+I was about half way across the river when I suddenly felt a blinding pain. In one moment I felt tired, sore, I could hear my ragged breaths, and the uncomfortable squelch of my soaked clothing. In the next moment, all of that was overwhelmed by an unimaginable pain in my forearms. It didn’t stop either, and it took a moment for me to realize where I was, and just what I should be doing. It was all I could do to keep my grip on the pontoon, and I kicked my legs, trying to get to shore. The pain was immense, and my vision was nothing but a white void. I could hear myself screaming whenever I wasn’t gasping for breath or coughing up water, and an eternity later I felt myself bump against something. My legs found the riverbed and I tried to stand, only to fall forwards again. I scrambled up the riverbank and onto dry land, feeling blindly at sand, pebbles, roots, and clumps of grass. I thrashed around in the sand and dirt beside the river, screaming and tearing uselessly at the cuffs.
 
 It felt like it took an eternity, but eventually I got my breath. I don’t know how long I’d been there, and by the time I managed to focus it was well after sundown. The pain had not let up at all, but at least I could see straight now. I managed to get my feet under me, and I patted around weakly for my things. I was still wearing my jacket, though it and my clothes were a muddy mess, and still had the bundle, though the pontoon must have floated away. I’d managed to stop myself from screaming, but my breath was still coming out in choked gasps.
 
@@ -4935,18 +4779,7 @@ They found me the following night, just as the sun was going down. Apparently th
 -----
 
 
-# Oh this has not gone well - 23
-
-
-I’ve got a Patreon now .
-
-If you don’t know what it’s like to need glasses, and are wondering why Quinn is having such a bad time, check  out. You can skip most of it, but the part you want to see is roughly 4:45 to 6:00.
-
-And you might be thinking, “There’s no way it’s that bad.” Trust me. It’s that bad.
-
-EDIT: I guess this is 23.1 I accidentally the title. IT SHOULD BE FINE.
-
------
+# Chapter 23
 
 Quinn
 
@@ -4956,7 +4789,7 @@ I woke up somewhere strange and unknown, which was getting to be a habit of mine
 
 *Can’t be too common though if they got those damn cuffs off.*
 
-I tried to sit up in bed, and had to force down a stab of panic when I realized that not only could I not feel the cuffs, I couldn’t feel my hands. I managed to push myself upright on my elbows, and I looked down at my hands. My hands were still there, along with my rings, and the cuffs were definitely gone. I brought my hands together, trying to see if I could feel anything in my hands, but it was like two chunks of wood knocking together. No feeling in my hands, none in my wrists, it wasn’t until I got to my elbows that I could start to feel anything. I still had some basic motor control, my hands weren’t flopping around uselessly on the ends of my arms, but beyond that a slight twitch in my fingers was about all I could manage. 
+I tried to sit up in bed, and had to force down a stab of panic when I realized that not only could I not feel the cuffs, I couldn’t feel my hands. I managed to push myself upright on my elbows, and I looked down at my hands. My hands were still there, along with my rings, and the cuffs were definitely gone. I brought my hands together, trying to see if I could feel anything in my hands, but it was like two chunks of wood knocking together. No feeling in my hands, none in my wrists, it wasn’t until I got to my elbows that I could start to feel anything. I still had some basic motor control, my hands weren’t flopping around uselessly on the ends of my arms, but beyond that a slight twitch in my fingers was about all I could manage.
 
 “If there’s a goddess of luck, she can go fuck herself,” I said quietly.
 
@@ -4998,7 +4831,7 @@ He straightened a little, and if I could make out his expression I might have se
 
 “Dammit,” I said, clenching my fists in anger. Or, I tried to. My fingers just twitched impotently.
 
-*So I’m down two of five senses, I wonder how I’ll lose the other three?* 
+*So I’m down two of five senses, I wonder how I’ll lose the other three?*
 
 “How hard is it for a Mage to get into the university at Nimre?” I asked.
 
@@ -5098,7 +4931,7 @@ We left his home, and I found that we were in a rather small village. I couldn�
 
 “Ha, yeah, why do it?”
 
-“My wife, Cilla. She was my sweetheart before I ever found out about my magic. This is where we grew up, and while I always wanted to see the big city, she always felt most comfortable here. I’d come back whenever I had a break to spend time with her, and when I finished my studies I decided to stay for good. I’ve certainly made my mistakes, hurt her when I didn’t mean to, but I’m happy here and she’s forgiven me,” he explained, a little hesitantly, “Besides,” he said, perking up a little, “There’s still good work to be done here. I’ve got most of the villages along the border linked with beacons, and I’ve gotten fairly good at dealing with those manacles. Someone needs to do it, it might as well be me.” 
+“My wife, Cilla. She was my sweetheart before I ever found out about my magic. This is where we grew up, and while I always wanted to see the big city, she always felt most comfortable here. I’d come back whenever I had a break to spend time with her, and when I finished my studies I decided to stay for good. I’ve certainly made my mistakes, hurt her when I didn’t mean to, but I’m happy here and she’s forgiven me,” he explained, a little hesitantly, “Besides,” he said, perking up a little, “There’s still good work to be done here. I’ve got most of the villages along the border linked with beacons, and I’ve gotten fairly good at dealing with those manacles. Someone needs to do it, it might as well be me.”
 
 *Cilla, Sila. Is the universe trying to tell me something?*
 
@@ -5176,7 +5009,7 @@ Waenne leaned back, taking a sip of his tea, “Sounds a lot like you don’t ha
 
 “Well, the Adympians test to see if someone is a Mage by checking to see whether they have mana or not. Only Wizards and Mages have mana, and while it’s not as precise as what they’ll do at the university to see what level of ability you have, it works. So if they checked you, and the result came up negative, then you probably don’t have any mana,” he said, as if that explained everything.
 
-“That,” I started, “Doesn’t make any sense. I can cast spells, I just cast a spell,” I said, waving around a scone with my manipulator. 
+“That,” I started, “Doesn’t make any sense. I can cast spells, I just cast a spell,” I said, waving around a scone with my manipulator.
 
 “Well sure, but you cast it with just the one or two words. Between that and your fairly high talent, I’m pretty sure you know the spell well enough to not need any mana to cast it. At least if you’re not trying to do too much with the spell.”
 
@@ -5321,20 +5154,13 @@ I choked out a laugh, “Yeah. Yeah I am.”
 -----
 
 
-# Oh this has not gone well - 24
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
------
+# Chapter 24
 
 Quinn
 
 -----
 
-“How much further is it to the University,” I asked. 
+“How much further is it to the University,” I asked.
 
 We’d already been walking for ten or fifteen minutes since leaving the obelisk that served as Nimre’s teleport beacon.
 
@@ -5384,7 +5210,7 @@ We were at ground level, and the seats rose in tiers behind me. There was a shor
 
 This being a magical contest, I was expecting the smaller figure to blast the huge one into the nearest wall in short order. After all, Strength is a dump stat for a proper spellcaster. They stand at the back of the party and fling fireballs, they didn’t waste time lifting weights. The big man might have a chance if he could get in close, but any proper Mage wasn’t about to allow that to happen.
 
-The smaller figure shouted a word, and there was a crack of thunder. A bolt of lightning streaked from their outstretched hand, but the blinding blue-white light stopped about a foot from the hulking Mage. It seemed to strike an invisible wall and then ground itself out in the hard-packed sand of the arena. The hulking Mage said nothing, and instead he threw both hands forwards. Twin bolts of fire streaked towards the smaller Mage, who snapped out a short word and made a slight gesture. The bolts of fire seemed to veer slightly off course, and they both passed harmlessly to either side. 
+The smaller figure shouted a word, and there was a crack of thunder. A bolt of lightning streaked from their outstretched hand, but the blinding blue-white light stopped about a foot from the hulking Mage. It seemed to strike an invisible wall and then ground itself out in the hard-packed sand of the arena. The hulking Mage said nothing, and instead he threw both hands forwards. Twin bolts of fire streaked towards the smaller Mage, who snapped out a short word and made a slight gesture. The bolts of fire seemed to veer slightly off course, and they both passed harmlessly to either side.
 
 The two bolts were maybe a foot behind the smaller Mage when they both exploded with a loud ‘WHOOMPFF’. Even at this distance I could feel the pressure wave hit my chest, and the smaller mage was thrown forwards, hair and clothes aflame. He landed face first, and I could see that his back was charred black, and his arms were little better than burnt sticks.
 
@@ -5510,7 +5336,7 @@ I spread my hands, “I thought at first that I had exactly one, since I could o
 
 “Hmmm,” she tapped her chin with one finger, “Well that definitely shows that you’ve got some talent, and you’ve got to be fairly clever too. Can you, uh,” She said, waving at the hand that bore the mage stone.
 
-“Sure,” I said, and I could see that Waenne was already shielding his eyes. 
+“Sure,” I said, and I could see that Waenne was already shielding his eyes.
 
 The stone bloomed to life, and Lili pulled back. I’d been too busy giggling at Waenne to notice that she’d been staring right at it.
 
@@ -5568,7 +5394,7 @@ I sat while the elf, Sisaru, fished around in a bag for something. A moment late
 
 “I take it that you have used a mage stone before?” Sisaru asked, and I nodded, “Well this is exactly the same. You focus on the stone, and through it I will be able to sort out just where you belong.”
 
-From the looks of him, I’d have guessed that Sisaru wasn’t much older than myself. For an elf, that might still put him somewhere in his forties, but it was the voice that threw a wrench into that assumption. He spoke like someone that was very, very old. He didn’t speak slowly, but each word was deliberate, and had weight to it. 
+From the looks of him, I’d have guessed that Sisaru wasn’t much older than myself. For an elf, that might still put him somewhere in his forties, but it was the voice that threw a wrench into that assumption. He spoke like someone that was very, very old. He didn’t speak slowly, but each word was deliberate, and had weight to it.
 
 I did as bade, and put my hands on the stone.
 
@@ -5700,7 +5526,7 @@ We didn’t need to wait long for the bursar, there was only one other person th
 
 “Abil,” she acknowledged.
 
-I’d expected a librarian looking sort, with wire rimmed spectacles and a scrunched up face, but then elves don’t need glasses, and they seem to age much more gracefully than humans do. 
+I’d expected a librarian looking sort, with wire rimmed spectacles and a scrunched up face, but then elves don’t need glasses, and they seem to age much more gracefully than humans do.
 
 “His level of talent?” he asked.
 
@@ -5718,7 +5544,7 @@ He handed me a broach with some sort of seal on it, *the university’s seal?*
 
 *Magical debit card, sweet.*
 
-“Works for me, and this is what, this year’s bursary?” I asked. 
+“Works for me, and this is what, this year’s bursary?” I asked.
 
 *Five and a bit drachm a day, so roughly two and a half times the income of your average labourer? Not too bad.*
 
@@ -5824,29 +5650,20 @@ There was a knock on the door, just as she was about to answer, and I went to se
 
 Lili picked my brain for a couple of hours, asking about each of the things I’d mentioned, and I did my best to explain. Germ theory was apparently understood to some extent, at least within the university, though the rest seemed entirely new to her. She stayed quite late, late enough that I was a little unsure of just where this was going. I got the feeling that something was expected of me, but I had no idea what that might be, or even how to approach the situation in general. I wasn’t even sure I wanted a part in what Lili seemed to be waiting for. I always felt awkward in situations like this, and the fact that I really hadn’t gotten over my time in Chypia’s hands didn’t make things any easier for me.
 
-Thankfully Lili seemed to get the idea after a while, and she let me know that she’d be here at nine tomorrow to keep showing me around. She left, and I sat and appreciated the silence. 
+Thankfully Lili seemed to get the idea after a while, and she let me know that she’d be here at nine tomorrow to keep showing me around. She left, and I sat and appreciated the silence.
 
 *When was the last time I was able to sleep alone, in a proper bed, in a quiet room?*
 
 I considered this, as I lay in a steaming hot bath. Not in Adympia, either Chypia had been in bed with me, or Aris had been laying in that silly little drawer. Not on the ship, that had been a hammock, and there were always at least a few people clomping around in the hall. Not in Myra, I slept with Thera every night, not that I’d minded too much. Not on the road, that was the hammock again, and Sila and the rest had been along with me. Harp’s snoring hadn’t helped. That left the valley, and while that had been a bed, it was not a ‘proper’ one. It had been quiet thankfully, and I’d been alone, but the bed was about a foot too short and the sheets were not anything like what I’d been used to sleeping on.
 
-No, the last time I’d slept in a bed this nice, with no one to bother me, had been back home. *No, not back home, back on Earth.* The university was home now, and if someone had offered me the chance to go home, to replace my glasses, maybe even start the treatment that would have repaired the nerve damage to my hands… 
+No, the last time I’d slept in a bed this nice, with no one to bother me, had been back home. *No, not back home, back on Earth.* The university was home now, and if someone had offered me the chance to go home, to replace my glasses, maybe even start the treatment that would have repaired the nerve damage to my hands…
 
-If they’d offered that, I would have run screaming in the other direction. 
+If they’d offered that, I would have run screaming in the other direction.
 
 *I’m here, to hell with everything else.*
 
 
-# Oh this has not gone well - 25
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
-Missed a day, was busy with a job interview, should be continuing on as normal from here on out though.
-
------
+# Chapter 25
 
 Quinn
 
@@ -5890,7 +5707,7 @@ I frowned, “Then… That doesn’t make any sense. How would anyone be able to
 
 This seemed to give her pause, and she looked up at me, a little surprised, “You are from a noble family?”
 
-“Of course, and depending on how the university’s sumptuary laws I might have the right to wear any or all of those colours,” I said. 
+“Of course, and depending on how the university’s sumptuary laws I might have the right to wear any or all of those colours,” I said.
 
 *Sumptuary, see? I even know the right fancy words.*
 
@@ -5918,7 +5735,7 @@ This seemed to give her pause, and she looked up at me, a little surprised, “Y
 
 “The kingdoms in question would be West, Middle, and Eastern Francia, along with Lombardy,” I said, *I think I’m still okay here.*
 
-It might have been a good thing that they were relying on magic for this, especially since it was **compelling** truth, rather than detecting falsehoods. I definitely felt some… weight, on my mind as I spoke. And I found myself changing the odd word just before speaking, but rather than catch me out as a liar, it was helping me along. 
+It might have been a good thing that they were relying on magic for this, especially since it was **compelling** truth, rather than detecting falsehoods. I definitely felt some… weight, on my mind as I spoke. And I found myself changing the odd word just before speaking, but rather than catch me out as a liar, it was helping me along.
 
 *If they were using a polygraph I’d be screwed, I can hear my freaking heartbeat right now.*
 
@@ -5942,9 +5759,9 @@ He did his best to maintain an air of dignity as he dragged over a stepladder.
 
 The small gnome summited the stepladder, taking his measurements, before beginning the perilous decent back to earth.
 
-“This is certainly going to be the largest article I’ve ever worked on,” he said, bending over backwards to look up at me. 
+“This is certainly going to be the largest article I’ve ever worked on,” he said, bending over backwards to look up at me.
 
-He had spoken formally throughout our conversation, though he wasn’t cold, and neither was he quite as stuffy as Abil had been. He was professional, he catered to the sort of clientele that expected that after all, but he seemed to genuinely enjoy his work. Unlike the few other gnomes I’d met so far Khory wasn’t the same reddish brown that reminded me of Prince Edward Island. Instead he was the same sort of dark brown, almost black, of fresh topsoil, though he had the same close cut hair and goatee of the other gnomes. 
+He had spoken formally throughout our conversation, though he wasn’t cold, and neither was he quite as stuffy as Abil had been. He was professional, he catered to the sort of clientele that expected that after all, but he seemed to genuinely enjoy his work. Unlike the few other gnomes I’d met so far Khory wasn’t the same reddish brown that reminded me of Prince Edward Island. Instead he was the same sort of dark brown, almost black, of fresh topsoil, though he had the same close cut hair and goatee of the other gnomes.
 
 I shrugged, “There’s not a whole lot I can do about that,” I said, “Hopefully it won’t take too long?”
 
@@ -6024,7 +5841,7 @@ I just smiled, and took the small pamphlet from Itys when she brought it out.
 
 There was some promising stuff here, though nothing really jumped out as being munchkinable. That was, until I got to the section on minimum length. It was defined in absolute, rather than relative terms.
 
-“Alright, new plan Khor. I think I know exactly what I want,” I said, smile spreading. 
+“Alright, new plan Khor. I think I know exactly what I want,” I said, smile spreading.
 
 Lili just leaned back, running both hands through her hair.
 
@@ -6070,7 +5887,7 @@ I was struck suddenly by the thought of living in what amounted to a magical fra
 
 -----
 
-As it turned out, everyone at the university was not a quiet bookish type like myself. 
+As it turned out, everyone at the university was not a quiet bookish type like myself.
 
 According to Lili there were a grand total of thirty five clubs at the university, and we’d been through eight already.
 
@@ -6114,8 +5931,8 @@ She wrinkled her brow, “Of course there’s people like that Quinn, they’re 
 
 *Sounds a lot like every sexual assault scandal I’ve ever heard about in the news. Giant asshole with power takes advantage of the women under him.*
 
-“Yes,” she grimaced. 
- 
+“Yes,” she grimaced.
+
 “What if…” I started, considering an idea, “What if it was the other way around?”
 
 “What do you mean, the other way around?” She asked, giving me the side eye.
@@ -6133,16 +5950,7 @@ I nodded, “Fair enough.”
 -----
 
 
-# Oh this has not gone well - 26
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
-Thale has been renamed by patron vote to Halea, to cut down on the confusion between her and Thera.
-
------
+# Chapter 26
 
 Quinn
 
@@ -6230,7 +6038,7 @@ I raised my useless hands, “I’m sorry, I didn’t mean anything by it. I was
 
 “She?” She asked, “Did she ever…” she started to say.
 
-I just raised a hand, looking away for a moment. 
+I just raised a hand, looking away for a moment.
 
 *I don’t think I realized how much it got to me before, but now, putting it into words…*
 
@@ -6465,16 +6273,7 @@ She giggled, “One of my classmates, we absolutely hated each other at first, p
 -----
 
 
-# Oh this has not gone well - 27
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
-Thale has been renamed by patron vote to Halea, to cut down on the confusion between her and Thera.
-
------
+# Chapter 27
 
 Quinn
 
@@ -6514,7 +6313,7 @@ She shook her head, “Brandy told us about someone named Christopher Columbus, 
 
 To my delight Victorina and the rest of her club mates, with the possible exception of Brandy, seemed genuinely interested in what I had to teach them. *I guess they’re my club mates now.* They all had interesting and intelligent questions to ask, and they tested the limits of what I could remember from school. Gravity turned out to be one hell of a rabbit hole, since to explain gravity I had to explain more basic physics, and to explain more basic physics I had to explain math, and to explain math I had to explain decimal numbers.
 
-Kennocha and I had dragged in a large wheeled chalkboard from another room, and aside from Brandy who’d stayed curled up on the couch, the rest of us were standing around the chalkboard as I tried to pack elementary, middle school, and high school math into a few hours. 
+Kennocha and I had dragged in a large wheeled chalkboard from another room, and aside from Brandy who’d stayed curled up on the couch, the rest of us were standing around the chalkboard as I tried to pack elementary, middle school, and high school math into a few hours.
 
 It was hard to tell with Brandy, but I got the sense that she was a little out of her element when it came to this sort of thing. Granted, she had probably learned all of this already, so it was entirely possible that I was simply boring her. Minki was quiet as well, though she still crowded around the chalkboard with the rest of us. The one who really monopolized my attention was Neferoy, particularly once I was done explaining math and we’d gotten on to physics. Some stuff I had to reassemble from memory and Neferoy in particular was usually able to see the connection that I was missing when trying to put an equation back together. By the time we were finally interrupted by a knock at the front door, the chalk board was absolutely covered in physics equations. I’d even sketched out Ohm’s law in the corner, though electricity would take hours of its own to explain.
 
@@ -6670,7 +6469,7 @@ She laughed, elbowing me in the ribs, “Yeah, it’s part of my whole ‘welcom
 
 “Swimming, biking, and running, all in one event. Oh, a bike is just a pedal powered, wheeled vehicle. An Ironman Triathlon is a particularly special Triathlon, two and a half miles swimming, one hundred and twelve on the bike, and then twenty six on foot. All in one day, all in under seventeen hours.”
 
-“And you were going to do that voluntarily? Why?” 
+“And you were going to do that voluntarily? Why?”
 
 I shrugged, “To show how much better I am than everyone else?”
 
@@ -6690,7 +6489,7 @@ She tilted her head from side to side, “Well… It’s not quite blood magic. 
 
 “Hmm, the trouble then is sorting out what your limits are. Might be worth it to use just a touch of vitality sometimes,” I said, moving to stroke my chin with one hand, before I realized the futility of trying it.
 
-“That’s something we can sort out for you when we get back. The last type of energy is soul, and that’s the one that’s worth the most. It’s called soul, but it’s as tied to the body as enervation or vitality are, more so even. Soul is best described as years of your life,” she explained seriously. 
+“That’s something we can sort out for you when we get back. The last type of energy is soul, and that’s the one that’s worth the most. It’s called soul, but it’s as tied to the body as enervation or vitality are, more so even. Soul is best described as years of your life,” she explained seriously.
 
 “Damn, I’ve not got a whole lot of those compared to an elf,” I said, a little flippanty.
 
@@ -6734,7 +6533,7 @@ Victorina nodded along as I explained just what the hell was wrong with me, and 
 
 “Minki’s very similar, I think she’s said fewer than twelve words in your presence, but she’s one of the best people to ask when you need help with something magic related.”
 
-We walked for a little while longer, heading off to one of the bookstores, enjoying the sound of the rain crashing against Victorina’s field spell. It was soothing, like rain against the windows of a car almost, but it had a soft quality to it. The spell didn’t quite create a solid barrier after all, and instead the sound came from the droplets of water meeting the opposing force of the barrier. 
+We walked for a little while longer, heading off to one of the bookstores, enjoying the sound of the rain crashing against Victorina’s field spell. It was soothing, like rain against the windows of a car almost, but it had a soft quality to it. The spell didn’t quite create a solid barrier after all, and instead the sound came from the droplets of water meeting the opposing force of the barrier.
 
 “I wanted to ask you about the club rankings,” I eventually said, breaking the silence, “You mentioned that we’re third or fourth, depending on how the ranking is done. How does that work?”
 
@@ -6777,16 +6576,7 @@ We walked for a little while longer, heading off to one of the bookstores, enjoy
 -----
 
 
-# Oh this has not gone well - 28
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
-Thale has been renamed by patron vote to Halea, to cut down on the confusion between her and Thera.
-
------
+# Chapter 28
 
 Quinn
 
@@ -6936,13 +6726,13 @@ I finished my interrogation eventually, and then it was my turn to get quizzed. 
 
 *I am surrounded by beautiful women who are, for some strange reason, interested in me nerding out about history. This might be the greatest day of my life. Oh, and I also have magic.*
 
-We broke up our little history lesson after an hour or two, and Kennocha went off to order us some food. I followed Victorina’s advice, and went to find where Minki had run off to. 
+We broke up our little history lesson after an hour or two, and Kennocha went off to order us some food. I followed Victorina’s advice, and went to find where Minki had run off to.
 
 -----
 
 Halea pointed me in the direction of the library, and just stepping into the room convinced me that Halea was 100% right to keep the lease on this building. It looked like every Victorian library I’d ever seen in movies or described in books. Bookshelves lined the walls and more were spaced evenly throughout the room. A balcony ringed the wall of the library, with a pair of small spiral staircases leading up to them, allowing access to a second set of bookshelves. The smell of paper and leather mixed with the smell of rain coming in through an open window, and the only sound was the crash of rain against the glass and the flagstones outside. Just standing on the threshold gave me goose bumps, *I’m definitely going to like it here.*
 
-I didn’t see Minki right away, so I took some time exploring. I walked along, reading titles, and I only wished that I could feel the texture of paper and leather under my fingers. I found Minki in the far corner behind several shelves, sitting cross legged, hunched over a book. She seemed engrossed in her book, and didn’t notice me as I stepped around the corner. 
+I didn’t see Minki right away, so I took some time exploring. I walked along, reading titles, and I only wished that I could feel the texture of paper and leather under my fingers. I found Minki in the far corner behind several shelves, sitting cross legged, hunched over a book. She seemed engrossed in her book, and didn’t notice me as I stepped around the corner.
 
 “Hey,” I said quietly, “Mind if I join you?”
 
@@ -6956,7 +6746,7 @@ I walked over, and sat down across from her, also sitting cross legged. Maybe I 
 
 I saw her go through the motions of casting a spell, though I’m not sure what it was, and then she said, “Alright can you show me how you cast the spell please?”
 
-“Sure,” I said, and then spoke the words to cast Apportation. 
+“Sure,” I said, and then spoke the words to cast Apportation.
 
 There must have been more going on, something that I couldn’t quite see, because I saw her eyes scanning the air around me. It was almost as if she were reading words or letters floating in the air before me. As far as I knew, that was exactly what I was doing. She had me cast the spell a few more times, and she eventually seemed to come to some sort of conclusion.
 
@@ -7066,16 +6856,7 @@ I raised my hands, “You win, I’m going to go sleep for a year.”
 
 -----
 
-# Oh this has not gone well - 29
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
-Thale has been renamed by patron vote to Halea, to cut down on the confusion between her and Thera.
-
------
+# Chapter 29
 
 Quinn
 
@@ -7103,7 +6884,7 @@ Minki and I spent the next week or so working on Apportation, and I got to the p
 
 “It takes you or me a day or a little less to know a spell well enough to attempt to cast it, and since we’re so talented that’s usually enough. For the less talented though it can take as many as three days for them to even attempt the spell, and even then, they’ll probably not be able to hold the spell together when they do try it. Learning the theory behind the spell will help, but learning the theory could take as many as five weeks, and even then the spell will probably fail about half the time when they try to cast it.”
 
-“So…” I started, trying to get things straight in my head. 
+“So…” I started, trying to get things straight in my head.
 
 *Damn, five weeks to learn Apportation, and then still not really being able to cast it?*
 
@@ -7149,11 +6930,11 @@ Victorina had pointed me in the direction of a storefront operated by The Mercer
 
 -----
 
-The Mercers’ store was an honest to god, magic shop. 
+The Mercers’ store was an honest to god, magic shop.
 
 *This is the greatest day of my life. Except for yesterday, which was also the greatest day of my life.*
 
-The Mercers had chosen a rather large building to sell their wares from, but even still, the interior of the store was rather cramped. It was all quite well organized, but there was barely enough space for two elves to pass in the small corridors between the shelves. There was quite a lot to choose from and, at least compared to the substantial sum of money I had in the bank, the prices were fairly reasonable. I got rather side tracked when I found the various options for extra-dimensional storage space. There were your bog standard Bags of Holding, though they called them ‘Extra-dimensional Pouches’, but there were some more interesting alternatives available as well. I purchased a belt with several small extra-dimensional pouches, *I am magic batman,* along with a large chest with a similar enchantment, and something that was basically a Portable Hole. The belt was limited by what could actually fit through the opening to each pouch, but the enchantment on it would ensure that whatever I was looking for was immediately to hand. The chest and the ‘Extra-dimensional Handkerchief’ didn’t share that ability, but could store a great deal more, and weren’t limited by the belt’s smaller openings. 
+The Mercers had chosen a rather large building to sell their wares from, but even still, the interior of the store was rather cramped. It was all quite well organized, but there was barely enough space for two elves to pass in the small corridors between the shelves. There was quite a lot to choose from and, at least compared to the substantial sum of money I had in the bank, the prices were fairly reasonable. I got rather side tracked when I found the various options for extra-dimensional storage space. There were your bog standard Bags of Holding, though they called them ‘Extra-dimensional Pouches’, but there were some more interesting alternatives available as well. I purchased a belt with several small extra-dimensional pouches, *I am magic batman,* along with a large chest with a similar enchantment, and something that was basically a Portable Hole. The belt was limited by what could actually fit through the opening to each pouch, but the enchantment on it would ensure that whatever I was looking for was immediately to hand. The chest and the ‘Extra-dimensional Handkerchief’ didn’t share that ability, but could store a great deal more, and weren’t limited by the belt’s smaller openings.
 
 “Hey, if I put this Portable Hole inside one of the belt pouches is it going to open a gate to the Astral Plane and suck in every creature in a ten foot radius, destroying both the pouch and the hole?” I asked the saleswoman, as I paid for the goods.
 
@@ -7183,7 +6964,7 @@ I did pick up a pair of rings of water breathing though, one would go in my pouc
 
 “Are you sure that you’ve quite enough?” asked a high, educated, voice from behind me.
 
-I turned to see a tall, at least for an elf, young man in indigo robes, with gold hair pulled back in a ponytail. He was inspecting my pile of healing items with some amusement. He had a slightly shorter, older elf, shadowing him. Judging from the lack of mage robes I guess that he was a steward or valet. 
+I turned to see a tall, at least for an elf, young man in indigo robes, with gold hair pulled back in a ponytail. He was inspecting my pile of healing items with some amusement. He had a slightly shorter, older elf, shadowing him. Judging from the lack of mage robes I guess that he was a steward or valet.
 
 I shrugged, “Not sure if any of this will help with accidental dismemberment, so probably not. I guess it’ll have to do though,” I replied, “I’m Quinn by the way.”
 
@@ -7199,7 +6980,7 @@ There was a pause, quite a long pause, as we looked at each other. It seemed lik
 
 The steward seemed not to know what to say to this, though Diova raised his eyebrows and nodded slightly.
 
-“It’s fine Seco,” he said, waving dismissively, “I’ve seen you around the building Victorina leases from my family. I’ve been told that you’re not actually taking part in any illicit rendezvous, and have actually joined Victorina’s club. Is this correct?” 
+“It’s fine Seco,” he said, waving dismissively, “I’ve seen you around the building Victorina leases from my family. I’ve been told that you’re not actually taking part in any illicit rendezvous, and have actually joined Victorina’s club. Is this correct?”
 
 “Yeah,” I nodded, “Why?”
 
@@ -7271,7 +7052,7 @@ He grimaced, which was not a good sign, “Generally when someone asks for custo
 
 -----
 
-I walked around the university for a while, ‘seeing’ the sights, and at least getting a feel for the layout of the place. I found that walking helped me to think, and I barely paid any attention to my surroundings as I thought over possible solutions too my two crippling injuries. Amezzer had given me an estimate on what he thought it would take to develop a brand new enchantment to my specification, and it was nowhere near reasonable. The trouble with the University handing out so much money to highly talented Mages was that it made the sort of thing I wanted really damned expensive. Mass casting of existing enchantments was fairly economical, it was how most of the less talented Mages made their money after all. You didn’t need to be incredibly skilled at enchantment to do well at it, you just needed to be ‘good enough’ and willing to put in the hours. To invent a brand new enchantment though? That took a highly talented mage, with a hell of a lot of schooling, and you had to pay him enough that he’d be willing to put in a year or two of solid work. There were also only so many Mages capable of such a thing, and due to the nature of the contract, they’d be busy for the entirety of those one or two years. The number he’d quoted me was double the bursary I was being paid by the University, for a probable two years. I could just about manage that, if I didn’t pay any dues to Victorina’s club, and if I could find an alternative revenue stream. 
+I walked around the university for a while, ‘seeing’ the sights, and at least getting a feel for the layout of the place. I found that walking helped me to think, and I barely paid any attention to my surroundings as I thought over possible solutions too my two crippling injuries. Amezzer had given me an estimate on what he thought it would take to develop a brand new enchantment to my specification, and it was nowhere near reasonable. The trouble with the University handing out so much money to highly talented Mages was that it made the sort of thing I wanted really damned expensive. Mass casting of existing enchantments was fairly economical, it was how most of the less talented Mages made their money after all. You didn’t need to be incredibly skilled at enchantment to do well at it, you just needed to be ‘good enough’ and willing to put in the hours. To invent a brand new enchantment though? That took a highly talented mage, with a hell of a lot of schooling, and you had to pay him enough that he’d be willing to put in a year or two of solid work. There were also only so many Mages capable of such a thing, and due to the nature of the contract, they’d be busy for the entirety of those one or two years. The number he’d quoted me was double the bursary I was being paid by the University, for a probable two years. I could just about manage that, if I didn’t pay any dues to Victorina’s club, and if I could find an alternative revenue stream.
 
 *Hell, I probably can find another way to make money. I’d just rather figure it out* ***before*** *hand. Throwing money at the problem is definitely an option, but it’s one that’ll need to wait a bit.*
 
@@ -7279,7 +7060,7 @@ I was a little more optimistic about my hands though. I’d had some time to thi
 
 -----
 
-I stopped by a couple stores on my way back home, *and it is home,* and picked up a few things. The portable hole had a hell of a lot of internal volume, and I decided to make use of it. I’d originally thought to store pemmican, or some other preserved food, in my extra-dimensional storage solutions, and I probably would put some in one of the belt pouches. There was enough room in the portable hole though for one of the full sized magical fridges though, so I bought one of those as well. There were also a few magical freezers and magical stoves on offer as well, and I also got one of each of those. 
+I stopped by a couple stores on my way back home, *and it is home,* and picked up a few things. The portable hole had a hell of a lot of internal volume, and I decided to make use of it. I’d originally thought to store pemmican, or some other preserved food, in my extra-dimensional storage solutions, and I probably would put some in one of the belt pouches. There was enough room in the portable hole though for one of the full sized magical fridges though, so I bought one of those as well. There were also a few magical freezers and magical stoves on offer as well, and I also got one of each of those.
 
 The Mage running the magical equivalent of Sears asked me if I wanted to complete the kitchen set, and he showed me what was essentially a standalone section of kitchen countertop. There was space for preparing food, and a sink set into the counter. I couldn’t help it, I burst into laughter, and I was sure that the little elf thought that I’d gone insane. I took that as well, and made a speedy departure, still giggling to myself.
 
@@ -7291,9 +7072,9 @@ Sila was waiting for me outside the clubhouse.
 
 Well, waiting wasn’t quite the right word. For one thing, she was standing on the far side of the street. For another, she seemed to be lurching back and forth. One moment she’d step confidently to cross the street, then she’d chicken out, turn around, and walk back. She stood there for a second, arms wrapped around herself, seeming to take deep breaths, before turning around and trying again. She did this a couple times, before I finally decided to make myself known.
 
-She didn’t notice me as I walked up behind her, she was far too distracted, and was staring intently at the front door of the clubhouse. I smirked, and stood there quietly as she worked herself up to it. 
+She didn’t notice me as I walked up behind her, she was far too distracted, and was staring intently at the front door of the clubhouse. I smirked, and stood there quietly as she worked herself up to it.
 
-*I guess human hearing really is better than elf hearing.* 
+*I guess human hearing really is better than elf hearing.*
 
 She got as far as the third stride, before her courage broke, and she turned around. She froze, as soon as she saw me, and I realized for the first time that this might have been a bad idea.
 
@@ -7323,16 +7104,7 @@ Sila seemed too excited to be paying much attention to what I was saying, and ca
 
 “It’ll be fine, come on,” I said, and I led her inside.
 
-# Oh this has not gone well - 30
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
-Thale has been renamed by patron vote to Halea, to cut down on the confusion between her and Thera.
-
------
+# Chapter 30
 
 Victorina
 
@@ -7394,7 +7166,7 @@ Quinn was an attractive man, and an Outsider. An exotic Outsider at that, I knew
 
 “That’s fine Quinn,” I said, and I felt a little guilty.
 
-Quinn didn’t deserve **quite** that level of cynicism, even if he was related to Andrew. By all accounts Andrew was quite the talented Mage, but he, like most male Outsiders, was a hopeless womanizer. I’d expected more of the same from Quinn, if that was the price to get such a talented Mage, then I supposed that I’d just need to pay it. I shouldn’t have been so harsh though, Quinn hadn’t said much about his time in Adympia, but it seemed like there were still some wounds that had yet to heal. Besides, he’d been perfectly gentlemanly so far, even if he was spending a great deal of time alone with Minki. 
+Quinn didn’t deserve **quite** that level of cynicism, even if he was related to Andrew. By all accounts Andrew was quite the talented Mage, but he, like most male Outsiders, was a hopeless womanizer. I’d expected more of the same from Quinn, if that was the price to get such a talented Mage, then I supposed that I’d just need to pay it. I shouldn’t have been so harsh though, Quinn hadn’t said much about his time in Adympia, but it seemed like there were still some wounds that had yet to heal. Besides, he’d been perfectly gentlemanly so far, even if he was spending a great deal of time alone with Minki.
 
 *I can reserve judgement for later, for now, he deserves the benefit of the doubt. Especially if she really is just a friend.*
 
@@ -7430,7 +7202,7 @@ Quinn just blinked at the girl, and rubbed at his forehead with the back of one 
 
 “That’s…” Quinn started, “That’s not what I meant at all.”
 
-I left Quinn to his predicament, and went upstairs to find out what was wrong with Thera. It was not like her to hide when guests were over, that was more like something Minki would do, and even she wasn’t quite so obvious about it. Quinn managed to get the girl moving towards one of the smaller sitting rooms, he likely didn’t want an audience for his conversation, and Thera stepped out from behind the pillar once they’d left. 
+I left Quinn to his predicament, and went upstairs to find out what was wrong with Thera. It was not like her to hide when guests were over, that was more like something Minki would do, and even she wasn’t quite so obvious about it. Quinn managed to get the girl moving towards one of the smaller sitting rooms, he likely didn’t want an audience for his conversation, and Thera stepped out from behind the pillar once they’d left.
 
 I just raised a questioning eyebrow.
 
@@ -7452,7 +7224,7 @@ I did agree with Thera, it was all really rather romantic, but I could certainly
 
 Thera shrugged, “I have no idea. Quinn didn’t mention her at all when we were in Myra. Actually…” she trailed off, seeming to think, “Oh, oh my… Actually, if I’ve put together the chain of events right… Two days after Quinn’s rather brusque goodbye to Sila, he was jumping into bed with me.”
 
-I raised an eyebrow, “Are you two still…” 
+I raised an eyebrow, “Are you two still…”
 
 She shook her head, “Nah, the flirting’s just a bit of fun. And I like to tease him, it’s cute when he blushes.”
 
@@ -7489,26 +7261,15 @@ I got hit in the face with a pillow almost immediately, and there was a brief, b
 -----
 
 
-# Oh this has not gone well - 31
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
-I haven’t had quite as much time to write, so I’m afraid that this is a short one again. Hopefully I can get that turned around, but for now it’s a little shorter.
-
-I’VE GOT COOL SHIT PLANED, it’s just taking a while. Stupid real life getting in the way.
-
------
+# Chapter 31
 
 Victorina
 
 -----
 
-Quinn saw Sila to the door some time later. I didn’t know the details of what Quinn said to her, but based on what Thera told me, and Sila’s red eyes and blotchy face, I could guess. 
+Quinn saw Sila to the door some time later. I didn’t know the details of what Quinn said to her, but based on what Thera told me, and Sila’s red eyes and blotchy face, I could guess.
 
-He sat down on the bench by the door after she’d left, with a lost look on his face, starting at the floor. I watched him for a moment, with his eyes as bad as they were, I don’t think he saw me standing just inside the hallway. Whatever he was thinking about, whether it was Sila or his time in Adympia, it clearly troubled him. 
+He sat down on the bench by the door after she’d left, with a lost look on his face, starting at the floor. I watched him for a moment, with his eyes as bad as they were, I don’t think he saw me standing just inside the hallway. Whatever he was thinking about, whether it was Sila or his time in Adympia, it clearly troubled him.
 
 I stepped out into the entry room, and he perked up immediately.
 
@@ -7562,7 +7323,7 @@ He put up his hands in surrender, “I know, I know, and I’m probably being pe
 
 I let out a very unladylike snort, “Have something to prove Quinn?”
 
-“It’s just not right,” He said indignantly, though he seemed half-joking, “The universe is conspiring against me, all that time teasing me for playing Dungeons & Dragons, and now he’s the one with more magic. Dammit, but that’s not how it’s supposed to work!” 
+“It’s just not right,” He said indignantly, though he seemed half-joking, “The universe is conspiring against me, all that time teasing me for playing Dungeons & Dragons, and now he’s the one with more magic. Dammit, but that’s not how it’s supposed to work!”
 
 “Oh? And how is it supposed to work?”
 
@@ -7574,7 +7335,7 @@ I raised an eyebrow, “Are there maybe some repressed frustrations there Quinn?
 
 I just rolled my eyes, “You said you like games, have you had a chance to try any since getting to the university?”
 
-“Not really, I’ve not played Zatrikion since before Adympia. Why?” 
+“Not really, I’ve not played Zatrikion since before Adympia. Why?”
 
 “Well we’ve got some games here at the University that you might like, and they’re rather more interesting than Zatrikion. Tomorrow is Feastday, so most of us don't have anything important to do, at least not in the morning. Most times we’ll usually get together and relax a bit. I’ll order us some food, and we can all stay up late and show you some of the University’s games.”
 
@@ -7622,7 +7383,7 @@ Minki’s word, *maybe not ‘word’,* of approval was enough, and the rest of 
 
 We’d been playing for hours, and it was nearly midnight by the time we’d started to wrap things up. Quinn had taken to the game immediately, and had said that it was similar to Earth games like ‘Warhammer’ or ‘Axis&Allies’. Whatever the case, Quinn had grasped the general strategy and tactics immediately, and only needed a little coaching in the rules to get going. He said that with the enchanted game pieces, this was the closest thing to ‘videogames’ that he was ever likely to see again.
 
-Whatever ‘videogames’ might be, Quinn seemed to enjoy the experience, and he threw himself into the game. By the time we had finished he was able to win every fifth game or so against Minki or I, and was more or less evenly matched with the others. 
+Whatever ‘videogames’ might be, Quinn seemed to enjoy the experience, and he threw himself into the game. By the time we had finished he was able to win every fifth game or so against Minki or I, and was more or less evenly matched with the others.
 
 “Quinn?” Ken asked softly, “Could you give me a hand here?”
 
@@ -7691,21 +7452,10 @@ Quinn was an odd one, and not just because he was a human, though his size was o
 There would come a time, probably soon, when the club would be the only home, and the only family for the rest of my sisters. There was going to come a time when the titles held, the family relationships, and the money, counted for very little. And it would probably be soon.
 
 -----
- 
 
 
-# Oh this has not gone well - 32
 
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
-Not a huge amount of magic here, BUT SOON. It’s only taken thirty two chapters so far, I mean, he’s got to have the chance to create his own spells eventually, right? Right?
-
-Thale has been renamed by patron vote to Halea, to cut down on the confusion between her and Thera.
-
------
+# Chapter 32
 
 Victorina
 
@@ -7753,7 +7503,7 @@ He disembarked as soon as the carriage stopped, rather than waiting for the coac
 
 “Is there an Enlarge spell I can learn?” He asked absently, “Being a giant was rather interesting at first, but the novelty wore off rather quickly.”
 
-“You mean to enlarge an object I’m guessing?” I asked, as I stepped out of the carriage. 
+“You mean to enlarge an object I’m guessing?” I asked, as I stepped out of the carriage.
 
 Quinn did not offer an arm to help me down, and I wasn’t sure if that made me pleased, or irritated. I appreciated him respecting my focus on independence, but sometimes a lady likes to be taken care of.
 
@@ -7765,11 +7515,11 @@ Quinn did not offer an arm to help me down, and I wasn’t sure if that made me 
 
 *Oh Victorina, what have you gotten yourself into with this one?*
 
-One of the King’s stewards approached us in short order, and we were led through the keep and into a sitting room in the base of one of the forebuildings, to await the King’s attention. 
+One of the King’s stewards approached us in short order, and we were led through the keep and into a sitting room in the base of one of the forebuildings, to await the King’s attention.
 
 “Is it possible to-” Quinn had begun to ask, before we were suddenly interrupted.
 
-There was an indistinguishable shout, a hiss, a whoompf, and then a loud bang, from out in the courtyard. It gave me quite a start, and I bolted up from where I’d been sitting, a spell already on my lips. 
+There was an indistinguishable shout, a hiss, a whoompf, and then a loud bang, from out in the courtyard. It gave me quite a start, and I bolted up from where I’d been sitting, a spell already on my lips.
 
 Quinn raised a hand, “It’s alright Victorina, well, probably,” he said, as he went to the narrow exterior door. He stepped out onto the high platform that jutted from the side of the forebuilding, and peered over the railing to the courtyard below. I followed behind him, and looked out over the courtyard to see a formation of soldiers in the midst of some sort of drill. I thought at first that they were armed with some sort of spear, but even I could tell that they were holding the weapons wrong for that to be the case, and the weapons lacked any sort of sharpened tip as well. There was a great deal of smoke before the men, of which there were possibly thirty, all spread out in a single row. They faced a set of archery targets, but I couldn’t see how their weapons might possibly launch an arrow or a bolt. They seemed to consist mostly of a bronze tube, with a thick wooden section attached to the back, which was then tucked under one arm.
 
@@ -7837,7 +7587,7 @@ My speculation was interrupted however, by the arrival of King Nezzabi. We all r
 
 I took it, and followed him from the room.
 
------ 
+-----
 
 “I thought that Lord Walsh was tall, your Quinn is something else,” he said, once we were settled in a separate sitting room.
 
@@ -7911,7 +7661,7 @@ King Nezzabi frowned, “You’re right of course Vicky,” he said solemnly, �
 
 *You mean if you were allowed to father the imperial heir? You’ll protect me as long as I let you fuck me?*
 
-“No.” I said, with restrained anger. It took me a moment to compose myself, I still needed this relationship, I couldn’t take my rejection as far as I might have liked, “I appreciate the offer Your Majesty, but I escaped alone, and I will continue alone.” 
+“No.” I said, with restrained anger. It took me a moment to compose myself, I still needed this relationship, I couldn’t take my rejection as far as I might have liked, “I appreciate the offer Your Majesty, but I escaped alone, and I will continue alone.”
 
 “What about your clubmates?” He asked, I still hadn’t turned to face him, and I could feel his eyes on my back.
 
@@ -7959,7 +7709,7 @@ I pushed open the door to the room, ignoring the half-hearted protests from the 
 
 “Quinn, do you have that bill of pedigree?” I asked, loudly enough to surprise Lord Walsh, and hold off his next outburst.
 
-Quinn’s eyes lit up, and then he allowed himself a small smile. One belt pouch opened of its own accord, and a scroll floated out, which then unrolled itself. 
+Quinn’s eyes lit up, and then he allowed himself a small smile. One belt pouch opened of its own accord, and a scroll floated out, which then unrolled itself.
 
 “Oh yeah?” Andrew asked, “And what the hell is the point of this?”
 
@@ -7985,7 +7735,7 @@ Lord Walsh raised his hands, “There’s a point sir, I promise. How about this
 
 “No,” Quinn said, standing up, “I’m not making any such agreement. You’re going to leave me, and my money alone, and I will do exactly as I like.”
 
-It was only a deathly look from King Nezzabi that kept Lord Walsh from exploding at his nephew, and Quinn stepped between Lord Walsh and Andrew to stand before the King. 
+It was only a deathly look from King Nezzabi that kept Lord Walsh from exploding at his nephew, and Quinn stepped between Lord Walsh and Andrew to stand before the King.
 
 He bowed, brought one hand to his chest, and spoke, “Your Excellency, I was honoured to be presented with your gracious offer, and I understand the magnitude of just what it means to be presented with such a chance. It is only because I fear myself unsuitable that I cannot accept it. His Lordship can furnish a greater explanation if you require it, but my vision is so poor as to render me all but blind on the battlefield, and due to an extended period spent wearing Adympian slave manacles, I’m afraid I’ve lost the use of both hands. It is only through my meagre magical talent, such as you saw when I gave you the scroll, that I can see to my own needs at all. Your offer honours me, though I fear that I would not be able to serve you as capably as another might, so I cannot in good conscience accept your prestigious offer. I also apologize for the altercation just now, and I take full responsibility, I assure you that it will not happen again. I hope that I have not offended you too greatly, and I beg your forgiveness.”
 
@@ -7995,7 +7745,7 @@ There was a beat, as we each took a moment to process Quinn’s little speech. I
 
 I didn’t have any idea what King Nezzabi had offered Quinn, and probably neither did King Nezzabi, but it didn’t really matter.
 
-“I suppose I can be reasonable,” King Nezzabi said graciously, “It’s understandable that such a meeting after so long apart might cause us all to get a little… excited,” and he returned the bill of pedigree, which was taken up by an invisible hand and stowed back in Quinn’s belt. 
+“I suppose I can be reasonable,” King Nezzabi said graciously, “It’s understandable that such a meeting after so long apart might cause us all to get a little… excited,” and he returned the bill of pedigree, which was taken up by an invisible hand and stowed back in Quinn’s belt.
 
 It was only after putting away the document that Quinn straightened from his bow, “Your Excellency, if I may take my leave, I do not wish to cause you further trouble.”
 
@@ -8034,18 +7784,7 @@ And I did.
 -----
 
 
-# Oh this has not gone well - 33
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
-Not a huge amount of magic here, BUT SOON. It’s only taken thirty two chapters so far, I mean, he’s got to have the chance to create his own spells eventually, right? Right?
-
-Thale has been renamed by patron vote to Halea, to cut down on the confusion between her and Thera.
-
------
+# Chapter 33
 
 Victorina
 
@@ -8103,7 +7842,7 @@ I nodded, “Even a babe, so long as it was male, might be enough to stabilize t
 
 “No, but more is generally seen as indulgent. Even five is considered somewhat indecent, though you do make a good point. I expect that my father will forego appearances if it means that he can produce a male heir more quickly. Even the more conservative vassals are likely to look the other way, if it means that the status quo is supported.”
 
-“Exactly. So your father loses both of his heirs, and needs new ones, so he takes some more concubines. Maybe a lot more, because he’s not sure how long it’s going to be before the assassins get to him. After all, if they could get to his sons, they might be able to get to him as well. So he pushes the bounds of decency as far as he can afford to…” 
+“Exactly. So your father loses both of his heirs, and needs new ones, so he takes some more concubines. Maybe a lot more, because he’s not sure how long it’s going to be before the assassins get to him. After all, if they could get to his sons, they might be able to get to him as well. So he pushes the bounds of decency as far as he can afford to…”
 
 My eyes widened, as I realized the point Quinn was coming to, “And the culprit has seen to it that one of the women my father might take as a concubine, is in fact loyal to the conspiracy.”
 
@@ -8239,7 +7978,7 @@ I sighed, “We seek the support of one of the guilds. We’re all quite talente
 
 “And that’s the sort of thing you’ve been trying to avoid in the first place,” Quinn acknowledged.
 
-“I’m probably being too harsh, not everyone in guild leadership is a lecherous bastard, its just...” I sighed, running my hands through my hair. 
+“I’m probably being too harsh, not everyone in guild leadership is a lecherous bastard, its just...” I sighed, running my hands through my hair.
 
 “You shouldn’t need to be on your guard all the time in your own home,” Quinn finished, “Which was the whole reason for having an all female club.”
 
@@ -8305,7 +8044,7 @@ I just put my head in my hands.
 
 -----
 
-We stopped by the glassblower, several actually, since Quinn didn’t seem satisfied with the quality of most of the samples we saw. We eventually found a shop that produced their glass with the help of a fire mage, and this seemed to be enough for Quinn. He bought nearly fifty pounds of glass in various thicknesses, and tucked it all away into his extra-dimensional handkerchief. 
+We stopped by the glassblower, several actually, since Quinn didn’t seem satisfied with the quality of most of the samples we saw. We eventually found a shop that produced their glass with the help of a fire mage, and this seemed to be enough for Quinn. He bought nearly fifty pounds of glass in various thicknesses, and tucked it all away into his extra-dimensional handkerchief.
 
 “Quinn,” I asked, a little alarmed, “Do you have a stove in there?”
 
@@ -8330,18 +8069,7 @@ We stopped by the glassblower, several actually, since Quinn didn’t seem satis
 -----
 
 
-# Oh this has not gone well - 34
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
-THERE’S MAGIC.
-
-Testing of Quinn’s new combat spell will be in the next update, along with specific figures on just how powerful it is, but I believe I’ve provided all the numbers you’d need to work it out for yourself ahead of time. If you were so inclined.
-
------
+# Chapter 34
 
 Quinn
 
@@ -8365,7 +8093,7 @@ Ken just put her face in her hands, “I thought you said that we might be able 
 
 “I know you’re like, smart and stuff, but this seems like it’d be really hard,” Brandy said, “Maybe we should try something easier.”
 
-“And we are going to do that too, but we’ve got a better chance of success if we attack the problem from multiple angles. One of those angles is trying to lift the curse. It’s like I told Victorina earlier, whatever we do to lift the curse will need to be something brand new, since most stuff will have been tried in the past thousand years. Well the two of us **are** new, there may have been other humans to try to lift the curse, but we’re probably the first from the twenty-first century to try it.” 
+“And we are going to do that too, but we’ve got a better chance of success if we attack the problem from multiple angles. One of those angles is trying to lift the curse. It’s like I told Victorina earlier, whatever we do to lift the curse will need to be something brand new, since most stuff will have been tried in the past thousand years. Well the two of us **are** new, there may have been other humans to try to lift the curse, but we’re probably the first from the twenty-first century to try it.”
 
 Brandy perked up, “So we’re going to use science and stuff?”
 
@@ -8481,7 +8209,7 @@ I had an outline of a plan, but there was still a great deal that I was missing.
 
 “Why haven’t more people tried to dispel the enchantment?” I asked, frowning in thought, “Seems like that got closer than anything else at solving the problem.”
 
-“It’s damned hard,” Neferoy replied, “Countering any spell is hard enough, dispelling an enchantment is even more difficult, and in both cases you need to know the spell or enchantment in great detail. Which as you can imagine is difficult because…” 
+“It’s damned hard,” Neferoy replied, “Countering any spell is hard enough, dispelling an enchantment is even more difficult, and in both cases you need to know the spell or enchantment in great detail. Which as you can imagine is difficult because…”
 
 “Time spells are so closely guarded and tightly controlled,” I completed, “Hold on, you said it was drawn to them once they approached the stasis field, does it not attack if you keep away from the field?”
 
@@ -8501,7 +8229,7 @@ Halea smirked, “No, most battlemages have a fairly good idea of just why the w
 
 “I would hope so,” Halea sighed.
 
-“So.” Victorina stated, “An essentially indestructible wraith, that over the course of the past thousand years has killed more Mages than perhaps any other person, creature, or monster, in existence. And you really think that you can destroy it for good?” 
+“So.” Victorina stated, “An essentially indestructible wraith, that over the course of the past thousand years has killed more Mages than perhaps any other person, creature, or monster, in existence. And you really think that you can destroy it for good?”
 
 “Hell no,” I said, “I barely know anything about magic, let alone combat magic, the thing would tear me in half.”
 
@@ -8513,7 +8241,7 @@ Victorina nodded, “That seems like sound reasoning, how are you going to do it
 
 -----
 
-Ice-cream was a big hit, especially the peanut butter ice-cream, and I was pleased with how well it turned out with so little time to prepare. Ice cream, as it happens, is pretty simple. 
+Ice-cream was a big hit, especially the peanut butter ice-cream, and I was pleased with how well it turned out with so little time to prepare. Ice cream, as it happens, is pretty simple.
 
 *Ice and cream, who knew? Well, also sugar. And peanut butter. Man, I should make some cinnamon ice cream…*
 
@@ -8549,7 +8277,7 @@ We’d gone into the area north of the city, where the former holdings of the Pr
 
 “In theory, sure,” she said, from her place at the other end of the small clearing, “But it’s finding ways to bypass or counter an opponent’s blocking spell, or finding ways to not need to cast one of your own, that sets one Mage apart from another though. Your trick to combine a blocking spell with a dodge is quite clever though. I’m surprised you can pull it off with so little practice.”
 
-She was talking about the tactic I’d devised to make better use of my limited supply of enervation when it came time to avoid an attack. Calling it a ‘tactic’ or ‘strategy’ was probably overly generous though. I’d figured out early on that I could cast low powered version of either spell without using any enervation, much like I could with enervation. Equally quickly, I found that lower powered versions of the spells were rarely enough to stop what she was throwing at me. Catching the projectile early, just as she threw it, helped a lot. Both version of the spell diverted the attack to miss the caster, with more power causing a greater diversion. Catching it early meant that you needed less of a diversion, but that was hard to time properly. You could risk a lesser diversion at close range, but if the other caster put any real power into the spell then their spell would fight against your defensive magic and stay mostly on course to hit you. 
+She was talking about the tactic I’d devised to make better use of my limited supply of enervation when it came time to avoid an attack. Calling it a ‘tactic’ or ‘strategy’ was probably overly generous though. I’d figured out early on that I could cast low powered version of either spell without using any enervation, much like I could with enervation. Equally quickly, I found that lower powered versions of the spells were rarely enough to stop what she was throwing at me. Catching the projectile early, just as she threw it, helped a lot. Both version of the spell diverted the attack to miss the caster, with more power causing a greater diversion. Catching it early meant that you needed less of a diversion, but that was hard to time properly. You could risk a lesser diversion at close range, but if the other caster put any real power into the spell then their spell would fight against your defensive magic and stay mostly on course to hit you.
 
 Cast relatively late, a low powered Deflect Energy would knock her little stunner spell off target just enough to hit me in the shoulder, instead of the chest. I suppose that helped, I’d rather get shot in the arm than the heart after all, but better still was not getting shot at all.
 
@@ -8575,7 +8303,7 @@ I shrugged, and noticed for the first time just how sore I was, “Well I’ve b
 
 I snapped one hand towards her and muttered a word. Three little orbs of light, in a horizontal line, streaked from my hand and towards her position across the clearing.
 
-She made a quick little gesture with one hand and a bluish plane of force appeared between us, which the projectiles then slammed against. I threw myself to the ground when I saw the shield go up, and cast Basic Illusion as quickly as I could. I got it off before her shield dropped, and the first thing she saw as the shield went down was a duplicate of myself running to one side. She bought it, and threw a pair of orbs at the duplicate, one after the other, in quick succession. The duplicate got ‘hit’ and stumbled, going down. It was at this point that I threw myself to my feet, throwing another trio of orbs at once as I rose. 
+She made a quick little gesture with one hand and a bluish plane of force appeared between us, which the projectiles then slammed against. I threw myself to the ground when I saw the shield go up, and cast Basic Illusion as quickly as I could. I got it off before her shield dropped, and the first thing she saw as the shield went down was a duplicate of myself running to one side. She bought it, and threw a pair of orbs at the duplicate, one after the other, in quick succession. The duplicate got ‘hit’ and stumbled, going down. It was at this point that I threw myself to my feet, throwing another trio of orbs at once as I rose.
 
 As it turned out, she hadn’t bought it. She’d barely even turned to face me when one hand came up, and an orb of her own launched towards my position. I threw out a full powered Deflect Energy in response. She cast her shield spell at the same time, and I continued to close the distance between us as quickly as I could. Her orb was thrown off course, and my own slammed against her protective magic. I saw her casting another spell, and didn’t bother to wait. I started casting Deflect Energy immediately, and I finished just after she did.
 
@@ -8587,7 +8315,7 @@ I tried to push myself back up with my useless hands, but slipped and fell back 
 
 “Oh Quinn, you’re a little messy,” Halea said, from somewhere fairly close, “Why don’t I give you a hand.”
 
-There was another torrent of water, which this time blasted me in the face, and I was pushed several metres through the mud. It took me a moment to get my bearings, and I found myself floundering around on my back in the mud. I shook my head again, trying to get the mud out of my eyes. I started to get some vision back, though what I could see was obscured by white and black splotches. 
+There was another torrent of water, which this time blasted me in the face, and I was pushed several metres through the mud. It took me a moment to get my bearings, and I found myself floundering around on my back in the mud. I shook my head again, trying to get the mud out of my eyes. I started to get some vision back, though what I could see was obscured by white and black splotches.
 
 I heard splashes approaching to one side as Halea approached, and then she spoke in an amused tone, “Mmm Quinn, you are a dir-ty dir-ty boy.”
 
@@ -8623,7 +8351,7 @@ She lunged forwards, trying to hit me in the chest and push me over, but I was r
 
 -----
 
-We managed to get ourselves cleaned up and on our way back to the clubhouse a short time later, though we both fell down giggling a few more times before we got on our way. 
+We managed to get ourselves cleaned up and on our way back to the clubhouse a short time later, though we both fell down giggling a few more times before we got on our way.
 
 “Hold on,” I said, as we left the forest and came out onto the road, “Let’s go this way.”
 
@@ -8657,7 +8385,7 @@ I rolled my eyes, though I did feel myself turn slightly pink, “You’ve been 
 
 “Of course, what exactly were you expecting Quinn?” Halea asked.
 
-‘Guild hall’ did not do it justice. I expected some fancy old brick building, or something like one of those really fancy A-frame chalets I’d seen when I’d been to Banff in British Colombia. This was not what I saw. I saw a damned castle. I took my glasses from one of my belt pouches, and put them on so I could get a better look. 
+‘Guild hall’ did not do it justice. I expected some fancy old brick building, or something like one of those really fancy A-frame chalets I’d seen when I’d been to Banff in British Colombia. This was not what I saw. I saw a damned castle. I took my glasses from one of my belt pouches, and put them on so I could get a better look.
 
 The structure was enormous. A massive curtain wall ringed the base of the hill, and it must have been twenty metres tall. The castle itself was even taller, and I counted five stories just in the central keep. The keep was hexagonal, and a massive stone tower dominated each of the corners of the keep. Each one was fully twice as tall as the keep proper, and each one looked like it was about as thick around as the entire clubhouse was. The eight of us could live in just the bottom half of one of those six towers, and we’d still have more space than we’d ever get at the clubhouse.
 
@@ -8676,22 +8404,15 @@ CONTINUED IN COMMENTS. I hit the character limit on this post, but didn't want t
 -----
 
 
-# Oh this has not gone well - 35
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
------
+# Chapter 35
 
 Quinn
 
 -----
 
-I skipped my normal meetings with Neferoy and Halea the following day. They were both willing to work hard to help me out, but I got the impression that I’d started to push the boundaries of what they considered reasonable. It’s not that they’d been rude or even that they’d blown me off, but I had been taking a great deal of time over the past month, and it was only reasonable that they’d started to get a little weary of me. I’d been pushing myself rather hard over the past several weeks, only taking breaks on Feastdays, and working the other six days of the week. Of course, that also meant I wasn’t giving the others much of a break either. 
+I skipped my normal meetings with Neferoy and Halea the following day. They were both willing to work hard to help me out, but I got the impression that I’d started to push the boundaries of what they considered reasonable. It’s not that they’d been rude or even that they’d blown me off, but I had been taking a great deal of time over the past month, and it was only reasonable that they’d started to get a little weary of me. I’d been pushing myself rather hard over the past several weeks, only taking breaks on Feastdays, and working the other six days of the week. Of course, that also meant I wasn’t giving the others much of a break either.
 
-As for Minki? Well that was a different story. I’d already been working with Minki for a couple of weeks before I ever started with the other two, but she had actually rejected my offer to finish the spell creation and testing on my own. 
+As for Minki? Well that was a different story. I’d already been working with Minki for a couple of weeks before I ever started with the other two, but she had actually rejected my offer to finish the spell creation and testing on my own.
 
 Her response had been, “I don’t mind the work Quinn, besides, this is the sort of thing I like to do anyways.”
 
@@ -8777,17 +8498,17 @@ I’d fallen into a crouch, half-curled around her, when the fragments had start
 
 “Sorry,” I said, stepping back and standing up, “I’m really, really sorry. That was stupid of me, I should have expected something like that to happen.”
 
-She looked uninjured, though a little shaken, which made me feel much better. I wouldn’t have been able to forgive myself if I’d hurt her out of sheer stupidity. 
+She looked uninjured, though a little shaken, which made me feel much better. I wouldn’t have been able to forgive myself if I’d hurt her out of sheer stupidity.
 
 She reached out just a little as I pulled away, before turning pink and snatching back the hand, “It’s okay, I’m okay. Are you okay?”
 
 “Yeah, Minki… I am so sorry,” I repeated, still absolutely abashed.
 
-“It’s okay Quinn really,” she reassured me, then she allowed herself a small smile, “Normally I’m the one apologizing profusely. It’s kind of swee-“ she stopped suddenly, eyes widening, “Quinn!” she exclaimed. 
+“It’s okay Quinn really,” she reassured me, then she allowed herself a small smile, “Normally I’m the one apologizing profusely. It’s kind of swee-“ she stopped suddenly, eyes widening, “Quinn!” she exclaimed.
 
 “What?” I asked, as she bent down, peering at my leg, “Oh, damn…”
 
-It wasn’t until I noticed the trickly blood that I felt the pain. There was a small hole in the back of my jeans where they covered my calf, and the area around the hole was red with blood. 
+It wasn’t until I noticed the trickly blood that I felt the pain. There was a small hole in the back of my jeans where they covered my calf, and the area around the hole was red with blood.
 
 *Maybe I should have paid attention when Amezzer said that my jeans couldn’t hold a very sturdy enchantment.*
 
@@ -8835,7 +8556,7 @@ I grumbled, and waved one hand, “I did a stupid thing, but managed to hurt onl
 
 Minki had me patched up in short order, and I put my jeans back on. Halea had patched up and cleaned the leg of my jeans, and despite her protests, I put them back on.
 
-Then I did some math, and I realized that I’d made an error. Well, another error. The first one was firing at an iron target at close range. The second one was a mathematical error. I’d assumed that twice as much mana meant twice as much energy. This was not how the spell worked though, twice as much mana meant twice as much force. Twice as much force meant twice as much speed, and twice as much speed, meant **four** times as much energy. 
+Then I did some math, and I realized that I’d made an error. Well, another error. The first one was firing at an iron target at close range. The second one was a mathematical error. I’d assumed that twice as much mana meant twice as much energy. This was not how the spell worked though, twice as much mana meant twice as much force. Twice as much force meant twice as much speed, and twice as much speed, meant **four** times as much energy.
 
 I’d assumed that with two mana the spell would give me performance that worked out to a little less than a 7.62x51mm rifle cartridge. When most people think of a ‘sniper rifle’, this is what that rifle fires. But I didn’t get three thousand joules of energy in exchange for two mana, I got six thousand joules of energy. This meant that the result was comparable to a .338 Lapua Magnum round, and if you’re not familiar with guns, a .338 is a very powerful cartridge. Elephant guns and big bore rifles aside, in military applications if you want a more powerful cartridge, your only real choice is the .50 BMG. Granted, if I’d been right about the math, firing a 7.62mm cartridge at a relatively thin iron plate still wouldn’t have been a very smart idea, but it wouldn’t have thrown fragments as far as the .338 equivalent did.
 
@@ -8907,7 +8628,7 @@ Halea grimaced, “About that Quinn…”
 
 “I’ll be careful Halea,” I reassured her, “And besides, I’m pretty familiar with the way that Andrew likes to fight,” *as long as videogames count as fighting.*
 
-Halea didn’t seem convinced, but she also didn’t press the issue. We did a bit more testing, this time at a safer distance, and we discovered what I’d pretty much already guessed from my mathematical scribbling. 
+Halea didn’t seem convinced, but she also didn’t press the issue. We did a bit more testing, this time at a safer distance, and we discovered what I’d pretty much already guessed from my mathematical scribbling.
 
 The spell was damned powerful.
 
@@ -8957,7 +8678,7 @@ Halea huffed out an amused breath, “That’s smart of you. I hope you don’t 
 
 “No,” Halea replied, “The soul was forced back out immediately. Her ‘body’ is a body, it’s dead. A soul can’t bind to a body unless it’s alive. For all I know, a soul can’t bind to **anything** once it’s been cut loose.”
 
-“Well,” *shit,* “This might be slightly more difficult than I thought it would be.” 
+“Well,” *shit,* “This might be slightly more difficult than I thought it would be.”
 
 -----
 
@@ -8978,16 +8699,7 @@ For my next trick, chlorine trifluoride!
 -----
 
 
-# Oh this has not gone well - 36
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00.
-
-This one is much shorter than I’d like, but I had to cut a fairly large section from the end. It needs some more work, and I didn’t want to rush it out. 
-
------
+# Chapter 36
 
 Victorina
 
@@ -9120,16 +8832,7 @@ Minki shook her head, “No, he said it was specifically non-magical stuff that 
 “I hope he finds what he’s looking for,” I said, “I can only imagine how frustrated I would be if I had only Apportation manipulators to interact with the world through, and nothing else.”
 
 
-# Oh this has not gone well - 37
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00. 
-
-Short again, still working on the bit I mentioned previously. You can probably expect the next post to be pretty big though.
-
------
+# Chapter 37
 
 Quinn
 
@@ -9179,7 +8882,7 @@ I was much less lucky with my research into the Prefecture of Ariros. There was 
 
 What I did find, however, was an obvious adventure hook.
 
-The Library, and the University by extension, was not one for burning books. This meant that they took any texts that they found objectionable, Time and Necromancy spells especially, and locked them away. The southeast tower of the Library held this collection of books, and was referred to as the ‘Restricted Collection’. Of course, this was nonsense. 
+The Library, and the University by extension, was not one for burning books. This meant that they took any texts that they found objectionable, Time and Necromancy spells especially, and locked them away. The southeast tower of the Library held this collection of books, and was referred to as the ‘Restricted Collection’. Of course, this was nonsense.
 
 *Restricted Collection? These Nimeran Mages can’t name anything right, it should clearly be called the Forbidden Tower.*
 
@@ -9198,14 +8901,7 @@ Even if the original copy of the stasis enchantment wasn’t there, it might be 
 
 
 
-# Oh this has not gone well - 38
-
-
-I’ve got a Patreon now .
-
-Want to know what it’s like to need glasses? Check  out. You can skip most of it, the part that matters is roughly 4:45 to 6:00. 
-
------
+# Chapter 38
 
 Quinn
 
@@ -9255,19 +8951,19 @@ I took courses on Battle Magic, Enchantment, Spell Invention, and Healing. Lili 
 
 -----
 
-I spent the late afternoon and early evening reading up on what enchantment texts I could find in the club’s library. I had plans to heal my hands, and possibly even my eyes, using the arena to do the test runs, but enchantment offered solutions as well. They weren’t quite as good as a full healing would be, but enchantment was also more likely to work. With the healing I was essentially relying on the magic to pull the relevant information out of my subconscious, which seemed dodgy at best. I was more confident about enchantment working, even if it was a less perfect solution. Gloves with Apportation and some sort of feeling enchantment permanently cast would do for my hands, and permanent illusions would make a much better lens than the low quality glass I could find or make here in Nimre. 
+I spent the late afternoon and early evening reading up on what enchantment texts I could find in the club’s library. I had plans to heal my hands, and possibly even my eyes, using the arena to do the test runs, but enchantment offered solutions as well. They weren’t quite as good as a full healing would be, but enchantment was also more likely to work. With the healing I was essentially relying on the magic to pull the relevant information out of my subconscious, which seemed dodgy at best. I was more confident about enchantment working, even if it was a less perfect solution. Gloves with Apportation and some sort of feeling enchantment permanently cast would do for my hands, and permanent illusions would make a much better lens than the low quality glass I could find or make here in Nimre.
 
-The first thing I discovered was that enchantment was a very broad subject. Enchantment covered anything that was permanent or semi-permanent, which meant that as a school or college or magic, it was nearly as big as all the other colleges put together. I was already aware of wands and staves as foci for spellcasting, but such devices could also be enchanted further. At the most basic level, and enchanted wand or staff would carry a spell, Fireball for example. Then any Mage or Wizard who picked up that wand would be able to cast the spell, even if they didn’t know it. They’d still need to provide the energy for it themselves, but they could cast the spell just as if they knew it. From there it was a sliding scale. Additional enchantments could be added to reduce, or even eliminate, the energy requirements placed upon the user, just as if the user had known the spell very well. It was also possible to set a mana stone into the item, and have the enchantment draw its power from the stone. This was a fairly cheap addition if small stones were used, though it was limited, since the stones took time to recharge. 
+The first thing I discovered was that enchantment was a very broad subject. Enchantment covered anything that was permanent or semi-permanent, which meant that as a school or college or magic, it was nearly as big as all the other colleges put together. I was already aware of wands and staves as foci for spellcasting, but such devices could also be enchanted further. At the most basic level, and enchanted wand or staff would carry a spell, Fireball for example. Then any Mage or Wizard who picked up that wand would be able to cast the spell, even if they didn’t know it. They’d still need to provide the energy for it themselves, but they could cast the spell just as if they knew it. From there it was a sliding scale. Additional enchantments could be added to reduce, or even eliminate, the energy requirements placed upon the user, just as if the user had known the spell very well. It was also possible to set a mana stone into the item, and have the enchantment draw its power from the stone. This was a fairly cheap addition if small stones were used, though it was limited, since the stones took time to recharge.
 
-The embedded mana stone option had another benefit though, it let anyone use the wand, not just a Wizard or Mage. Large mana stones did get exponentially more expensive, and you could only really embed one stone, but it was a definite option for the non-spellcasting populace. 
+The embedded mana stone option had another benefit though, it let anyone use the wand, not just a Wizard or Mage. Large mana stones did get exponentially more expensive, and you could only really embed one stone, but it was a definite option for the non-spellcasting populace.
 
 *Now I know why enchanters can make so much money. If I was some noble or wealthy merchant, I’d love to have a Wand of Fireball in my back pocket for emergencies.*
 
 There were other sorts of enchantments of course, of the sort that were more constant, rather than the sort that cast a given spell on command. An example would be the armouring enchantment on my robes, and most of these could draw passively from ambient mana. For those enchantments that required more power, it was also possible to lay on additional enchantments that could actively draw from the ambient mana, though they got very complicated and very expensive very quickly.
 
-Complex I could handle, that was mostly a matter of learning the spell. Expensive though, that was a different matter. I had a big pile of money in the bank, hell, I’d figured out the relative purchasing power of a drachm to a dollar, and it gave me a good idea of just how **much** money I had. One drachm, was about equivalent to fourteen dollars. Canadian dollars, but they were dollars all the same. This meant that the University was paying me nearly twenty seven thousand dollars a month, which was an incredible amount of money, especially when you considered the roughly seven hundred thousand dollars I had in the bank. None of that mattered when it came to enchantment though, or at least, it didn’t help directly. 
+Complex I could handle, that was mostly a matter of learning the spell. Expensive though, that was a different matter. I had a big pile of money in the bank, hell, I’d figured out the relative purchasing power of a drachm to a dollar, and it gave me a good idea of just how **much** money I had. One drachm, was about equivalent to fourteen dollars. Canadian dollars, but they were dollars all the same. This meant that the University was paying me nearly twenty seven thousand dollars a month, which was an incredible amount of money, especially when you considered the roughly seven hundred thousand dollars I had in the bank. None of that mattered when it came to enchantment though, or at least, it didn’t help directly.
 
-‘Expensive’ meant energy, not dollars, and not drachm. 
+‘Expensive’ meant energy, not dollars, and not drachm.
 
 A mana stone took only twenty mana to enchant, but when it came to ‘proper’ enchantments, even the most simple called for a minimum of fifty energy. Most were even more than that though, and were somewhere in the two to five hundred range. Now I did have a lot of energy to throw around, but mana stones aside, even the simplest stuff would require all of my enervation and a decent chunk of vitality. The solution then was to bring friends, and that’s what most enchanters did. The limit on enchantment then, was how many friends you could include, and how much each of them had to contribute. At first I imagined a situation where I convinced half the University to all chip in on some great plot of mine, but that wasn’t actually feasible. There was a limit on how many people could be part of a group casting, and that set a fairly hard cap on how much mana could go into any one enchantment. A less talented Mage, with little knowledge of the spell could probably support a group consisting of themselves and one other. A talented Mage like myself could probably support a group of three or four people, including myself. Serious enchanters, Mages who did this sort of thing professionally, were somewhere in the five to seven range. Twelve was considered the absolute limit, and was achievable only by very few. According to Victorina, Neferoy was notable for being able to support groups of eight.
 
@@ -9367,7 +9063,7 @@ I motioned as if to flick the spoon at her, to splatter her with sauce, and she 
 
 ------
 
-I woke the following morning to a heavy rain beating against the windows to my room, and used a manipulator to open the balcony doors just a crack. I enjoyed the sound and the smell that came through the now open door, and welcomed the approach of colder weather. It was nearing the beginning of fall, and I could certainly see that in the weather. I followed my normal morning routine, I took a quick bath, shaved, and brushed my teeth. 
+I woke the following morning to a heavy rain beating against the windows to my room, and used a manipulator to open the balcony doors just a crack. I enjoyed the sound and the smell that came through the now open door, and welcomed the approach of colder weather. It was nearing the beginning of fall, and I could certainly see that in the weather. I followed my normal morning routine, I took a quick bath, shaved, and brushed my teeth.
 
 *I’ll need to plumb in a shower at some point, taking a bath every morning is a little excessive.*
 
@@ -9391,7 +9087,7 @@ She nodded, “Mmm hmm, I was interested in the electrical magic you mentioned t
 
 “Sure,” I said, stretching languidly, and then standing up, “Let’s find somewhere we can sit.”
 
-Sila followed closely at my heels, with Minki trailing a little behind, as I found one of the small tables that I’d passed on my way to the couch. I set the book on the table, along with the few notes that I’d made while studying the spell, and dropped into one of the chairs. Sila scuttled into the chair next to me, and Minki sat down across from me. 
+Sila followed closely at my heels, with Minki trailing a little behind, as I found one of the small tables that I’d passed on my way to the couch. I set the book on the table, along with the few notes that I’d made while studying the spell, and dropped into one of the chairs. Sila scuttled into the chair next to me, and Minki sat down across from me.
 
 “What is it Sila?” I asked, seeing that she seemed to have something that she wanted to say.
 
@@ -9411,7 +9107,7 @@ I just raised an eyebrow.
 
 I shrugged, “Yeah, maybe. You’re not expected to go though, are you Sila?”
 
-“Actually I can’t go, not unless someone with standing takes me with them,” she said, casting a look at the purple trim on my hoodie-robe, “What about your lectrical magic then? What’s that about?” she asked, forcing a less disappointed tone. 
+“Actually I can’t go, not unless someone with standing takes me with them,” she said, casting a look at the purple trim on my hoodie-robe, “What about your lectrical magic then? What’s that about?” she asked, forcing a less disappointed tone.
 
 And so the three of us set to work on the power generation spell, or at least, Minki and I did. Sila tried her best. She seemed excited at the proposition of learning and practicing magic with me, but she was out of her depth, both magically and intellectually. Now Sila was by no means stupid, I’d noticed fairly early on that she was actually pretty bright. The trouble was her total lack of education. She ‘knew her numbers’, and I’d taught her to read back in Essens, but that was a far cry from understanding the theory behind what I was trying to explain. Minki on the other hand was already familiar with Ohm’s law, it was one of the formulas I’d written out on that chalkboard during my impromptu math lesson to the club. By comparison, Sila had a hard time understanding multiplication and division. She’d probably learn fairly quickly, but it wasn’t something I could teach in a couple hours.
 
@@ -9440,20 +9136,13 @@ Minki left without saying another word, with just a small wave of the fingers to
 Do read the chapter first though.
 
 
-# Oh this has not gone well - 39
-
-
-I’ve got a Patreon now . 
-
-SUPER short one this time, haven’t had as much time as I’d like. Turns out adulting is a lot of work. A special thanks to all of those that are supporting me on Patreon actually, it’s due to you special people that I might actually have a bit more time to write in the coming weeks. 
-
------
+# Chapter 39
 
 Sila
 
 -----
 
-Quinn had put his spectacles on at some point during our walk, and was looking around, peering at buildings and such as I led him back to the tavern where father and I were staying. He looked almost like an owl, twisting his head all around like that, and the circles of glass looked like big owly eyes. 
+Quinn had put his spectacles on at some point during our walk, and was looking around, peering at buildings and such as I led him back to the tavern where father and I were staying. He looked almost like an owl, twisting his head all around like that, and the circles of glass looked like big owly eyes.
 
 “Sila,” he started, almost hesitantly, “Aren’t you getting a bursary from the University?”
 
@@ -9465,7 +9154,7 @@ I **was** getting a bursary, and it was a lot of money, a lot a lot. Four hundre
 
 “What’s wrong with this part of the city?” I asked, feeling strangely hurt at the comment, “Everywhere else in the city is so much more expensive than home.”
 
-“This part of town might not be any more expensive than Essens,” he said evenly, “But you must have noticed that it’s a whole lot rougher.” 
+“This part of town might not be any more expensive than Essens,” he said evenly, “But you must have noticed that it’s a whole lot rougher.”
 
 “You don’t like it here?” I asked, *what about the village, was that ‘rough’ too?*
 
@@ -9473,19 +9162,19 @@ I **was** getting a bursary, and it was a lot of money, a lot a lot. Four hundre
 
 *Better options? Oh you are such a silly little girl Sila, you should have realized. He didn’t live in Essens because he liked it, he did it because he had too. You can see how he dresses, and you saw that clubhouse. How could anyone that lives in a place like that, settle for a place like this?*
 
-Even Baron Polepho would look plainly dressed compared to Quinn. Quinn’s mage robes were made of the finest silk that I’d ever seen, and the colour was perfect. It wasn’t faded one bit, with no dark or light patches from dye that had been applied unevenly. Not even the Baron had managed that, there was always a little splotchyness, or a little bit of fading. That had always seemed perfectly normal though, and it’s not until I saw what Quinn was wearing, that I realized I’d been so wrong. 
+Even Baron Polepho would look plainly dressed compared to Quinn. Quinn’s mage robes were made of the finest silk that I’d ever seen, and the colour was perfect. It wasn’t faded one bit, with no dark or light patches from dye that had been applied unevenly. Not even the Baron had managed that, there was always a little splotchyness, or a little bit of fading. That had always seemed perfectly normal though, and it’s not until I saw what Quinn was wearing, that I realized I’d been so wrong.
 
 My mage robes were linen instead of silk, and while his were expertly dyed deep shades of indigo and purple, mine were light blue, with some spots lighter or darker than others where the dye hadn’t been put on evenly. I’d barely noticed the uneven colour when I’d first put them on, and I just thought that the robes were the nicest thing that I’d ever worn. The sad part was that it was true, my mage robes were far nicer than my Feastday best, and even still I looked like a silly peasant girl standing next to Quinn.
 
 The clubhouse was even worse. I’d been afraid to sit on the furniture when Quinn first led me to one of the small sitting rooms. ‘Small’, well Quinn had called it small. It was nearly as big as the whole common room in father’s tavern, and it wasn’t even the largest sitting room in the clubhouse. The furniture was also better than anything the Baron had. I’d seen his manor more than once, whenever he’d host the Feastday, and I’d always thought that it was the most impressive place I’d ever seen. When Moss would tell the story of Enmelos and the Beetle, I always imagined that the Emperor’s palace looked just like the Baron’s manor, except maybe a little bit bigger.
 
-Compared to that sitting room though, the Baron’s furniture wasn’t fit for kindling. The Baron’s furniture was really just the same sort of furniture that we had at the inn, with maybe a little more scrollwork and embroidery. The furniture in the clubhouse on the other hand was so richly upholstered and well crafted that I’d been afraid to even touch it, for fear of getting it dirty. Before seeing Victorina’s clubhouse I wouldn’t have ever imagined that a place so luxurious existed, and Quinn seemed to take it all for granted, as if it was all perfectly normal. 
+Compared to that sitting room though, the Baron’s furniture wasn’t fit for kindling. The Baron’s furniture was really just the same sort of furniture that we had at the inn, with maybe a little more scrollwork and embroidery. The furniture in the clubhouse on the other hand was so richly upholstered and well crafted that I’d been afraid to even touch it, for fear of getting it dirty. Before seeing Victorina’s clubhouse I wouldn’t have ever imagined that a place so luxurious existed, and Quinn seemed to take it all for granted, as if it was all perfectly normal.
 
 And Victorina. Everything I’d heard about her from the other girls said that she was a cruel taskmistress, an awful slave driver, and a wanton harlot. She worked her club members to death, discarded them when they couldn’t keep up any more, and dressed like a strumpet. Her robes were cut so low that her bosom might as well have been bare, and they were fit so closely that you could clearly see every curve and line of her body. Her hair, skin, teeth, everything, it was all perfect. Her hair had a sheen like a sheet of silver, her skin was a flawless and pale white, her teeth all stood as straight as soldiers, and looked like they might be made of porcelain. She might have been a marble statue, and was dressed every bit as well as Quinn. My hair was a dull brown and full of split ends, working in the sun had tanned and roughened my skin, and my teeth hadn’t gotten any better. They were still crooked and slightly yellowed, and it was a small mercy that I hadn’t lost any more of them. Father said you couldn’t notice the couple missing ones unless you looked really close, but I bet Quinn noticed. She was the daughter of an Emperor, and was one of the most talented Mages in the whole University. I barely even have the talent to be allowed into a club, and was just a silly little village girl.
 
 *And she has her hooks right into Quinn. I barely see him now, but he’s sees* ***her*** *every single day, as she struts around half naked. He’s going to the ball with her on his arm, when I didn’t even get to dance with him on one single Feastday. It’s just not fair. How must she treat him? After everything I’ve heard about her, how can he stay there? I took care of him when he was the weakest of the weak, I was there when he needed it the most. I even helped him get to the water closet when he was too weak to stand on his own. She’d never find the kindness to do that for him, she’d just throw him away if he was that weak. It’s just not right, that’s not how it works in any of Moss’s stories. The dashing prince never saved the princess, only for her to run off with the villain at the end of the tale. No, they lived happily ever after, because the princess was so grateful at being saved.*
 
-I walked quietly along with Quinn for almost a mile before it struck me, before it figured it out. I was being silly, but not in the way I thought. I wasn’t at the end of the story, I was at the beginning. Quinn was still with the villain because no one had saved him yet. It **was** just like the tale of Enmelos and the Beetle. After Enmelos helped the beautiful Princess Deine when her carriage broke a wheel, she didn’t elope with him right then, she continued on to the Emperor’s palace. It’s only then that Enmelos realized that he had to save her, and this was just the same. Even the accident was the same, after all Quinn had said that his big metal box was just a type of carriage hadn’t he? Besides, I’d only just got my magic powers, and it didn’t make sense for the hero to get the power to defeat the villain only after it was all over, that’s not how it worked. First the hero had to meet the princess and discover that they were in peril. But what could they do about it? **They were just a simple peasant.** It was only after they’d given up hope of saving their princess that they’d discover their powers or find the ancient sword or whatever, and then they had to go off on a quest to learn how to use what they’d discovered. 
+I walked quietly along with Quinn for almost a mile before it struck me, before it figured it out. I was being silly, but not in the way I thought. I wasn’t at the end of the story, I was at the beginning. Quinn was still with the villain because no one had saved him yet. It **was** just like the tale of Enmelos and the Beetle. After Enmelos helped the beautiful Princess Deine when her carriage broke a wheel, she didn’t elope with him right then, she continued on to the Emperor’s palace. It’s only then that Enmelos realized that he had to save her, and this was just the same. Even the accident was the same, after all Quinn had said that his big metal box was just a type of carriage hadn’t he? Besides, I’d only just got my magic powers, and it didn’t make sense for the hero to get the power to defeat the villain only after it was all over, that’s not how it worked. First the hero had to meet the princess and discover that they were in peril. But what could they do about it? **They were just a simple peasant.** It was only after they’d given up hope of saving their princess that they’d discover their powers or find the ancient sword or whatever, and then they had to go off on a quest to learn how to use what they’d discovered.
 
 *Enmelos spent ten whole years training with his magic bow, and it wasn’t until after he killed the Giant Dire Beetle that he finally knew he was ready to go back and save Princess Deine. I’m going to do exactly the same thing.*
 
@@ -9494,12 +9183,7 @@ Quinn always told me that the best way to solve a problem was to break it into s
 -----
 
 
-# Oh this has not gone well - 40
-
-
-I’ve got a Patreon now . 
-
------
+# Chapter 40
 
 Quinn
 
@@ -9555,7 +9239,7 @@ I found myself wishing for a cold coke, and maybe some sort of candy, as I sat i
 
 *I suppose that’s one benefit to using Apportation all the time, no messy hands.*
 
-“I haven’t seen the final tournament bracket yet,” Victorina hedged, “But now that there’s forty odd clubs, there’s probably going to be fifty something contestants today.” 
+“I haven’t seen the final tournament bracket yet,” Victorina hedged, “But now that there’s forty odd clubs, there’s probably going to be fifty something contestants today.”
 
 “I guess some more clubs got formed in the past couple days?” I asked.
 
@@ -9563,13 +9247,13 @@ I found myself wishing for a cold coke, and maybe some sort of candy, as I sat i
 
 *Hopefully Sila found some place to stay. And hopefully their clubhouse is as far away as possible.*
 
-We were all there a little early, those of us that had come along at least. Halea, Minki, and Victorina were all along because they’d be competing, and I tagged along so I could see the MAC spell tested in actual combat. Or at least, as close to actual combat as I was likely to get any time soon. The others were either off meeting their families and preparing for the coming ball, or weren’t expected to attend the ball, and were likely going to the parties or get togethers that were hosted by and for the less prestigious families. 
+We were all there a little early, those of us that had come along at least. Halea, Minki, and Victorina were all along because they’d be competing, and I tagged along so I could see the MAC spell tested in actual combat. Or at least, as close to actual combat as I was likely to get any time soon. The others were either off meeting their families and preparing for the coming ball, or weren’t expected to attend the ball, and were likely going to the parties or get togethers that were hosted by and for the less prestigious families.
 
 *Seems to me like the peasants and merchants have the better deal here, I’ve never been comfortable at house parties, but I’d rather be at one of those than some formal ball.*
 
-It was a nice day, all in all. The weather was clear, and it was just the right temperature for me to wear my hoodie and not feel too warm. I rather liked the autumn, and the homecoming tournament and ball marked its first day. Of course, I don’t think the others saw it that way, since they were all wearing what passed for a jacket in the Greco-Victorian mishmash that Elardia called a culture. We’d gotten very good seats, and were sitting mere feet from the wall that kept clumsy elves and humans from falling to the arena floor. 
+It was a nice day, all in all. The weather was clear, and it was just the right temperature for me to wear my hoodie and not feel too warm. I rather liked the autumn, and the homecoming tournament and ball marked its first day. Of course, I don’t think the others saw it that way, since they were all wearing what passed for a jacket in the Greco-Victorian mishmash that Elardia called a culture. We’d gotten very good seats, and were sitting mere feet from the wall that kept clumsy elves and humans from falling to the arena floor.
 
-We chatted for a bit, as we waited for the arena to fill up, and for a tournament brackets to be finalized. It didn’t take long at all for things to get crowded, with eager students and the servants of nobles trying to be the first to claim the best seats. 
+We chatted for a bit, as we waited for the arena to fill up, and for a tournament brackets to be finalized. It didn’t take long at all for things to get crowded, with eager students and the servants of nobles trying to be the first to claim the best seats.
 
 *Seems like they ought to work out some reserved seating arrangement, so the nobles don’t need to send their servants ahead for them.* ***Or,*** *I hire a bunch of bored labourers in time for the next tournament, and sell the seats that they reserve for me at a big mark-up. Now there’s an idea.*
 
@@ -9647,11 +9331,11 @@ The first match was between Halea's two prospective opponents, and was actually 
 
 “Sort of,” she responded, “It’s one of a few that get seen often, though there are a couple others.”
 
-I nodded, and watched as the two Mages closed in on each other. They’d started about fifty metres from each other, equidistant from the centre, and the first minute or so was a game of cat and mouse as each tried to manoeuvre to get the first shot off on their opponent. 
+I nodded, and watched as the two Mages closed in on each other. They’d started about fifty metres from each other, equidistant from the centre, and the first minute or so was a game of cat and mouse as each tried to manoeuvre to get the first shot off on their opponent.
 
-It all came to a head when one of the two Mages, the one in green robes, cast Sound, seemingly on a hunch. His hunch paid off, and his blue robed opponent turned towards the illusory sound of a snapping branch and shouted a spell to life. A fireball streaked from the blue Mage’s hand and towards a clump of bushes at the base of one tree. Spurred on by the shout, the green Mage rushed to the top of the hill that had lain between the two Mages, and found himself to the side and just a bit in front of the blue Mage. 
+It all came to a head when one of the two Mages, the one in green robes, cast Sound, seemingly on a hunch. His hunch paid off, and his blue robed opponent turned towards the illusory sound of a snapping branch and shouted a spell to life. A fireball streaked from the blue Mage’s hand and towards a clump of bushes at the base of one tree. Spurred on by the shout, the green Mage rushed to the top of the hill that had lain between the two Mages, and found himself to the side and just a bit in front of the blue Mage.
 
-Just as the blue Mage’s Fireball struck home, igniting the shrubbery around the tree, the green Mage threw a Lightning Ball that he had held prepared since the start of the match. The blue Mage was caught totally off guard, and it wasn’t until the ball of lightning struck him in the right shoulder that he seemed to notice. 
+Just as the blue Mage’s Fireball struck home, igniting the shrubbery around the tree, the green Mage threw a Lightning Ball that he had held prepared since the start of the match. The blue Mage was caught totally off guard, and it wasn’t until the ball of lightning struck him in the right shoulder that he seemed to notice.
 
 *How did he not see the big glowy orb of death? Is he throwing the match, or is elf peripheral vision not as good as a human’s?*
 
@@ -9663,7 +9347,7 @@ The shot didn’t knock the blue Mage out immediately, but it certainly didn’t
 
 The next match was between Diova and his black robed opponent, with black apparently being a colour favoured by merchants, and not elven emos as I’d initially guessed. The arena did not change with the sounding of the gong, and Diova immediately launched himself skywards. The black robed Mage was looking down at his hands when Diova came to the apex of his huge leap, seemingly distracted by his spell casting. Diova spotted his foe just as he started to fall back towards the ground, and he threw a hand forwards as he cast a spell. Flying through the air as he was, his spell wasn’t particularly accurate, but then it didn’t need to be.
 
-I was expecting one of many possible bolt spells, fired quickly in the hopes of a lucky shot, but his opponent was not so fortunate. Instead there was a stream of sparks, that I confused at first for some sort of Lightning Jet, but which then resolved itself into a swarm of perhaps fifty tiny fiery orbs. Maybe two of the fifty orbs struck the black Mage, just as he finished his spell, with the rest falling around him in a cacophony of tiny explosions, which turned the ground around the Mage into a field of fire. 
+I was expecting one of many possible bolt spells, fired quickly in the hopes of a lucky shot, but his opponent was not so fortunate. Instead there was a stream of sparks, that I confused at first for some sort of Lightning Jet, but which then resolved itself into a swarm of perhaps fifty tiny fiery orbs. Maybe two of the fifty orbs struck the black Mage, just as he finished his spell, with the rest falling around him in a cacophony of tiny explosions, which turned the ground around the Mage into a field of fire.
 
 “Damn, that’s new,” Victorina breathed.
 
@@ -9711,7 +9395,7 @@ Brodeu did his best to try to anticipate where Andrew would teleport to, but it 
 
 “How is he managing that?” Halea said, leaning forwards in her seat, “He should be throwing up all over himself after just one casting of that spell.”
 
-It was on Andrew’s final teleport that Brodeu opted for a shield spell, instead of a Lightning Bolt, and he had it up and ready just as Andrew snapped into view. Unfortunately for Brodeu, Andrew snapped into view behind him. There was a brief pause, as both seemed confused by what had just happened, and both scanned around looking for the other. They both realized what had happened at essentially the same time, and both turned as quickly as they could. Brodeu was quick and had his eyes on Andrew in an instant, but his shield was slightly slower in coming around, and a jet of acid shot from Andrew’s outstretched hand to catch Brodeu across the face. His shield came into place a moment later, cutting off the jet for just a moment, before the pain caused Brodeu lose his grip on the spell. 
+It was on Andrew’s final teleport that Brodeu opted for a shield spell, instead of a Lightning Bolt, and he had it up and ready just as Andrew snapped into view. Unfortunately for Brodeu, Andrew snapped into view behind him. There was a brief pause, as both seemed confused by what had just happened, and both scanned around looking for the other. They both realized what had happened at essentially the same time, and both turned as quickly as they could. Brodeu was quick and had his eyes on Andrew in an instant, but his shield was slightly slower in coming around, and a jet of acid shot from Andrew’s outstretched hand to catch Brodeu across the face. His shield came into place a moment later, cutting off the jet for just a moment, before the pain caused Brodeu lose his grip on the spell.
 
 Andrew didn’t let up, casting a second jet in fact, and the force of the two jets combined knocked Brodeu off of his feet. Andrew stalked forwards, keeping the two jets on Brodeu’s writhing form, seeming undisturbed by the sounds that Brodeu was making.
 
@@ -9734,12 +9418,7 @@ I grimaced, but nodded, “Alright.”
 -----
 
 
-# Oh this has not gone well - 41
-
-
-I’ve got a Patreon now . 
-
------
+# Chapter 41
 
 Quinn
 
@@ -9767,7 +9446,7 @@ She frowned in thought, “That’s certainly possible. Personally I would have 
 
 -----
 
-I’d seen just a tiny bit of what Halea could do when practicing with her, but actually watching her fight for real was something else entirely. The green robed Mage seemed content to follow the same strategy that he had in the first round, and set off at a run, hunched low to the ground, and I guessed that he was trying to circle around the edge of the arena in some attempt to flank Halea. Halea did not cooperate with this plan, not at all. She favoured the same highly mobile strategy as Diova, though with one key difference. Diova’s spell had taken him into the air in a high arc, to give him a better view of the battlefield. Instead she launched herself in a much flatter trajectory, to the top of the nearest hill, and then from hilltop to hilltop at great speed until she reached the green Mage’s starting position. 
+I’d seen just a tiny bit of what Halea could do when practicing with her, but actually watching her fight for real was something else entirely. The green robed Mage seemed content to follow the same strategy that he had in the first round, and set off at a run, hunched low to the ground, and I guessed that he was trying to circle around the edge of the arena in some attempt to flank Halea. Halea did not cooperate with this plan, not at all. She favoured the same highly mobile strategy as Diova, though with one key difference. Diova’s spell had taken him into the air in a high arc, to give him a better view of the battlefield. Instead she launched herself in a much flatter trajectory, to the top of the nearest hill, and then from hilltop to hilltop at great speed until she reached the green Mage’s starting position.
 
 She stopped, almost exactly where he’d started from, and cast a look around. In the time that Halea had crossed all of the intervening distance the green Mage had only just barely made it to cover, and he froze as he saw her streaking in. She didn’t seem to spot him, and he cast a pair of Fireballs in quick succession, holding one in each hand. He waited until her searching took her gaze away from him, and then launched both to streak towards her back.
 
@@ -9856,12 +9535,7 @@ She crumpled forwards awkwardly, feet still trapped in the ice, and the gong ran
 -----
 
 
-# Oh this has not gone well - 42
-
-
-I’ve got a Patreon now . 
-
------
+# Chapter 42
 
 **Quinn**
 
@@ -9929,7 +9603,7 @@ She looked out over the arena, where Andrew had already closed with his opponent
 -----
 -----
 
-I pumped one fist in the air as the ending gong rang, while Sinabu kept screaming like a bitch at my feet. And it was all me, I’d done this. I’d been the one to take Acid Jet from something that most Mages thought was a gimmick, and turn it into one of the strongest spells that the arena had ever seen. And I’d been the one to turn Teleport into the best defensive spell anyone had heard of. Why bother blocking or deflecting an attack, when you could just be somewhere else? I never had to worry if an attack was too powerful for me to slow down or stop, when I was a good ten yards away when it went off. Quinn had always given me shit for not being a giant nerd like he was, a ‘dumb jock’ he’d said. Well he hadn’t done what I’d done, he hadn’t come up with as killer combo as I had. He’d refused to even face me in the arena. 
+I pumped one fist in the air as the ending gong rang, while Sinabu kept screaming like a bitch at my feet. And it was all me, I’d done this. I’d been the one to take Acid Jet from something that most Mages thought was a gimmick, and turn it into one of the strongest spells that the arena had ever seen. And I’d been the one to turn Teleport into the best defensive spell anyone had heard of. Why bother blocking or deflecting an attack, when you could just be somewhere else? I never had to worry if an attack was too powerful for me to slow down or stop, when I was a good ten yards away when it went off. Quinn had always given me shit for not being a giant nerd like he was, a ‘dumb jock’ he’d said. Well he hadn’t done what I’d done, he hadn’t come up with as killer combo as I had. He’d refused to even face me in the arena.
 
 I bet what I had achieved had even pissed him off. I remembered when we’d try to play games online with him, or when the whole family would all get together and either we’d go downstairs to game, or we’d play board games with our parents. The game never mattered, and it didn’t matter if it was PC, PlayStation, or table top. Quinn always had to win. The rest of us all just wanted to have some fun dammit, but he’d do his tryhard bullshit. If he heard that Mom was bringing some new board game over, he’d spend a whole day before researching and looking up strategies like some sort of grognard. If we were going to play Civ, well then he’d do the same thing. He’d spend more time watching videos and reading wiki’s than actually playing the game. And when it did come time to play, it wasn’t even fun. He’d end up owning half the map, and would lord it over the rest of us like a dick.
 
@@ -9937,7 +9611,7 @@ Dad always said that we should be patient with Quinn though. Dad said that Quinn
 
 *Well guess what Quinn? Now I’ve got it all. I’m stronger, more athletic, better looking, and I figured out magic stuff that you can’t even wrap your head around. You’re ‘smart’? Sure, sure Quinn. Pretty sure magic is about being smart, and the University even* ***knows*** *that I’m better at magic than you. Hell, I’ve even got my pick of any of the girls from the League, do you? No you damn well don’t, you’re too busy being Victorina’s bitch. Well guess what? My club leader kicked your club leader’s ass. And to top it all off, I’m Dad’s heir. One day I’d be Lord Andrew Walsh, Count of Leucia.*
 
-I didn’t know how Quinn bullshited his way into some purple robes, but I was going to find out, and then I’d **really** be the one on top. Hell, once I did that he’d be out on his ass. No magic for you if you’re too poor because Dad took your bursary away. 
+I didn’t know how Quinn bullshited his way into some purple robes, but I was going to find out, and then I’d **really** be the one on top. Hell, once I did that he’d be out on his ass. No magic for you if you’re too poor because Dad took your bursary away.
 
 -----
 
@@ -10031,7 +9705,7 @@ I looked behind me, to where King Tanaka and his court were sitting. The courtie
 
 -----
 
-I hunkered down as soon as the starting gong rang, and stuck to the low lying areas of the arena as I advanced. If I saw it coming I could Blink out of the way, or even cast Deflect, but as surprise attacks went that shotgun spell was pretty deadly. I thought about casting a shield spell to guard against that sort of thing, but it was too expensive since I needed to conserve my energy for Blink. I made for the other starting position, but in a wide circle instead of a straight line. I prepped a couple of Acid Balls as I tried to get a flank on the girl, even hitting her with one of them might be enough to stop her from casting long enough for me to get in close. Oh man, Quinn was going to be pissed right the fuck off once I was done with his little toy. 
+I hunkered down as soon as the starting gong rang, and stuck to the low lying areas of the arena as I advanced. If I saw it coming I could Blink out of the way, or even cast Deflect, but as surprise attacks went that shotgun spell was pretty deadly. I thought about casting a shield spell to guard against that sort of thing, but it was too expensive since I needed to conserve my energy for Blink. I made for the other starting position, but in a wide circle instead of a straight line. I prepped a couple of Acid Balls as I tried to get a flank on the girl, even hitting her with one of them might be enough to stop her from casting long enough for me to get in close. Oh man, Quinn was going to be pissed right the fuck off once I was done with his little toy.
 
 I got down on my belly as I got near to the top of a hill close to the girls starting position, and crawled the rest of the way up, just peeking my head and one hand over. I scanned the low lying areas around me, but didn’t spot her. It wasn’t until I checked the other hilltops that I saw her, lying on a hill of her own, near my own start position. She was doing the same thing I’d just been doing, peering down into the small valley where I’d started, hand at the ready to deliver a surprise attack.
 
@@ -10050,12 +9724,7 @@ I smirked, and lifted a hand. It was just as I started casting Acid Jet, that th
 -----
 
 
-# Oh this has not gone well - 43
-
-
-I’ve got a Patreon now . 
-
------
+# Chapter 43
 
 Quinn
 
@@ -10083,7 +9752,7 @@ I hurried to, and then down, the steps that led into one of the tunnels that all
 
 She turned at the sound of the door swinging shut behind me, and then yelped and crossed her arms across her chest, “Quinn!”
 
-“Uh, sorry, sorry,” I said, reaching behind me for the doorknob, “I’ll be going now.” 
+“Uh, sorry, sorry,” I said, reaching behind me for the doorknob, “I’ll be going now.”
 
 “No, it’s,” she hesitated, “Its fine,” she said, though she did turn a little pink.
 
@@ -10097,7 +9766,7 @@ She turned at the sound of the door swinging shut behind me, and then yelped and
 
 “Yeah, though I noticed you were a little personal with your finishing blow,” I said wryly.
 
-She nodded vigorously, and clasped her hands under her chin, covering herself instead with her slim forearms, “It was awful Quinn, I don’t know why Halea likes it so much. When I hit the first one with the Lighting Bolt in the first match he just fell over, but when I shot Andrew… There was blood and bits of stuff everywhere, and I got some of it on me. I don’t think I’m really cut out for this. Um, I know you worked really hard on the MAC spell with me, but I don’t think I want to do this anymore. I think I’m just going to enter a no contest against Halea. I just hope you’re not disappointed.” 
+She nodded vigorously, and clasped her hands under her chin, covering herself instead with her slim forearms, “It was awful Quinn, I don’t know why Halea likes it so much. When I hit the first one with the Lighting Bolt in the first match he just fell over, but when I shot Andrew… There was blood and bits of stuff everywhere, and I got some of it on me. I don’t think I’m really cut out for this. Um, I know you worked really hard on the MAC spell with me, but I don’t think I want to do this anymore. I think I’m just going to enter a no contest against Halea. I just hope you’re not disappointed.”
 
 I huffed out an amused breath, “I’m not disappointed Minki, you did really well. I was really worried when he hit you with the Acid Ball, but you pushed on through it, and then you made the best of it by duping him with that illusion. If you had anything to prove, well I think you proved it. And I don’t blame you for not wanting to fight Halea, I certainly wouldn’t want to do it either.”
 
@@ -10137,7 +9806,7 @@ I reached over and ruffled her hair, and she did her best to slap my arm away.
 
 -----
 
-We sat back down with the other two, and Minki told Halea of her plans to enter a no-contest for the coming match. 
+We sat back down with the other two, and Minki told Halea of her plans to enter a no-contest for the coming match.
 
 “Well, I guess that’s me in the semi-finals then,” Halea said, “Let’s see if the spell you two made will get me the rest of the way.”
 
@@ -10173,7 +9842,7 @@ Halea’s next fight, her semi-final match, lasted maybe ninety seconds.
 
 I was expecting a big climactic fight, it was only the semi-finals, but that still meant we were talking about the top four battlemages in the whole fifty plus mage tournament. Well the other Mage’s experience didn’t count for much, not when the whole University’s way of fighting had been turned on its head.
 
-At first I thought that the orange robed Mage had made the right choice. Rather than skulking about in an attempt to flank Halea, which could be risky if she spotted him first, he just stayed in place and made himself ready to face her head on. He cast several spells as Halea dashed from hilltop to hilltop towards him. The first, and most obvious, was the persistent version shield spell that I’d seen in frequent use so far. It covered his whole body, and I guessed that he planned to use it to protect against a sneak attack. Additionally he had another shield spell at the ready, the simple plane of force that Halea had preferred during our practice matches, and he wielded it like a magical tower shield. Finally his other hand held a low powered Lightning Bolt, and it was ready to be thrown at a moment’s notice. 
+At first I thought that the orange robed Mage had made the right choice. Rather than skulking about in an attempt to flank Halea, which could be risky if she spotted him first, he just stayed in place and made himself ready to face her head on. He cast several spells as Halea dashed from hilltop to hilltop towards him. The first, and most obvious, was the persistent version shield spell that I’d seen in frequent use so far. It covered his whole body, and I guessed that he planned to use it to protect against a sneak attack. Additionally he had another shield spell at the ready, the simple plane of force that Halea had preferred during our practice matches, and he wielded it like a magical tower shield. Finally his other hand held a low powered Lightning Bolt, and it was ready to be thrown at a moment’s notice.
 
 “Why two shields?” I asked Victorina, “The MAC’s strong, but I don’t think it’s that strong.”
 
@@ -10228,14 +9897,7 @@ Victorina nodded, “That would make sense, let’s just hope that Samala doesn�
 -----
 
 
-# Oh this has not gone well - 44
-
-
-I’ve got a Patreon now . 
-
-Really short one, but I think that it’s probably best to keep a consistent schedule, rather than a consistent update size. (Though I am trying my best to do both.)
-
------
+# Chapter 44
 
 Quinn
 
@@ -10287,7 +9949,7 @@ The alternative was the full body shield that Samala was using, but it could als
 
 So the arithmetic came down to whether that additional energy expenditure was worth the additional benefits. It could entirely eliminate energy lost to overestimation, but on the other hand it was still a constant drain on your reserves. Was one more of the burden than the other? Well the answer would depend on the mage.
 
-What it meant for Halea and Samala though, was that Samala was quickly running out of reserves, while Halea was relatively fresh. It only took another minute or so for those reserves to run dry, and Samala’s shield snapped off. Halea positively leapt off her feet in exultation when it happened, and there was a loud *BOOM* as she cast the spell again, evidently with a hell of a lot more power behind it. To his credit, Samala didn’t panic when his shield went down. I supposed that he must have seen it coming, as his mana and mana stone reserves started to run dry, and he still tried one last ditch defence. He had completed the casting of Deflect just as Halea finished her super-charged MAC, and did his best to use it to fend off the incoming projectile. 
+What it meant for Halea and Samala though, was that Samala was quickly running out of reserves, while Halea was relatively fresh. It only took another minute or so for those reserves to run dry, and Samala’s shield snapped off. Halea positively leapt off her feet in exultation when it happened, and there was a loud *BOOM* as she cast the spell again, evidently with a hell of a lot more power behind it. To his credit, Samala didn’t panic when his shield went down. I supposed that he must have seen it coming, as his mana and mana stone reserves started to run dry, and he still tried one last ditch defence. He had completed the casting of Deflect just as Halea finished her super-charged MAC, and did his best to use it to fend off the incoming projectile.
 
 It sort of worked.
 
@@ -10296,12 +9958,7 @@ He caught it early, which probably helped a great deal, but it wasn’t enough. 
 *I really hope they’re not too sour about it if I run into them at the ball.*
 
 
-# Oh this has not gone well - 45
-
-
-I’ve got a Patreon now . 
-
------
+# Chapter 45
 
 Quinn
 
@@ -10309,15 +9966,15 @@ Quinn
 
 *At least I don’t need to wear a tie.*
 
-All in all, it actually wasn’t too terrible. Since I’d already opted to have all of my robes made of silk and properly tailored, my ‘formal’ robes weren’t much different from what I normally wore. The formal robes weren’t as short as most of the more regular wear robes I had, but still gave me plenty of room to move. Most men’s robes, along with most women’s robes, fell somewhere between ankle and mid-calf. The robes I wore now, as I inspected myself in the mirror, were knee length. 
+All in all, it actually wasn’t too terrible. Since I’d already opted to have all of my robes made of silk and properly tailored, my ‘formal’ robes weren’t much different from what I normally wore. The formal robes weren’t as short as most of the more regular wear robes I had, but still gave me plenty of room to move. Most men’s robes, along with most women’s robes, fell somewhere between ankle and mid-calf. The robes I wore now, as I inspected myself in the mirror, were knee length.
 
 It wasn’t any spectacular fashion statement that I was making, or at least, that’s not what I was trying to do. The standard mage robes just looked too much like dresses to me, and wearing robes cut in the normal style would have just made me feel self-conscious. What I’d ordered instead for myself as an alternative looked more like a trench coat, in the case of the robes I was wearing now, or a hoodie, in the case of the robes I normally wore.
 
-I left my room to go track down Victorina, and my shoes clicked noisily on the floor as I walked down the hall. The clubhouse felt very empty, with most of the others having left hours ago to go meet with their families. Brandy of course was the odd one out, she’d made no claim to high birth and so wasn’t expected to go to the ball. She probably couldn’t in fact, since even wealthy merchant families apparently had a hard time coming up with an excuse to show up. She might have gone as someone’s date, and in fact she’d been given several offers to that end. I knew she’d been given several offers, because she told us about it, frequently. She turned them down however, having gotten herself invited to one of the parties that would be running for the less privileged but still very wealthy students, and so was also absent from the clubhouse. 
+I left my room to go track down Victorina, and my shoes clicked noisily on the floor as I walked down the hall. The clubhouse felt very empty, with most of the others having left hours ago to go meet with their families. Brandy of course was the odd one out, she’d made no claim to high birth and so wasn’t expected to go to the ball. She probably couldn’t in fact, since even wealthy merchant families apparently had a hard time coming up with an excuse to show up. She might have gone as someone’s date, and in fact she’d been given several offers to that end. I knew she’d been given several offers, because she told us about it, frequently. She turned them down however, having gotten herself invited to one of the parties that would be running for the less privileged but still very wealthy students, and so was also absent from the clubhouse.
 
 Victorina hadn’t been in her room, which was across from mine in the left wing of the clubhouse, so I went to check with Thera. She was the only other one still in the clubhouse, since she was too lower class by most estimations, and not nearly as interesting as an Outsider. I heard a thump from Thera’s room as I came down the hall, and saw that the door was standing open. I could hear both Victorina and Thera, and what I heard was rather interesting.
 
-There was another thump, as if someone was pushed into a table, and then that table was in turn pushed into a wall. There was an extended groan from one of them, followed by the sound of heavy and rapid breathing. 
+There was another thump, as if someone was pushed into a table, and then that table was in turn pushed into a wall. There was an extended groan from one of them, followed by the sound of heavy and rapid breathing.
 
 “Come on Thera,” I heard Victorina say, voice tight with extortion, “Come on, almost… there…” she said, voice getting high and short at the end, followed by a gasp.
 
@@ -10361,7 +10018,7 @@ I nodded, “Humans from certain places in the world, or in some more conservati
 
 It was as we were riding in the carriage, Victorina sitting across from me and looking beautiful, that I suddenly became very aware of just what the fucking hell I was doing. I was going to a ball, with Kings, Dukes, Counts, and Barons. I was escorting an actual, honest to god princess, to that ball. Oh, and I had magic powers.
 
-Just how the hell had I ended up here? I was a computer science student less than a year ago. I went to lectures, did homework, and played videogames. That was it, and somehow I manage to transition from that, to princesses and magic, without losing my mind. I’d fallen through a portal, into another world, and had just taken it all in stride. Shouldn’t that have been a bigger deal? 
+Just how the hell had I ended up here? I was a computer science student less than a year ago. I went to lectures, did homework, and played videogames. That was it, and somehow I manage to transition from that, to princesses and magic, without losing my mind. I’d fallen through a portal, into another world, and had just taken it all in stride. Shouldn’t that have been a bigger deal?
 
 *I’m a university student, and I’m about fifteen minutes away from a ball where I’m probably going to need to deal with* ***multiple*** *members of royalty bitching at me for creating a spell to whoop their asses. Oh yeah, I’m totally prepared for that.*
 
@@ -10568,14 +10225,7 @@ I had thought that we might see some of our clubmates while wandering around, bu
 -----
 
 
-# Oh this has not gone well - 46
-
-
-I’ve got a Patreon now . 
-
-Working on a map that I can actually show you guys. I’ve got my own sketches of how things are laid out, but they look really terrible, so I’m trying to work something out in Hexographer or Campaign Cartographer.
-
------
+# Chapter 46
 
 Quinn
 
@@ -10597,12 +10247,12 @@ She shook her head, “It’d be fine, and the ball itself is wrapping up anyway
 
 Victorina raised an eyebrow, but didn’t comment on my remark as we left the ballroom.
 
-I took a deep breath and looked around as we stepped out into the cool night air, and I took a moment to appreciate the scent of a coming rain on the breeze. It was rather scenic, and while the forests weren’t nearly so thick here as they were around the Ariros guildhall, some work had clearly gone into keeping them maintained. The guild hierarch probably wasn’t nearly as concerned with invaders using the trees as cover, as with making the place look nice. The forests around the guildhall also screened the castle from the peasants that occupied the kilometres and kilometres of farmland that stretched out to the south. 
+I took a deep breath and looked around as we stepped out into the cool night air, and I took a moment to appreciate the scent of a coming rain on the breeze. It was rather scenic, and while the forests weren’t nearly so thick here as they were around the Ariros guildhall, some work had clearly gone into keeping them maintained. The guild hierarch probably wasn’t nearly as concerned with invaders using the trees as cover, as with making the place look nice. The forests around the guildhall also screened the castle from the peasants that occupied the kilometres and kilometres of farmland that stretched out to the south.
 
-Distance was definitely something that got confused when teleportation was possible, and I had to remind myself sometimes of just how far apart everything was. When I’d first escaped Adympia I’d covered the distance between the Ashur-Adympian border, to the University, in only a few hours. For the average elf, who didn’t have someone to teleport them, that trip would take months. Even my brief trip to go see King Nezzabi would have been a journey of at least a week, had we gone on foot. 
+Distance was definitely something that got confused when teleportation was possible, and I had to remind myself sometimes of just how far apart everything was. When I’d first escaped Adympia I’d covered the distance between the Ashur-Adympian border, to the University, in only a few hours. For the average elf, who didn’t have someone to teleport them, that trip would take months. Even my brief trip to go see King Nezzabi would have been a journey of at least a week, had we gone on foot.
 
 The distances involved where the University’s lands were concerned also took some time to wrap one’s head around. The League and Prefecture of Ariros guildhalls being so close to the University was not the norm, and conveyed a great deal of political power. Or at least, it conveyed a great deal of power to the League of Patricians. With the Ariros guildhall vacant, they were the only guild with lands or holdings within over a hundred kilometres. The proximity gave them quite a bit more influence over the city, and it gave them a good excuse to host functions like the ball. I’d heard it repeated a couple times, that each guild held the equivalent of two counties, but I hadn’t really been sure what that meant until I’d had a chance to take a good look at the right maps. Even having taken more than my share of university level history courses, I still found myself thinking of ‘counties’ in the modern North American sense, but that was very much the wrong comparison. A county here wasn’t a few hundred, or even a thousand, square kilometres like it might be on modern Earth. No, it was very much the old meaning of county, which meant that *average* Nimrean county was about five thousand square kilometres. Some, like those that were the de jure lands of the Prefecture of Ariros, were as much as twice that size. This meant that the University’s lands, not even considering the rest of Nimre, were about the same size as Ireland. Nimre as a whole was roughly the same size as the United Kingdom, though it was one contiguous landmass, and not arranged as a collection of islands.
- 
+
 “So Diova is his father’s heir, right? No other kids between him and the throne?” I asked, as we walked from the doors of the keep to the gates of the curtain wall that surrounded the guild hall.
 
 “Yes, he has both a brother and a sister,” Victorina said, “But both are younger, and neither are Mages.”
@@ -10631,7 +10281,7 @@ I frowned in thought, and wished briefly that I’d been born just a generation 
 
 “Were?” She asked, eyebrow raised.
 
-“Yes, were,” I nodded, “It would have been about two hundred and fifty years ago when humans started to figure out how to fight the disease, though ‘fight’ is probably the wrong word. Prevention is more appropriate. Someone figured out that it was enough to infect someone with cowpox, to grant them immunity to smallpox. The diseases were close enough to one another, that the same way someone who survived smallpox couldn’t get it again, someone that had cowpox couldn’t then get smallpox. Before that there was inoculation, though that was much more dangerous, and basically involved intentionally infecting someone with a weak form of the disease. Even that could have a fatality rate of as much as ten percent.” 
+“Yes, were,” I nodded, “It would have been about two hundred and fifty years ago when humans started to figure out how to fight the disease, though ‘fight’ is probably the wrong word. Prevention is more appropriate. Someone figured out that it was enough to infect someone with cowpox, to grant them immunity to smallpox. The diseases were close enough to one another, that the same way someone who survived smallpox couldn’t get it again, someone that had cowpox couldn’t then get smallpox. Before that there was inoculation, though that was much more dangerous, and basically involved intentionally infecting someone with a weak form of the disease. Even that could have a fatality rate of as much as ten percent.”
 
 “What about now?” She asked, “You said ‘were’, as if the disease was no longer a concern.”
 
@@ -10663,7 +10313,7 @@ Victorina settled into the seat across from me, and I rested my head against the
 
 “It’s like I told Diova, spite mostly,” I replied, still watching the rain drops trickle down the window.
 
-“Has there always been so much antagonism between your two branches of the family?” 
+“Has there always been so much antagonism between your two branches of the family?”
 
 I yawned and stretched, as best I could in the small space, “No actually. Sure, Andrew and his brothers were always more interested in sports or other physical pursuits, and I was always more interested in books, games, that sort of thing. And as you can imagine that led to the sorts of inter-familial conflicts that you can expect between children and teenagers with vastly differing interests. It was never more than that though. I always thought that Andrew and his brothers were a bunch of dumb jocks, and they always thought that I was a specky nerd, but it was all fairly harmless. Even Uncle Walsh, he was always loud and bombastic, but he was a perfectly nice person. He was big on the importance of family, and he was often the one to call off Andrew or his brothers when things were taken too far.”
 
@@ -10771,13 +10421,13 @@ I smiled, “You’re pretty close, at least about the city. Toronto’s large e
 
 “Oh, that’s real. Actually, the Angove family did hold land in Ireland. No idea how much or where, but I’m fairly sure that we got booted out by the English, which is part of the reason my ancestors ended up in Canada. Uh,” I hesitated, “How pissed off are you now?” I asked, more than a little guiltily.
 
-She shook her head, more lost than anything. “I… You’re a commoner Quinn.” 
+She shook her head, more lost than anything. “I… You’re a commoner Quinn.”
 
 “You say that like it’s a bad thing,” I replied.
 
 “Isn’t it?” she challenged.
 
-I was a little taken aback by this, I knew that Victorina was rather uncompromising when it came to magical talent and political rank, but I’d always thought of her fixation on rank as an extension of her desire for the best club members. Not that the ‘best’ meant noble, royal, or imperial, but that best meant educated, and in a world like this it was hard to have that education without the rank. 
+I was a little taken aback by this, I knew that Victorina was rather uncompromising when it came to magical talent and political rank, but I’d always thought of her fixation on rank as an extension of her desire for the best club members. Not that the ‘best’ meant noble, royal, or imperial, but that best meant educated, and in a world like this it was hard to have that education without the rank.
 
 *I’ve been a little too naïve in this regard I think.*
 
@@ -10799,12 +10449,7 @@ That was of course, until I spotted someone running through the rain.
 
 ---
 
-# Oh this has not gone well - 47
-
-
-I’ve got a Patreon now . 
-
------
+# Chapter 47
 
 Quinn
 
@@ -10830,7 +10475,7 @@ I thought about staying for the briefest of moments, the fire wasn’t going to 
 
 *Most of them are going to be by the bend in the road, but not all…*
 
-I looked back down the path, though the now pouring rain, to see Victorina on the ground, lit only by her shield spell. Her dress was soaking wet and clung tightly to her body, and her hair was matted to her face. She was surrounded by several men, one of which had a knee planted on her chest. He trying to get a grip on her throat with one hand, while the other bludgeoned her repeatedly in the face with some sort of short club. In a somewhat ill-advised attempt to distract their attention, I pulled several stones up out of the gravel path with Apportation, picked the man furthest from Victorina’s place on the ground, and shouted the words that would cast MAC. The handful of rocks shot forwards in a shotgun like spray, and while I heard the distant *clink* of metal on stone I still saw him fall, so some must have caught the man where he was unarmoured. 
+I looked back down the path, though the now pouring rain, to see Victorina on the ground, lit only by her shield spell. Her dress was soaking wet and clung tightly to her body, and her hair was matted to her face. She was surrounded by several men, one of which had a knee planted on her chest. He trying to get a grip on her throat with one hand, while the other bludgeoned her repeatedly in the face with some sort of short club. In a somewhat ill-advised attempt to distract their attention, I pulled several stones up out of the gravel path with Apportation, picked the man furthest from Victorina’s place on the ground, and shouted the words that would cast MAC. The handful of rocks shot forwards in a shotgun like spray, and while I heard the distant *clink* of metal on stone I still saw him fall, so some must have caught the man where he was unarmoured.
 
 Now if I’d been thinking I would have noticed that Victorina hadn’t lost the pair of Lighting Balls she’d been holding, and would have paid at least some attention to my own safety, since it seemed that she’d be able to see to her own defence in the short term. As it was, a moment after I killed the first man, Victorina let fly with both blasts of lighting. Her aim was awkward, due both to her position, and the man beating on her shield, but she still landed her shots. The man on top of her screamed and clutched at his chest as she drove her fist into it and fired point blank, while one of the others went down without a word, having been struck in the head. A moment after that, someone tried to cut my head off.
 
@@ -10864,7 +10509,7 @@ I spared a glance back down the road, the fire from the carriage well and truly 
 
 “Mothersarding sons of sarding whores!” she shouted as she loosed a Fire Bolt at the nearest tree that most closely resembled a man.
 
-She kicked off the remaining fancy shoe, and I got her moving towards the city as I supported her. She was rather unsteady on her feet, as a violent blow to the head is wont to do, but thankfully we took no more arrow fire. I was thankful for that, hopefully my ***suppressing fire*** had been enough to scare the living daylights out of whatever sons of bitches had ambushed us. I might have been able to cover one side of Victorina with my body, but that was about it. We were perhaps fifty metres down the road, about where the carriage had gone off, when Victorina finally regained her balance and set to running on her own. It was far from ideal though, her in bare feet, me in what were essentially dress shoes, running down a road that was quickly turning to mud. Even if neither of us turned an ankle, I was still concerned by the level of endurance that most elves showed. We were at least another fifteen minutes by carriage from the city, more than double that on foot, and I really didn’t think that Victorina could keep things up that long. 
+She kicked off the remaining fancy shoe, and I got her moving towards the city as I supported her. She was rather unsteady on her feet, as a violent blow to the head is wont to do, but thankfully we took no more arrow fire. I was thankful for that, hopefully my ***suppressing fire*** had been enough to scare the living daylights out of whatever sons of bitches had ambushed us. I might have been able to cover one side of Victorina with my body, but that was about it. We were perhaps fifty metres down the road, about where the carriage had gone off, when Victorina finally regained her balance and set to running on her own. It was far from ideal though, her in bare feet, me in what were essentially dress shoes, running down a road that was quickly turning to mud. Even if neither of us turned an ankle, I was still concerned by the level of endurance that most elves showed. We were at least another fifteen minutes by carriage from the city, more than double that on foot, and I really didn’t think that Victorina could keep things up that long.
 
 I felt an arrow strike me in the back as I ran, but I barely noticed the pain as I turned in terror to see if Victorina had also been hit. She looked like an absolute wreck, but there was no shaft of wood protruding from her back to add to the mess. Her hair was matted down to the back of her head and neck with blood and water, and more blood trickled down her face, only to be washed away by the pouring rain. Her dress was torn in several places, and it was only due to its poor state that she was afforded enough room to run in what at one point might have been a formal ball gown.
 
@@ -10946,13 +10591,13 @@ I grimaced, “That might be enough of a head start for us to make it back on fo
 
 “Quinn,” Victorina said, her teeth clacking together, “I can’t make that walk, I just… can’t. I’m sorry, I can b-b-b-barely stand, and I’m freezing.”
 
-I took a moment to think, running through my options, and what I had in the belt pouches and Portable Hole. We could try hiding somewhere close by, and wait out the night, but they’d notice the mess Victorina made when we’d landed. They’d know we popped through right here, and would also know that they didn’t need to look too far. We might try waiting in ambush, and try to kill the rest of them, but that was dicey. We wouldn’t have much time to prepare the ground, and Victorina was getting worse and worse. 
+I took a moment to think, running through my options, and what I had in the belt pouches and Portable Hole. We could try hiding somewhere close by, and wait out the night, but they’d notice the mess Victorina made when we’d landed. They’d know we popped through right here, and would also know that they didn’t need to look too far. We might try waiting in ambush, and try to kill the rest of them, but that was dicey. We wouldn’t have much time to prepare the ground, and Victorina was getting worse and worse.
 
 “Sard. I’m sorry Quinn, this is my damned fault. I might not have recognized those men, but they were here for me. They could have killed me when the shield dropped, and they *did* try to kill you, but they didn’t try to kill me. Probably men sent-“
 
 “Hey,” I interrupted, “This is my fault remember? Don’t you take that away from me. I’m the one who set off this whole Adympian succession crisis bullshit, don’t you try to take credit for that. Think of it, a simple commoner like me, having such an impact on the world stage. Who would have thought that such a simple man cou-“
 
-She swatted me weakly, “Simple is damned right, fine, we’re both equally to blame. Now how the hell do we get out of this alive and unkidnapped? You’ve got a kitchen sink in that Extra Dimensional Handkerchief, is there anything actually useful in there?” 
+She swatted me weakly, “Simple is damned right, fine, we’re both equally to blame. Now how the hell do we get out of this alive and unkidnapped? You’ve got a kitchen sink in that Extra Dimensional Handkerchief, is there anything actually useful in there?”
 
 “Hey, don’t you bad mouth my kitchen appliances, they’re plenty useful. Maybe I’ll shove you in there if you’re not careful,” I said, *wait… fuck… god dammit,* “Actually…”
 
@@ -10972,7 +10617,7 @@ I didn’t run into anyone waiting for stragglers from the ambush, and the ammun
 
 *What the hell kinda shenanigans do other Mages get up to?*
 
-Once in the city I had no trouble getting the rest of the way to the University, and then to the clubhouse. There were few people out on the road in weather like this and the rain had washed away any trace of the fight so I just looked like another sodden, if exhausted, traveler. 
+Once in the city I had no trouble getting the rest of the way to the University, and then to the clubhouse. There were few people out on the road in weather like this and the rain had washed away any trace of the fight so I just looked like another sodden, if exhausted, traveler.
 
 I came round the corner to see someone standing in front of the clubhouse, and I went very still, ready to snap off a quick shot if necessary, before I realized that it was Lili waiting there for me. I entertained the idea of her being a double agent for a moment, before discarding it as being a touch too paranoid. She spotted me as I approached, and ran to meet me half way.
 
@@ -11041,12 +10686,7 @@ Suddenly the crushing force on my neck was torn away and I came up spluttering, 
 **Continued in the comments**
 
 
-# Oh this has not gone well - 48
-
-
-I’ve got a Patreon now . 
-
------
+# Chapter 48
 
 Victorina
 
@@ -11060,13 +10700,13 @@ I did manage to find a way to ruin my enjoyment of the experience though, and wh
 
 And Quinn… Quinn had already been though something of what I’d narrowly escaped. Maybe not to the same vile extremes, and certainly not for anywhere near the amount of time that I might have been subject to such treatment, but he had been through it. I’d already been doing my best not to dwell too much on thoughts of what Lady Chypia might have done with him while he was in her hands, but that was before I’d ever had any thoughts of taking him for myself. Now though I couldn’t help but wonder what had Chypia done with Quinn, before he’d become mine.
 
-He seemed able to endure it though, and I thought of the first day I’d met him, when Lili had introduced him to us. He’d been free barely more than a day, but was already on his feet and moving on. And here I was, stressing over what might have been, when Quinn was able to actually go through it, and then brush it off with barely a second thought. 
+He seemed able to endure it though, and I thought of the first day I’d met him, when Lili had introduced him to us. He’d been free barely more than a day, but was already on his feet and moving on. And here I was, stressing over what might have been, when Quinn was able to actually go through it, and then brush it off with barely a second thought.
 
 I lifted a hand to his chest and saw for the first time, now that the sun had risen a little higher, than the entirety of Quinn’s chest was just one massive and livid bruise. I hadn’t noticed last night, but relying on his enchanted robes to keep him alive hadn’t left him uninjured. I traced my hands across his chest, amazed at how much he’d endured last night. Even with the enchantment this sort of punishment would have been more than enough stop any elf from doing much more than trying to hide and hope no one noticed them. But Quinn didn’t hide, he endured what must have been the fastest and least graceful Teleportation ever, got just enough healing to keep him going, and then spent an hour trekking through the woods to get me to safety, while *I* hid. I’d been hiding inside his Extra Dimensional Handkerchief, huddled in a pile of his spare clothing, all but helpless while he carried me to safety.
 
 Oh gods, the Teleport, what must he have thought? I’d already been soaked to the skin before ever casting the spell, and I didn’t imagine that the wet silk had left much to his imagination. Then I’d made it even worse when I failed to keep myself under control after the Teleport. He’d managed it with little difficulty, but there I was, on all fours in the mud, and making the most humiliating sounds.
 
-I’d just been thinking about how badly I needed this, of how long it had been since I’d had anything more than a friend, and how Quinn seemed perfect. But I realized just how far ahead of myself I was getting. Less than a day ago the two of us had just been friends, and now here I was fawning over him. 
+I’d just been thinking about how badly I needed this, of how long it had been since I’d had anything more than a friend, and how Quinn seemed perfect. But I realized just how far ahead of myself I was getting. Less than a day ago the two of us had just been friends, and now here I was fawning over him.
 
 *You’re not some foolish girl that falls at the feet of the first man to treat her like an elf and not a piece of meat. Quinn is a lovely man, but don’t you go and scare him off by falling too hard for him.*
 
@@ -11137,7 +10777,7 @@ I let the sheet fall away, *let him peek,* and pulled myself on top of him to st
 I particularly enjoyed the sounds he made as I tended to his back, the muffled groans as I healed the bruises and worked out the knots in his muscles.
 
 “How can you stand this Quinn?” I asked, as I attacked on particularly bunched up knot in one shoulder “You must have felt terribly sore.”
-  
+
 “Just used to it I guess. Knees and back aching are one of the few downsides to being so tall.”
 
 “Well,” I said, leaning down by his ear, my breasts pressing against his back, “If it ever becomes too much for you, your princess will tend to your aches and pains. That is, so long as you’ve been humble enough in your grovelling.”
@@ -11156,7 +10796,7 @@ I landed with a soft thump, and my breath caught in my throat as he pressed me d
 
 I honestly could not remember the last time that anyone had done that, the last time that I’d been able to *let* anyone kiss me, it had been years.
 
-I found his gentleness sweet, but ultimately insufficient, and I wrapped my arms around his neck and drew him down into me. I so badly wanted him to kick off the silk trousers, so that I might wrap my legs around him as well, but he found the self-control somewhere to do no more than kiss me. At some point I managed to get atop him, straddling him again as I finally let all the stress and frustration of being alone all this time flow out of me in that kiss. 
+I found his gentleness sweet, but ultimately insufficient, and I wrapped my arms around his neck and drew him down into me. I so badly wanted him to kick off the silk trousers, so that I might wrap my legs around him as well, but he found the self-control somewhere to do no more than kiss me. At some point I managed to get atop him, straddling him again as I finally let all the stress and frustration of being alone all this time flow out of me in that kiss.
 
 Finally I managed to pull myself away, and I rolled off of him. I caught my breath as I lay beside him, breathing hard, and so dizzy that I saw stars, but finally feeling genuinely good about myself for the first time in ages. I’d always had the magic, the skill, and the experience, but I’d always been envious of Halea and Thera, who could seemingly conjure handsome men out of thin air.
 
@@ -11168,7 +10808,7 @@ I leapt onto him, intent on beating some respect into him. I ended up trying to 
 
 Quinn, to his credit, did make me breakfast. It was still just the two of us in the clubhouse, and it felt very special for Quinn to be cooking for me. Of course, he’d done that before, but then it had been for everyone in the club, not just me alone. Lili had said that the other girls had stayed with their families overnight, for fear that they’d be targeted as well. Of course, this was nonsense. Instead it was simply a case of their parents wanting to take advantage of the opportunity to keep their daughters within their control for a bit longer. They wanted to know exactly what their girls were up to at the University, the extra day would give them the chance to get more than the vague comments that they would have been able to squeeze out of their daughters in the scant hours before the ball. Brandy and Thera of course weren’t so unfortunate as to be facing such an interrogation, and instead were probably both sleeping off the effects of last night’s festivities.
 
-With nothing to do today I resolved to spend the day with Quinn. Minki had always been the one that he’d shared most of his experiments and new inventions with, but I’d come to the decision that the best way to get to know Quinn, would be by accompanying him as he worked. Quinn had an odd sort of work ethic, and he seemed to alternate between working with an almost psychotic passion, and abject laziness, with seemingly no discernible pattern. It wasn’t just how hard he worked either, it was also a matter of what he worked on. One moment he’d be throwing himself into a problem, at the expense of sleep or regular meals, and in another he’d be casting it aside for something he found more interesting. Sometimes he’d come back to the problem after discarding it as uninteresting, as he had with his hands, but not always. I liked the idea of being the subject of such passion, but Quinn would get bored with everything eventually. 
+With nothing to do today I resolved to spend the day with Quinn. Minki had always been the one that he’d shared most of his experiments and new inventions with, but I’d come to the decision that the best way to get to know Quinn, would be by accompanying him as he worked. Quinn had an odd sort of work ethic, and he seemed to alternate between working with an almost psychotic passion, and abject laziness, with seemingly no discernible pattern. It wasn’t just how hard he worked either, it was also a matter of what he worked on. One moment he’d be throwing himself into a problem, at the expense of sleep or regular meals, and in another he’d be casting it aside for something he found more interesting. Sometimes he’d come back to the problem after discarding it as uninteresting, as he had with his hands, but not always. I liked the idea of being the subject of such passion, but Quinn would get bored with everything eventually.
 
 The current subject of Quinn’s passion was a small, cracked, slab of glass. He’d said that it was a phone. Unless it was an android, or a telephone, or a Samsung, or a smart phone. He was irritatingly inconsistent in his explanations, but whatever he called it, the device supposedly contained a significant amount of Earth knowledge. Unfortunately I wasn’t familiar with the notes he’d written, or the spells that he was planning to use, so I mostly just sat with his arm around me as I watched him work.
 
@@ -11246,12 +10886,7 @@ I cupped his face in one of my hands, “That is very sweet Quinn, even if it is
 
 
 
-# Oh this has not gone well - 49
-
-
-I’ve got a Patreon now . 
-
------
+# Chapter 49
 
 *Quinn*
 
@@ -11311,7 +10946,7 @@ I watched Victorina as she cast a spell to clean up the mess she’d made, and w
 
 “I was looking for a movie which would accurately portray what life on earth is like. Or at least, something that would give you an idea of what it’s like,” I said, as I unlocked my phone.
 
-*Probably not Avengers or Star Wars…* 
+*Probably not Avengers or Star Wars…*
 
 “Right, and you still haven’t explained what a movie is,” Victorina said, as she snatched one of my arms and draped it around herself.
 
@@ -11333,7 +10968,7 @@ I watched Victorina as she cast a spell to clean up the mess she’d made, and w
 
 “Hush, go back to sleep,” I said softly, as I slipped her fingers gently from my wrist.
 
-She’d gone to bed the night before while wearing my hoodie, and looked awfully cute as she lay sprawled face down in my bed, with the hood mostly covering her face. 
+She’d gone to bed the night before while wearing my hoodie, and looked awfully cute as she lay sprawled face down in my bed, with the hood mostly covering her face.
 
 “The sun’s barely up, where are you going?” she mumbled.
 
@@ -11361,7 +10996,7 @@ It was still raining as I stepped out onto the street in front of the clubhouse,
 
 *I’ve got to put ‘invent sandwiches’ on my to do list, along with chocolate and coffee.*
 
-My first class of the day, to be held in the morning on Mondays and Tuesdays, was An Introduction To Battle Magic. The class itself was a little underwhelming, though that was probably do to with the fact that this was only the first week. It felt an awful lot like the first week of classes each semester at U of T, which meant that it mostly consisted of a brief orientation and some introductions. I didn’t recognize anyone in the class, though I was evidently recognized as ‘the tall human’. Word of what happened the night before last had apparently gotten around, and I got both irritated and impressed looks from the students in the small class. 
+My first class of the day, to be held in the morning on Mondays and Tuesdays, was An Introduction To Battle Magic. The class itself was a little underwhelming, though that was probably do to with the fact that this was only the first week. It felt an awful lot like the first week of classes each semester at U of T, which meant that it mostly consisted of a brief orientation and some introductions. I didn’t recognize anyone in the class, though I was evidently recognized as ‘the tall human’. Word of what happened the night before last had apparently gotten around, and I got both irritated and impressed looks from the students in the small class.
 
 Finally one of my more irritable class mates piped up, “Why are you even here, *your highness*?” he asked, though he managed to make it sound like an insult, “Maybe you just want the chance to show off your fancy thunder spell?”
 
@@ -11377,7 +11012,7 @@ I didn’t really mind the idea of being insulting towards royalty, in fact, I r
 
 There were a few hours or so between this class and the next, and I took the opportunity to pick up the textbook that the professor had recommended. He’d mentioned that we should read the chapter on Mishaps in time for next week’s class, and very much unlike my normal self, I decided not to procrastinate on the homework.
 
-After purchasing the book and sitting down to read the chapter I decided that Mishaps should actually be called Fumbles. Specifically, Critical Fumbles. 
+After purchasing the book and sitting down to read the chapter I decided that Mishaps should actually be called Fumbles. Specifically, Critical Fumbles.
 
 *Holy shit, this really seems like the sort of thing I should have been told about sooner.*
 
@@ -11390,16 +11025,7 @@ Mishaps were part of what made it much more time intensive to learn spells as a 
 -----
 
 
-# Oh this has not gone well - 50
-
-
-I’ve got a Patreon now . 
-
-Fifty updates, roughly one hundred days of writing this story. DAMN. I never thought I’d keep it up this long, or that it would take 50 or so updates to get Quinn to his first day of classes. 
-
-I’ve got all you wonderful people to thank, and in particular those of you that have supported me on Patreon. (*People are paying for this?*) It’s amazing, thank you.
-
------
+# Chapter 50
 
 *Quinn*
 
@@ -11633,19 +11259,19 @@ It was only fifty or so metres from the one tower to the other, but they were fi
 
 I got to the other side eventually, and leaned against the wall to steady myself. To the eye at least, the bars looked no different than bronze, and the glass no different from any other sort of glass. Looking in through the window didn’t really reveal a whole lot, and it mostly just looked the same as the tower I’d just left, though it didn’t have any of the magical lights lit. It was dark, there were shelves with books, that was it. It wasn’t like I could use the light on my phone to look inside either. I couldn’t cast Apportation, and I didn’t really like the idea of walking across the roof while carrying a shining beacon. As it was, I settled for testing the materials of the tower.
 
-I’d tied the multitool in place with the file extended, and I counted slowly to sixty as I drew the tool across the base of one of the bars. Once the minute was up, I checked the bar, only to find it almost entirely unmarked. I could barely pick out where I’d been trying to score it. 
+I’d tied the multitool in place with the file extended, and I counted slowly to sixty as I drew the tool across the base of one of the bars. Once the minute was up, I checked the bar, only to find it almost entirely unmarked. I could barely pick out where I’d been trying to score it.
 
 *Welp. Whatever it is, it’s harder than steel. Probably some relative of the material used to make the slave cuffs.*
 
-I tried the stone next, working at the corner of the window, and again I ran the test for sixty seconds. And dammit, again, barely any mark was left on the stone. There was something there, the materials weren’t impervious, but it was barely noticeable. I wasn’t going through the walls, or the bars. 
+I tried the stone next, working at the corner of the window, and again I ran the test for sixty seconds. And dammit, again, barely any mark was left on the stone. There was something there, the materials weren’t impervious, but it was barely noticeable. I wasn’t going through the walls, or the bars.
 
 That left the glass, which turned out to be perfectly normal glass. It was fairly thick, but when I tried to score it with the tip of the file, I could clearly see the mark that was made. This was a small consolation though, considering there was no way in hell I was going to slip between the bars. I peered up through the falling rain to the upper floors of the tower, to see if they’d opted not to bar the windows higher up.
 
-No such luck. Five floors of windows, and all were barred. 
+No such luck. Five floors of windows, and all were barred.
 
 *Five? One, two… yeah, where’s the sixth floor?*
 
-The darkness and the rain made it damned hard to see anything, but I only counted five sets of windows, including the one I was leaning against. I thumped a forearm against the hawk vision amulet to see if it would give me a closer look, only to find that it didn’t work. 
+The darkness and the rain made it damned hard to see anything, but I only counted five sets of windows, including the one I was leaning against. I thumped a forearm against the hawk vision amulet to see if it would give me a closer look, only to find that it didn’t work.
 
 *Right, so enchantments don’t work in antimagic fields.*
 
@@ -11659,7 +11285,7 @@ The greater acuity offered by hawk vision let me figure out where the sixth floo
 
 I found the stairwell, using the flashlight on my phone to guide me, and ascended to the very top of the tower.
 
-The very top floor of the tower felt much more like an attic, than a Library, and I could see the exposed rafters of the pointed roof above. There were also no interior walls here, and while it did feel much more open, without the shelves to break up the sight lines, I could see now that the towers were smaller than they felt. It was still fairly spacious though, and with the floor to ceiling windows, balcony, and generally open feeling of the room, I guessed that this would have been quarters for one of the University’s original administrators or professors. I walked across the floor of the empty room to the balcony doors, and pulled the hood of my robes up before pushing open the bronze framed glass door. 
+The very top floor of the tower felt much more like an attic, than a Library, and I could see the exposed rafters of the pointed roof above. There were also no interior walls here, and while it did feel much more open, without the shelves to break up the sight lines, I could see now that the towers were smaller than they felt. It was still fairly spacious though, and with the floor to ceiling windows, balcony, and generally open feeling of the room, I guessed that this would have been quarters for one of the University’s original administrators or professors. I walked across the floor of the empty room to the balcony doors, and pulled the hood of my robes up before pushing open the bronze framed glass door.
 
 I activated the amulet again as I leaned against the balcony railing, and peered across to the doors on the opposite tower. It looked much the same, with floor to ceiling windows in bronze frames, and glass doors framed the same way. There were two differences though. The first was the thick chains that held shut the balcony doors, and the second was the lack of any railing on the balcony.
 
@@ -11710,14 +11336,7 @@ She shivered a little, and I felt her cold hands slide around my chest as she sn
 *Someone waiting for me to come home… Just what the hell did I do to deserve that?*
 
 
-# Oh this has not gone well - 51
-
-
-I’ve got a Patreon now . 
-
-Going to be busy with real life things for the next few days, so you can expect the next update to be delayed a couple of days. Things should get back to normal after that though.
-
------
+# Chapter 51
 
 *Quinn*
 
@@ -11731,11 +11350,11 @@ Healing of course would be what I needed to fix my stupid hands, and if all went
 
 I didn’t find either Nothus, who I still wanted to get to know, or Diova and his crew in the classroom as I slipped in just as class was about to start, so I settled into the first empty chair I saw while the professor got started. I quite liked the way that the University arranged their classes, with only twelve or so students and furniture that wouldn’t have been out of place back in the clubhouse’s sitting room. I’d gotten my fill of thousand person lecture halls and plastic seats back at U of T, so this was a welcome change of pace.
 
-I noticed something particular, as the professor was having each of us introduce ourselves, and that was the odd proportion of nobles to peasants. Of the eleven other students here, seven were noble. Of course, my sample size was awfully low, but I’d been noticing similarly skewed numbers elsewhere in the University as well. Even just looking down a crowded hall, I’d seen that there were far more Mages wearing colours allowed only to those of privilege than made sense demographically. 
+I noticed something particular, as the professor was having each of us introduce ourselves, and that was the odd proportion of nobles to peasants. Of the eleven other students here, seven were noble. Of course, my sample size was awfully low, but I’d been noticing similarly skewed numbers elsewhere in the University as well. Even just looking down a crowded hall, I’d seen that there were far more Mages wearing colours allowed only to those of privilege than made sense demographically.
 
 Even if the University was willing to accept rather tenuous connections as ‘close enough’ for acknowledgement of noble status, the nobles couldn’t be more than one percent of the total population on Elardia. In fact, they were almost certainly less than that, but you wouldn’t think that if you just looked at a crowd of Mages.
 
-I’d need to do a more detailed survey, *hell, I could just use my phone to photograph a crowd and count the colours,* but I was pretty sure that nobles were at least ten percent of the University’s population. And they were even more overrepresented when you considered the more talented groups of Mages. 
+I’d need to do a more detailed survey, *hell, I could just use my phone to photograph a crowd and count the colours,* but I was pretty sure that nobles were at least ten percent of the University’s population. And they were even more overrepresented when you considered the more talented groups of Mages.
 
 *Maybe it’s hard for peasant Mages to be discovered? Or it might be that the noble’s attempts to breed for magical talent really are working, at least a little bit.*
 
@@ -11745,7 +11364,7 @@ There were a lot more questions that needed answering, especially when it was po
 
 The teacher ended the class with a few demonstrations of different common enchantments, and then invited us all to examine a few pieces that had been made by other students as part of class projects. The lot of us all gathered around a large desk, upon which lay a horde of magical treasures.
 
-*Damn, half of the random magical treasure table is sitting here.* 
+*Damn, half of the random magical treasure table is sitting here.*
 
 There were magic swords, bows, bits of armour, rings, and amulets of all kinds. There were also a few pieces that I decided must be Minor Wondrous Items, since they didn’t seem to fall into any easy categories.
 
@@ -11765,11 +11384,11 @@ There were magic swords, bows, bits of armour, rings, and amulets of all kinds. 
 
 I ordered lunch, almost in a daze, as I considered just what I could do with an enchantment like the one that was built into that clock. Could it work backwards, could I provide rotational energy and have it give back mana, instead of using mana to provide the rotation? How far could it be scaled up, could I make a magical car? There were enchantments whose entire role was to provide mana to other enchantments, and from what I’d read there wasn’t a limit to how many times you could layer that enchantment on a single item. Could I stack that a couple hundred times and power a magical car with just ambient mana? How far could you go before you started to deplete ambient mana?
 
-I lost track of time at some point, and it was only when I happened to glance at my watch that I realized that I was almost late for my class on Healing. I managed to get there on time though, and I was happy to see that Nothus was in attendance as well. There weren’t any empty seats near him though, so I found a comfy chair near the door to fall into. 
+I lost track of time at some point, and it was only when I happened to glance at my watch that I realized that I was almost late for my class on Healing. I managed to get there on time though, and I was happy to see that Nothus was in attendance as well. There weren’t any empty seats near him though, so I found a comfy chair near the door to fall into.
 
 This class, like Enchantment, also shared the uneven distribution of nobles to peasants, and I also noticed that Nothus and I were the only two men in the room. For noble women healing was probably considered one of the more ‘lady like’ pursuits, while battle magic was too much like fighting, and enchantment too much like the work a smith might do. For peasant women on the other hand, healing was probably the sort of magic that would be most helpful if they returned home, and so made quite a bit of practical sense.
 
-The professor too was a woman, the first female professor I’d seen so far, other than Lili herself, and she looked every bit like someone’s favourite grandmother. Short, though not for an elf at five feet tall, with curly white hair. She didn’t have many wrinkles, though if she was a Mage then showing any age at all meant that she was not someone to be trifled with. She was also just a little plump, and wore pastel green robes that reminded me of a nurse’s scrubs. 
+The professor too was a woman, the first female professor I’d seen so far, other than Lili herself, and she looked every bit like someone’s favourite grandmother. Short, though not for an elf at five feet tall, with curly white hair. She didn’t have many wrinkles, though if she was a Mage then showing any age at all meant that she was not someone to be trifled with. She was also just a little plump, and wore pastel green robes that reminded me of a nurse’s scrubs.
 
 She had us all introduce ourselves, and it was only then that I realized that Mata was sitting right beside me. I’d barely noticed her when she’d first walked in, she seemed just so... boring. Average height for an elf, average build, with a plain look to her, both in appearance and dress, when it was all put together it just made her fade into the background.
 
@@ -11873,7 +11492,7 @@ I waved one hand absently, *I can wave my hands!* “It’s fine, I get it.”
 
 “Alright everyone, settle down.” Professor Nanna said, “You two as well, it’s nice that you’ve made a friend Nothus, but quiet down now.”
 
-There was some bookkeeping, and she went over some more of the basics of healing magic and assigned a few chapters of reading before finally letting us go early. We were even given the next day off, which I appreciated. As with enchantment, whose professor had also given us tomorrow off once I finally finished laughing manically, Professor Nanna wanted us to finish the assigned reading before going forwards. At first I was a little surprised at how narrow the section was, and how long we were being given to read them, but it made sense once I considered how much these people must read. Even if everyone here was literate, that didn’t mean the same thing here, as it did on Earth. On Earth, even if you weren’t like me and would read a couple novels a month, most people would read an incredible amount. Not road signs and such, they didn’t count, but pretty much everyone had a smart phone. Most time spent in front of a screen, unless it was playing a movie, involved reading to one degree or another. Elves on the other hand, not including the few that read for pleasure, probably read very little. One particularly thick Earth novel was probably more reading than any one elf would do in their life, even if they happened to be a noble. 
+There was some bookkeeping, and she went over some more of the basics of healing magic and assigned a few chapters of reading before finally letting us go early. We were even given the next day off, which I appreciated. As with enchantment, whose professor had also given us tomorrow off once I finally finished laughing manically, Professor Nanna wanted us to finish the assigned reading before going forwards. At first I was a little surprised at how narrow the section was, and how long we were being given to read them, but it made sense once I considered how much these people must read. Even if everyone here was literate, that didn’t mean the same thing here, as it did on Earth. On Earth, even if you weren’t like me and would read a couple novels a month, most people would read an incredible amount. Not road signs and such, they didn’t count, but pretty much everyone had a smart phone. Most time spent in front of a screen, unless it was playing a movie, involved reading to one degree or another. Elves on the other hand, not including the few that read for pleasure, probably read very little. One particularly thick Earth novel was probably more reading than any one elf would do in their life, even if they happened to be a noble.
 
 I was in beginner classes which meant that most here were probably new to the University, so most of my classmates then would be reading more now than they’d ever been before, so I supposed that it made sense to give them time to get used to it.
 
@@ -11925,7 +11544,7 @@ He didn’t say anything more on the subject, and we chatted a little more on th
 
 The rest of the day, now that my hands worked, was spent shopping for climbing equipment. Though in this case ‘climbing equipment’ mostly meant a lot of rope. I already had pretty good footwear for this sort of thing, and it wasn’t like I was going to be able to knock pitons into the adamant walls of the tower, or use climbing axes to chop out hand and foot holds. No, I was going to end up doing the climb Assassin’s Creed style, though with the added safety of a tie-off at every floor.
 
-The trouble, now that I had a chance to think beyond climbing the tower, was going to be twofold. First, I had to get inside. I was pretty sure that I could pop a window out of its frame, or failing that, I could file through the chain. That did require the chain to be normal bronze though, and not the same material as the window bars. The third option then, was to smash a window. That would definitely work, but I did not like the idea of leaving evidence of a break in, especially since I expected that I’d need to stay inside of the tower for at least a few of hours, or even a couple of days. 
+The trouble, now that I had a chance to think beyond climbing the tower, was going to be twofold. First, I had to get inside. I was pretty sure that I could pop a window out of its frame, or failing that, I could file through the chain. That did require the chain to be normal bronze though, and not the same material as the window bars. The third option then, was to smash a window. That would definitely work, but I did not like the idea of leaving evidence of a break in, especially since I expected that I’d need to stay inside of the tower for at least a few of hours, or even a couple of days.
 
 That led to problem two, which was the rope. If I used it to tie off at each floor, then I was going to have a hard time finding a way to pull the rope back up once I got to the balcony. And if I left it there, then it wouldn’t take a genius to realize what had happened.
 
@@ -11935,7 +11554,7 @@ I bought the rope regardless, and stuffed it into a belt pouch.
 
 *Climbing down is going to be a bitch though if I’ve got no rope going down, and it’s not like I could tie it off at the top and repel down either. That would leave me with the same problem, since I wouldn’t be able to get it down afterwards.*
 
-I did stop by The Mercers’ enchantment shop to speak with Amezzer, and found myself a possible contingency. There was apparently such a thing as a ‘Ring of Feather Fall’, and I bought two. One to go on my now working hands, *my hands work!* and one to go in the pouch next to the spare ring of water breathing. 
+I did stop by The Mercers’ enchantment shop to speak with Amezzer, and found myself a possible contingency. There was apparently such a thing as a ‘Ring of Feather Fall’, and I bought two. One to go on my now working hands, *my hands work!* and one to go in the pouch next to the spare ring of water breathing.
 
 It might allow a speedier decent, if I leapt from the side of the tower that was away from the greater structure of the Library. The first six floors were in the anti-magic field, but the last six weren’t. That should give the ring enough time to catch my fall, and then I wouldn’t need to bother with ropes at all.
 
@@ -11945,7 +11564,7 @@ I got back to the clubhouse a bit before supper, and found myself reaching for t
 
 *It’s going to take me a while to get used to using my hands again.*
 
-I let the spell go, and turned the doorknob by hand for the first time ever, feeling the cool metal against my palm. I did a quick check through the clubhouse to see who was all here, before heading up to the kitchen to make supper for everyone. I did find myself using Apportation for some tasks, but only because I found it helpful to have some extra sets of hands, and not because I had to. 
+I let the spell go, and turned the doorknob by hand for the first time ever, feeling the cool metal against my palm. I did a quick check through the clubhouse to see who was all here, before heading up to the kitchen to make supper for everyone. I did find myself using Apportation for some tasks, but only because I found it helpful to have some extra sets of hands, and not because I had to.
 
 I was slicing up some pepperoni, or what passed for pepperoni here in Elardia, for the pizza when Victorina poked her head in.
 
@@ -12019,7 +11638,7 @@ I set one hand on her waist, feeling the softness of her skin and the firmness o
 
 “Not just yet,” I said, my voice coming out hoarser than I’d intended.
 
-With the firm grip on her hair I forced her to turn away from me, and I half pushed, half pulled her over to her desk. In my haste I practically threw her down onto it, holding her there with the grip I maintained on her hair. She clutched the far edge of the table in a while knuckled grip, and spread her legs apart as I kicked off my pants. 
+With the firm grip on her hair I forced her to turn away from me, and I half pushed, half pulled her over to her desk. In my haste I practically threw her down onto it, holding her there with the grip I maintained on her hair. She clutched the far edge of the table in a while knuckled grip, and spread her legs apart as I kicked off my pants.
 
 “You bastard,” she gasped, “Don’t you sarding dare tease-“
 
@@ -12031,11 +11650,11 @@ I pressed her down more firmly onto the hard wood of the table to try to stop he
 
 “Don’t stop, don’t stop, just like that,” she begged, forcing the words out through a strangled gasp, “Just like that.”
 
-She curled one leg behind herself, seemingly in a vain attempt to draw me in closer, and I decided that I’d had enough of the squirming. I grabbed her ankles roughly with my manipulators and I pulled them apart. I used more of my magic to hold her in place, and I forced a gasp out of her as an immense weight pressed her down into the table. 
+She curled one leg behind herself, seemingly in a vain attempt to draw me in closer, and I decided that I’d had enough of the squirming. I grabbed her ankles roughly with my manipulators and I pulled them apart. I used more of my magic to hold her in place, and I forced a gasp out of her as an immense weight pressed her down into the table.
 
 “Please, yes, yes, don’t stop,” she demanded, with barely enough breath to speak, ”Just like thaaahh- Oh, yes, oh, please, unnggh“
 
-Her whole body flushed and her toes curled as she let out several low and guttural groans as I finally satisfied myself. Both the lights and the force holding her down snapped off of their own accord once we got finished with each other, and I let go of her hair and stumbled back as she lay bent over the table, still panting hard. It was almost pitch black without the lights, but I still saw her shadowy outline as she tried and failed to push herself up to her feet. Instead her knees buckled, and she crumpled down to the ground in a heap. 
+Her whole body flushed and her toes curled as she let out several low and guttural groans as I finally satisfied myself. Both the lights and the force holding her down snapped off of their own accord once we got finished with each other, and I let go of her hair and stumbled back as she lay bent over the table, still panting hard. It was almost pitch black without the lights, but I still saw her shadowy outline as she tried and failed to push herself up to her feet. Instead her knees buckled, and she crumpled down to the ground in a heap.
 
 “Quinn,” she pleaded, “Bed, please?”
 
@@ -12055,14 +11674,7 @@ I scooped her up off of the ground, and dumped her into the bed, before slipping
 
 
 
-# Oh this has not gone well - 52
-
-
-I’ve got a Patreon now . 
-
-Still busy so it’s a bit short, but I thought I should get something out for you guys, since I got about a dozen messages asking if I were dead or not. I’m still trying to get back on schedule, and unfortunately it looks like the next update is also going to see a delay of a couple days. You can expect the next one to come out late at night Tuesday, or early morning Wednesday. After that though I should be back on track though.
-
------
+# Chapter 52
 
 *Victorina*
 
@@ -12072,7 +11684,7 @@ Quinn was still sprawled across my bed and sleeping peacefully when I returned f
 
 It had surprised me actually, the first time I’d cast Dream Viewing. Not the dream itself, I had been expecting something strange after all. No, it was how easy it was to cast the spell in the first place. I’d taken part in some of the practice skirmishes that Halea would run with Quinn, and I knew just how hard it was to actually affect Quinn with a spell that was cast directly on him. It wasn’t quite as difficult as casting on Neferoy, she had a true *Resistance* to magic after all, but it was close, which spoke to the strength of Quinn’s Will. But when I’d cast it that first time, I didn’t feel any resistance at all, which was very much the opposite of what I’d expected.
 
-Most of the time it’s difficult to cast even a healing spell on someone who’s unconscious, since they’re not able to make the decision to let the spell through, whether they make that decision consciously or subconsciously. That meant one of two things for Quinn. The first possibility was that his substantial Will interacted with his magical talent strangely, and produced an incredible amount of natural resistance to incoming magic while conscious, but no natural resistance when unconscious. The other though… The other possibility was that Quinn trusted me to the point, where it was his subconscious response to let my magic through, and it was only when he made a conscious effort that he could resist it. 
+Most of the time it’s difficult to cast even a healing spell on someone who’s unconscious, since they’re not able to make the decision to let the spell through, whether they make that decision consciously or subconsciously. That meant one of two things for Quinn. The first possibility was that his substantial Will interacted with his magical talent strangely, and produced an incredible amount of natural resistance to incoming magic while conscious, but no natural resistance when unconscious. The other though… The other possibility was that Quinn trusted me to the point, where it was his subconscious response to let my magic through, and it was only when he made a conscious effort that he could resist it.
 
 That was not an easy level of trust to achieve, and it did make me feel just a little bit guilty about my spying. For most elves, though Quinn made me question whether it was the case with humans, their minds were too wrapped up in the what-ifs to allow for such a degree of trust in another person, even if they’d spent decades with that person. Sure, most spells that their partner might cast would be beneficial, but, what if? What if the person they thought they cared for had changed, or wasn’t even the person that they thought they were in the first place? There were too many what-ifs in most people’s minds for that sort of unconditional trust. It wasn’t unheard of, but it was extremely rare.
 
@@ -12148,7 +11760,7 @@ I let out a very unladylike snort, “You’re not dissuaded at all, are you?”
 
 “Yes, your uncle’s new weapons for example, and they’re nothing to scoff at Quinn,” I warned, “Nezzabi has been taking any chance he can find to use them, and I’ve heard the reports, and his boasts. They’re as deadly as any bow or crossbow, and while they can’t be made ready nearly as quickly, their wielders can continue to fight much longer.”
 
-“Right, I hadn’t thought of that. A bow might be better than early firearms if the bowman is skilled, but without endurance like a human, they probably can’t keep it up for very long. How many of these guys has he got though? I mean, guns are easy to train on. I might be able to get similar numbers if I hand out flintlocks or even bolt actions to as many of the city’s garrison as I can manage.” 
+“Right, I hadn’t thought of that. A bow might be better than early firearms if the bowman is skilled, but without endurance like a human, they probably can’t keep it up for very long. How many of these guys has he got though? I mean, guns are easy to train on. I might be able to get similar numbers if I hand out flintlocks or even bolt actions to as many of the city’s garrison as I can manage.”
 
 “Fifty perhaps?” I said, “No more than a hundred.”
 
@@ -12210,21 +11822,14 @@ He laughed, “I’ll spare you the technical details, but what matters is rate 
 
 “Huh? Her?” He asked, obviously quite confused.
 
-“Nothus,” I repeated, as Quinn’s eyes got wider and wider, “She was the one to fix your hands, wasn’t she?” 
+“Nothus,” I repeated, as Quinn’s eyes got wider and wider, “She was the one to fix your hands, wasn’t she?”
 
 “***She?***”
 
 -----
 
 
-# Oh this has not gone well - 53
-
-
-I’ve got a Patreon now . 
-
-No, I’m not dead. Yes, I should be back on schedule going forwards.
-
------
+# Chapter 53
 
 **Quinn**
 
@@ -12242,7 +11847,7 @@ No, I’m not dead. Yes, I should be back on schedule going forwards.
 
 “You imagine something like me?” Victorina asked innocently, as she pressed herself hard against me.
 
-“Actually, yeah,” I replied, “Do all nymphs look like Nothus then?” 
+“Actually, yeah,” I replied, “Do all nymphs look like Nothus then?”
 
 “Nymphs are shapeshifters,” she replied, and I raised an eyebrow, “It’s not a quick process for them to change shape, but given enough time they can assume almost any elfinoid shape.”
 
@@ -12274,13 +11879,13 @@ Victorina inhaled sharply, “J-just, be… careful!” she gasped out haltingly
 
 -----
 
-I made breakfast that morning for Victorina and a couple of the others who’d also risen a little late, before finally heading out for the Library. I had something like a real deadline for lifting the curse now and needed to prepare, and I also wanted to do some reading on nymphs. 
+I made breakfast that morning for Victorina and a couple of the others who’d also risen a little late, before finally heading out for the Library. I had something like a real deadline for lifting the curse now and needed to prepare, and I also wanted to do some reading on nymphs.
 
-I couldn’t say that I liked Victorina’s attitude towards Nothus, but I supposed that I did need to make allowances for the fact that she was a product of her time, or at least of this world. That was something I’d been noticing more and more as we both relaxed into the relationship a little. We’d passed the initial heated and possibly overly affectionate phase that came at the start of any relationship, especially one that had been preceded by a rather long dry spell, as had been the case for the both of us, and we were getting to grips with the realities of a longer term commitment. There were a lot of cultural differences between us, some of which I’d never imagined, and others which I’d given very little thought until now, and it took some getting used to. 
+I couldn’t say that I liked Victorina’s attitude towards Nothus, but I supposed that I did need to make allowances for the fact that she was a product of her time, or at least of this world. That was something I’d been noticing more and more as we both relaxed into the relationship a little. We’d passed the initial heated and possibly overly affectionate phase that came at the start of any relationship, especially one that had been preceded by a rather long dry spell, as had been the case for the both of us, and we were getting to grips with the realities of a longer term commitment. There were a lot of cultural differences between us, some of which I’d never imagined, and others which I’d given very little thought until now, and it took some getting used to.
 
 Whether I liked the attitude though, she was right about being careful around Nothus, and I needed more information. For me the word ‘empath’ was loaded with baggage, borne of living in a world with an excessive amount of entertainment material to watch, read, and listen to, and I needed to know what ‘empath’ really meant on Elardia if I was going to be able to safely interact with Nothus.
 
-And there was the guildhall, and the potential conflict with Nezzabi or one of his vassals. If he was going to make an issue of it, then he’d want to do it as quickly as possible, to minimize the amount of time I’d have to prepare for the defence of the city. He’d be limited though, because even with my Uncle’s matchlocks, he still had to deal with the realities of trying to prosecute a war in a late Bronze, early Iron age society. In a world like this the campaigning season was very short, four months at most, and more probably three. Even with magic, supplying an army in winter was still going to be nearly impossible, which discounted one entire season. Spring and Autumn too, were also out, as elves would be busy with either planting or harvesting the crops for the year. 
+And there was the guildhall, and the potential conflict with Nezzabi or one of his vassals. If he was going to make an issue of it, then he’d want to do it as quickly as possible, to minimize the amount of time I’d have to prepare for the defence of the city. He’d be limited though, because even with my Uncle’s matchlocks, he still had to deal with the realities of trying to prosecute a war in a late Bronze, early Iron age society. In a world like this the campaigning season was very short, four months at most, and more probably three. Even with magic, supplying an army in winter was still going to be nearly impossible, which discounted one entire season. Spring and Autumn too, were also out, as elves would be busy with either planting or harvesting the crops for the year.
 
 *Which might even take longer than it did on Earth if elves can only work half as long.*
 
@@ -12288,14 +11893,14 @@ That left Summer. The crops would be planted, and the harvest would be months aw
 
 *I might be rushing a little, but I think that this is doable.*
 
-I could wait. I could take my time, break in at some point this year and get the spells, but wait until very late Summer next year to actually do the work of lifting the curse. That could work, but that plan had its flaws. As it was, we weren’t even a week into Autumn as it was, so I wouldn’t be buying myself more than a month or two of extra time to work. And while I might get a couple extra months to prepare by waiting a year, Uncle Walsh would be able to spend that year refining his designs and stockpiling gunpowder. For all I knew, that year would be all he needed to find a more substantial source of saltpetre. 
+I could wait. I could take my time, break in at some point this year and get the spells, but wait until very late Summer next year to actually do the work of lifting the curse. That could work, but that plan had its flaws. As it was, we weren’t even a week into Autumn as it was, so I wouldn’t be buying myself more than a month or two of extra time to work. And while I might get a couple extra months to prepare by waiting a year, Uncle Walsh would be able to spend that year refining his designs and stockpiling gunpowder. For all I knew, that year would be all he needed to find a more substantial source of saltpetre.
 
 *Assuming he is my Uncle, if he’s really been here for four years then there’s a whole mess there to be figured out.*
 
 Haste then was the better option. A month or two of lost time was worth depriving my Uncle, *or a near copy*, of a year’s worth of firearms development.
 
 -----
- 
+
 The information to be found on nymphs was unfortunately rather thin, though I did get some bullet point answers to some of the biggest questions. My question about how nymphs propagated themselves without any male nymphs around was answered pretty simply, nymphs were apparently the exception to the rule that species couldn’t interbreed. It was speculated that it was something to do with their shapeshifting, and apparently any child of a nymph regardless of the species of the other parent, was always a nymph. There was more on nymph reproduction to be found, in fact of all the nymph related topics it was the most well covered, but the strange sort of voyeuristic fascination that the sections seemed to be written with put me off, and I moved on.
 
 Nymph empathy turned out to be pretty simple, and I was almost disappointed in how it seemed to be more or less as my cultural assumptions had led me to think it would be. Nymphs could sense emotions. That was it. They didn’t get thoughts, not of any kind, but they’d be able to pick up on the presence and intensity of any given emotion. They were apparently pretty flawless lie detectors, which made them prized companions of royalty who wanted an edge on anyone they were meeting with.
@@ -12304,7 +11909,7 @@ Nymph empathy turned out to be pretty simple, and I was almost disappointed in h
 
 They could never be anything more than a mistress though, not a concubine, and certainly not a wife. This was because any offspring of a nymph was automatically illegitimate. Nobles and royalty wanted heirs for their dynasty, and what good was an heir that wasn’t even the same species as you?
 
-It didn’t quite explain Nothus though, and whatever little Victorina knew she seemed uncomfortable sharing, which probably meant asking Nothus themself next time I saw them. 
+It didn’t quite explain Nothus though, and whatever little Victorina knew she seemed uncomfortable sharing, which probably meant asking Nothus themself next time I saw them.
 
 I dug a little more into the specifics of their shapeshifting abilities, but nymphs seemed to be pretty tight lipped when it came to this part of their abilities, and there wasn’t a whole lot of information to be found. This was somewhat disappointing, as I was hoping that it might be the clue that I needed to fix my eyes. It was only a guess, but I was pretty sure that Nothus was able to heal my hands because they had an innate understanding of just how the body worked. If they’d had only the MRI spell, all they would have known would have been that there was some sort of odd fibre running through my hands that had been damaged beyond repair. They wouldn’t have known what those fibres were, or how they related to the feeling in my hands, only that they were damaged. It was only due to their ability to shapeshift that they understood how to fix the damage.
 
@@ -12338,7 +11943,7 @@ I glanced at the first couple paged of the Astrology book, which seemed to descr
 
 *But then so do some Astrologists on Earth, doesn’t mean they’re right either. But thanks world, an existential crisis is exactly the sort of thing I need right now.*
 
-Elardia played by different rules than Earth. For one, magic was real, and it could even be used to conjure matter from thin air, even if it was only for a short time. If the laws of physics were so flexible here that e=mc^2 could be interpreted a little liberally, then maybe Astrology or any other sort of Divination magic really did give accurate results. And if Divination really did give accurate results, then what did that say about free will? 
+Elardia played by different rules than Earth. For one, magic was real, and it could even be used to conjure matter from thin air, even if it was only for a short time. If the laws of physics were so flexible here that e=mc^2 could be interpreted a little liberally, then maybe Astrology or any other sort of Divination magic really did give accurate results. And if Divination really did give accurate results, then what did that say about free will?
 
 *If I learn Astrology, and use it to divine the future, am I locked into that future? If I don’t use it, would I still find myself following that course of events? Is not knowing about a prophecy the same as not being bound by one? Is ignorance bliss? Well, maybe, but I doubt that ignorance is going to be the solution to any of my problems.*
 
@@ -12360,7 +11965,7 @@ A relative of Astrology was Meteorology, which had the Mage observing weather pa
 
 *Note to self, figure out magical spaceflight and launch a weather satellite.*
 
-There was Catoptromancy and Pyromancy, both of which involved seeing images of future events, or hearing voices that would speak the answer to your questions, the only difference between the two was whether you were starting into a mirror, or a fire. There was Xylomancy, Astragalomancy, and Pessomancy, which based their divination on the fall of sticks, bones, and stones respectively. There was tea leaf reading, and crystal gazing, Lecanomancy and Geomancy. I tried counting all the different methods of divination as I wandered through the collection, and stopped when I reached a hundred. There must have been four or five times that many, just in this collection, with each one having its own particular uses or specialties. 
+There was Catoptromancy and Pyromancy, both of which involved seeing images of future events, or hearing voices that would speak the answer to your questions, the only difference between the two was whether you were starting into a mirror, or a fire. There was Xylomancy, Astragalomancy, and Pessomancy, which based their divination on the fall of sticks, bones, and stones respectively. There was tea leaf reading, and crystal gazing, Lecanomancy and Geomancy. I tried counting all the different methods of divination as I wandered through the collection, and stopped when I reached a hundred. There must have been four or five times that many, just in this collection, with each one having its own particular uses or specialties.
 
 It would take me years, even as talented as I was, just to learn all the spells, let alone figure out how and when to use them. I could feel the obsessive part of brain trying to convince the rest that it would be a good idea to sit down and start trying to do just that, but after photographing what must have been the fiftieth divination spell, I decided that it would be best to pick just one.
 
@@ -12392,7 +11997,7 @@ I photographed the hell out of that book, since my scanner app couldn’t parse 
 
 -----
 
-I spent the rest of that week going through the information that the Library kept on the guildhall, its lands, and on Duke Suila. Duke Suila being the guy who I’d eventually be coming into conflict with. Assuming I could break into the tower without getting caught or falling to my death, lift the curse without getting eaten by the wraith or killing myself in the casting of some very questionable spells, and claim the guildhall without anyone crying foul. 
+I spent the rest of that week going through the information that the Library kept on the guildhall, its lands, and on Duke Suila. Duke Suila being the guy who I’d eventually be coming into conflict with. Assuming I could break into the tower without getting caught or falling to my death, lift the curse without getting eaten by the wraith or killing myself in the casting of some very questionable spells, and claim the guildhall without anyone crying foul.
 
 *And also assuming that Azarburg even wants my help, for all I know they might not want my help against Duke Sulia, or they’ll be happy with actually becoming a proper vassal of Sulia if it would avert a war.*
 
@@ -12498,16 +12103,7 @@ I smiled, “It certainly gets the point across. I have just one other question 
 
 “What?” she exclaimed, “No!”
 
-# Oh this has not gone well - 54
-
-
-I’ve got a Patreon now,  
-
-There’s also a post up for patrons, and it asks you folks to tell me which of Halea and Thera you’d prefer to see renamed.
-
-Bit shorter, but I’ve started working on some story related stuff in the background, and hopefully I’ll have that to show you guys in a little bit.
-
------
+# Chapter 54
 
 **Quinn’s Notes**
 
@@ -12515,7 +12111,7 @@ Bit shorter, but I’ve started working on some story related stuff in the backg
 
 Monday/Louday
 
-* Battle Magic from 0700 to 1100, Spell invention from 1300 to 1700 
+* Battle Magic from 0700 to 1100, Spell invention from 1300 to 1700
 * Usually get out early though, really only need to stick around for first hour of spell invention, then we can go wherever to work on the Solaris upgrade
 * Elves call it Louday, named for Loupismus, who’s their god of the moon or whatever
 * Moon looks normal sized I guess? Crater patterns are different, but a moon is a moon. It’s cold, dead, and probably not made of cheese
@@ -12534,7 +12130,7 @@ Wednesday/Weiday
 
 * Enchantment 7-11, Healing 13-17
 * Locals call it Weiday, named for Weisse, god of wizards
-* Not the god of mages too? 
+* Not the god of mages too?
 * Depicted like a tall old woman
 * Weisse’s planet shines blue (!!!!!!!!!)
 * Associated with some sort of doomsday shit?
@@ -12584,7 +12180,7 @@ Sunday/Feastday
 
 -----
 
-It didn’t take long for Nothus to teach me her MRI spell, and once she did, oh man… We both still had a great deal to learn about the theory around healing magic, but when it came to the practical use, we probably advanced the state of healing magic by decades in a matter of days. Between her MRI spell and innate knowledge, and the general sort of knowledge I’d been able to pick up just by living in a world with proper medical technology we’d been able to solve most of the problems that healing magic had up till this point. Previously healing magic had been limited to bones, muscles, and flesh, and even then it could be tricky to heal an injury without leaving some sort of permanent damage, even if it was only a scar. Now though, and this was still just theory to some extent, we were pretty sure that we’d be able to heal something even as complex as the brain or the heart, without leaving any sign of previous damage. 
+It didn’t take long for Nothus to teach me her MRI spell, and once she did, oh man… We both still had a great deal to learn about the theory around healing magic, but when it came to the practical use, we probably advanced the state of healing magic by decades in a matter of days. Between her MRI spell and innate knowledge, and the general sort of knowledge I’d been able to pick up just by living in a world with proper medical technology we’d been able to solve most of the problems that healing magic had up till this point. Previously healing magic had been limited to bones, muscles, and flesh, and even then it could be tricky to heal an injury without leaving some sort of permanent damage, even if it was only a scar. Now though, and this was still just theory to some extent, we were pretty sure that we’d be able to heal something even as complex as the brain or the heart, without leaving any sign of previous damage.
 
 Honestly, Nothus had already done most of the work by the time I'd met her. She was already able to heal most things completely, and only had any real trouble with internal organs. So we ran a complete scan of each of us with her MRI spell, and I pointed out each organ and explained what it was, and what it did. A medical student probably would have been a better pick for this sort of thing than a comp sci major, but I had a pretty good memory, and there wasn’t anything that she pointed out that I couldn’t explain in at least some detail.
 
@@ -12718,7 +12314,7 @@ It wasn’t a lot, no moaning sobs, no wailing, but I could see some gentle tear
 
 “I don’t know,” I said honestly.
 
-I didn’t really even know what to say to her, she was sad, sure, but it was not as if life had been hard on her. She’d lived a privileged life before, more so than most westerners, and more so even than me, and I knew that I’d had it pretty good back on Earth. And it wasn’t like her life now was any less privileged. Not only had she been picked up within hours of landing here, while I’d risked my freedom and my life to get here, she also had power and money dropped into her lap. The number of people at the University with more magical talent than her could be counted on two fifths of one hand, and with that magical talent had come a hell of a lot of money. She had the power to remake reality, and was paid in a month, what the average elf wouldn’t earn in a decade. 
+I didn’t really even know what to say to her, she was sad, sure, but it was not as if life had been hard on her. She’d lived a privileged life before, more so than most westerners, and more so even than me, and I knew that I’d had it pretty good back on Earth. And it wasn’t like her life now was any less privileged. Not only had she been picked up within hours of landing here, while I’d risked my freedom and my life to get here, she also had power and money dropped into her lap. The number of people at the University with more magical talent than her could be counted on two fifths of one hand, and with that magical talent had come a hell of a lot of money. She had the power to remake reality, and was paid in a month, what the average elf wouldn’t earn in a decade.
 
 *And she’s bitching about needing to find a new boyfriend?*
 
@@ -12731,14 +12327,7 @@ At a loss for words, I just shrugged.
 “I don’t know.”
 
 
-# Oh this has not gone well - 55
-
-
-I’ve got a Patreon now,  
-
-There’s also a post up for patrons, and I’m asking you folks to tell me which of Halea and Thera you’d prefer to see renamed.
-
------
+# Chapter 55
 
 **Victorina**
 
@@ -12947,7 +12536,7 @@ This gave Quinn pause, “Huh, well I guess elves wouldn’t see it that way. A 
 “Hmm,” Quinn considered, before discarding it as a possibility, “Nah, I’ll figure it out.”
 
 ---------
- 
+
 The next incident wasn’t quite as injurious as the mishap with the roof, but it did demonstrate Quinn’s general disregard for self-preservation.
 
 I was just passing the clubhouse’s small laboratory, after retrieving something from my rooms, when I heard a thump like a body hitting the floor, and the clattering of furniture being knocked over.
@@ -12988,7 +12577,7 @@ Eventually his eyes fluttered open, interrupting the contemplation of his featur
 
 “For all this,” he said, spreading his hands to either side, “If you hadn’t picked me up, I still would have found a club, but it wouldn’t have been like this. I’ve got friends now, because you gave me a chance. I’ve got more friends now than I ever had back on Earth. The help that all of you have given me, and the willingness you’ve got to listen to my inane ramblings… Well, I owe you a lot Victorina. Whatever happens between us, wherever this goes, I’m not ever going to forget that. Thank you.”
 
-I looked down at him, laying there with his head resting in my lap. At the time I had considered it a favour to him, but only a minor one, I had after all gained nearly as much out of the deal as he had. But judging from his tone, and the intense look in his small green eyes, he didn’t see it that way. All this time it had meant something special to him, and I hadn’t even realized it. 
+I looked down at him, laying there with his head resting in my lap. At the time I had considered it a favour to him, but only a minor one, I had after all gained nearly as much out of the deal as he had. But judging from his tone, and the intense look in his small green eyes, he didn’t see it that way. All this time it had meant something special to him, and I hadn’t even realized it.
 
 “You’re welcome,” I replied simply.
 
@@ -13012,9 +12601,9 @@ I went to the door, and poked my head out into the hallway for a quick check aro
 
 They fell to the floor, and what little else I'd been wearing followed shortly afterwards.
 
-Up till now I’d usually let Quinn do as he pleased when we were alone, and together. Sometimes it took a little prompting, or a little taunting, to get him to be as rough with me as I liked, but eventually he always let me have it. It was the one moment of weakness I allowed myself. It had been one of the first days we were properly ‘together’, when I got the wakeup call I’d needed. We’d both been wrapped up in the infatuation of a new relationship, and I hadn’t been thinking. We’d been sitting in the library, and I’d been watching him work, when Thera and Brandy interrupted us. What must they have thought? I’d been curled up in his hoodie, in his *clothes*, and practically wrapped around him. In the moments before they’d arrived, it had been bliss, cuddling with Quinn. Once they saw me though, I realized that it had been a mistake. Not the relationship with Quinn, certainly not, but they’d seen me, more vulnerable then than I’d ever been before. I couldn’t have that, and that had been the last time I’d been foolish enough to put myself in a position where I might be seen to be drawing on Quinn for strength or comfort. No more cuddling on the couch, and I was certainly not going to be seen wearing his clothes any more. If we showed any mutual affection when the others were present, it was a mutual display of strength. I certainly did not advertise my weaknesses. 
+Up till now I’d usually let Quinn do as he pleased when we were alone, and together. Sometimes it took a little prompting, or a little taunting, to get him to be as rough with me as I liked, but eventually he always let me have it. It was the one moment of weakness I allowed myself. It had been one of the first days we were properly ‘together’, when I got the wakeup call I’d needed. We’d both been wrapped up in the infatuation of a new relationship, and I hadn’t been thinking. We’d been sitting in the library, and I’d been watching him work, when Thera and Brandy interrupted us. What must they have thought? I’d been curled up in his hoodie, in his *clothes*, and practically wrapped around him. In the moments before they’d arrived, it had been bliss, cuddling with Quinn. Once they saw me though, I realized that it had been a mistake. Not the relationship with Quinn, certainly not, but they’d seen me, more vulnerable then than I’d ever been before. I couldn’t have that, and that had been the last time I’d been foolish enough to put myself in a position where I might be seen to be drawing on Quinn for strength or comfort. No more cuddling on the couch, and I was certainly not going to be seen wearing his clothes any more. If we showed any mutual affection when the others were present, it was a mutual display of strength. I certainly did not advertise my weaknesses.
 
-But in bed? Well, then we couldn’t be observed could we? That was when I let it all out, and gods, it was satisfying. It was a dark and hungry sort of satisfaction, but it just felt so *good*. And even then, no matter what I goaded Quinn into doing to me, I knew that I was ultimately still in control, still safe. 
+But in bed? Well, then we couldn’t be observed could we? That was when I let it all out, and gods, it was satisfying. It was a dark and hungry sort of satisfaction, but it just felt so *good*. And even then, no matter what I goaded Quinn into doing to me, I knew that I was ultimately still in control, still safe.
 
 Thera though had been a firm advocate, when she and I had found time for some girl talk, of the benefits of being on top, and now seemed like a perfect chance to explore her suggestions.
 
@@ -13097,22 +12686,13 @@ I rolled over, and started drumming my fists on his chest until he finally shut 
 It wasn’t until the third, *and the fourth,* incidents, that Quinn actually tried to burn down and knock over the clubhouse. Now those were a particularly interesting couple of days.
 
 
-# Oh this has not gone well - 56
-
-
-I’ve got a Patreon now,  
-
-I’ve also put up the second name changing post for patrons, to make the final decision on what Halea’s new name will be.
-
-Little less than half sized tonight, but I’ve got some sooper secrit stuff I’ve got cooking on the side. Hopefully you’ll get the chance to see that soon.
-
------
+# Chapter 56
 
 **Victorina**
 
 -----
 
-It was only after the third incident, that I really started to worry. I was aware that there were some differences between humans and elves, but it was only after my experiences with Quinn that I started to worry that humans might be a little more… relaxed, about self-preservation than elves. Leaping from the roof of a three story building had seemed at the time like the most that any one man could do to himself, but then Quinn was always full of surprises. 
+It was only after the third incident, that I really started to worry. I was aware that there were some differences between humans and elves, but it was only after my experiences with Quinn that I started to worry that humans might be a little more… relaxed, about self-preservation than elves. Leaping from the roof of a three story building had seemed at the time like the most that any one man could do to himself, but then Quinn was always full of surprises.
 
 I was just casting my umbrella spell as I was getting ready to leave, when Halea leaned out from the balcony over the entranceway, “Hey Vic, where are you off too?” she called.
 
@@ -13205,7 +12785,7 @@ It was some sort of miracle, but we found those damn maps. They were exactly whe
 *And I imagine he’ll be interested in what else there is here.*
 
 ------
- 
+
 One of the windows to the clubhouse was broken when we returned, and thick white smoke was billowing out of it.
 
 “Is that the lab?” Halea asked.
@@ -13281,18 +12861,7 @@ She shook her head, “What’s that?”
 -----
 
 
-# Oh this has not gone well - 57
-
-
-I’ve got a Patreon now,  
-
-I’ve also put up the second name changing post for patrons, to make the final decision on what Halea’s new name will be.
-
-**SOME NOTES:** Not particularly happy with the past couple updates, and they’re probably going to get some reworking once I’ve got a chance to come back and tweak them. The whole “Quinn spends a week hurting himself” bit was supposed to all be a single large and somewhat humorous update, and for various reasons that didn’t happen (both the length, and the humour). I look back at it now, and I just see a sprawling mess. Perhaps if it had ended up as a single update it would have worked better, but as is it’s not great.
-
-So I’m mostly dropping it for now, to be picked back up later. I don’t want to waste chapters solving a problem that shouldn’t have existed in the first place, so I’m moving on, and will backtrack later. I’ll let you guys know when I’ve gone back and fixed up my mess, but for now, PLOT!
-
------
+# Chapter 57
 
 **Quinn**
 
@@ -13312,7 +12881,7 @@ I turned away from my work, to see her shouldering her way through the clubhouse
 
 “Wasn’t sure, mostly it was going to come down to how closely you followed my instructions,” I replied.
 
-“Well you’ll be glad to know that I followed them to the letter, your demonstration of just what this stuff could do was pretty eye opening,” she said, as she set down the package on the table and took a seat, “Is this what wars are fought with on Earth?” 
+“Well you’ll be glad to know that I followed them to the letter, your demonstration of just what this stuff could do was pretty eye opening,” she said, as she set down the package on the table and took a seat, “Is this what wars are fought with on Earth?”
 
 “This specifically? Well not exactly. There’s more advanced primers in use now, and even back when this stuff was used, it wasn’t the main focus. No, that was black powder.”
 
@@ -13354,7 +12923,7 @@ She rolled her eyes, “Continue, what about the other ones?”
 
 “Fixed ammo?”
 
-“Like this,” I explained, picking up one of the few brass cartridges I’d been able to make, “It’s a little more complex than just using loose powder, but it’s much much faster. Even with this rifle here,” I said, indicating the cap and ball rifle, “You’re pretty much assembling your ammo from scratch, every time you need to fire the gun. With this though,” I waggled the brass cartridge, “It’s all one piece. The fulminate is here at the back, the brass is full of powder, and the projectile goes at the end.” 
+“Like this,” I explained, picking up one of the few brass cartridges I’d been able to make, “It’s a little more complex than just using loose powder, but it’s much much faster. Even with this rifle here,” I said, indicating the cap and ball rifle, “You’re pretty much assembling your ammo from scratch, every time you need to fire the gun. With this though,” I waggled the brass cartridge, “It’s all one piece. The fulminate is here at the back, the brass is full of powder, and the projectile goes at the end.”
 
 “And just how powerful would this be then?” she asked, “Is it any better than a bow?”
 
@@ -13365,7 +12934,7 @@ She rolled her eyes, “Continue, what about the other ones?”
 “If I was going to settle for single shot rifles, maybe,” I allowed, “And it would be a *big* maybe. One thing to consider is how difficult it is to train someone on a bow, compared to what it takes for a gun. A bow takes years of training to be able to do properly. A gun though, you can train someone sufficiently on a gun in a couple of weeks if you’re really strapped for time. It’s not ideal, especially since elves live longer and aren’t quite as plentiful as humans, but being able to turn every able bodied person into an effective soldier on a couple weeks’ notice is pretty useful.”
 
 “I think that the lords and nobles try to do that anyway,” she said, “Even if it just ends with a lot of people dying most of the time.”
- 
+
 “Well, I doubt that any of these weapons is going to cut down on the number of people dying,” I grimaced, “But it's certainly going to make a big difference in just who’s dying. Especially when you consider this last rifle on the table.”
 
 I hefted the rifle, and drew back the bolt.
@@ -13508,7 +13077,7 @@ I cast the spell, my question firmly in mind, and reached into the pouch where I
 
 ---
 **ᛋᛠᚠ**
---- 
+---
 
 *Hmm.*
 
@@ -13560,7 +13129,7 @@ It didn’t take long at all to shave, wash, and dress, and I found myself waiti
 
 “Yeah, can you do that umbrella thing? It’s pouring rain out there.”
 
-She nodded, as she ran through the hand gestures for her spell, 
+She nodded, as she ran through the hand gestures for her spell,
 
 “Anywhere in particular you’d like to go?” she asked.
 
@@ -13598,7 +13167,7 @@ I also made sure that my new bolt action rifle was in working order, and stowed 
 
 There was a light knock on the door, which drew me forcibly out of my work, and just after came a little mousey voice, “Quinn?”
 
-I turned to see Minki clutching the door frame, almost hiding behind it. Her shoulder length dark grey hair had been straightened a month or so ago, when she’d been forced by her parents to attend the ball, but I could see that it was starting to return to the tangled mess that was its ground state. I only saw one big grey eye and a bit of her face, but the bit that I did see had turned a little pink, embarrassed at needing to intrude like this. 
+I turned to see Minki clutching the door frame, almost hiding behind it. Her shoulder length dark grey hair had been straightened a month or so ago, when she’d been forced by her parents to attend the ball, but I could see that it was starting to return to the tangled mess that was its ground state. I only saw one big grey eye and a bit of her face, but the bit that I did see had turned a little pink, embarrassed at needing to intrude like this.
 
 “Yeah Minki?” I asked.
 
@@ -13624,13 +13193,13 @@ She nodded vigorously, and there was more flying hair, “I really like cheese. 
 
 ----
 
-I set her down on the kitchen counter, and she brushed at her hair, which had fallen to cover her eyes in our trek from the lab. 
+I set her down on the kitchen counter, and she brushed at her hair, which had fallen to cover her eyes in our trek from the lab.
 
 “So what am I supposed to be doing?” she asked, as I pulled what I’d need out of the cupboards.
 
 “It’s really simple,” I explained, “I’ll show you how to make it, so next time you want a cheesy snack and I’m not around you’ll be able to put something together.”
 
-She pulled a little notebook out of her robes, and set to writing down each of my instructions. It being grilled cheese, it wasn’t terribly complicated, and we found ourselves waiting for the sandwiches to finish grilling. 
+She pulled a little notebook out of her robes, and set to writing down each of my instructions. It being grilled cheese, it wasn’t terribly complicated, and we found ourselves waiting for the sandwiches to finish grilling.
 
 “Minki,” I asked, “You’re probably the best one to ask about this, but do we have any books on dream magic in the library here?”
 
@@ -13650,15 +13219,15 @@ I had quite a bit to think about afterwards, as I was carrying Minki’s tiny fo
 
 *If Victorina was able to come into that first dream… then what the hell about the others? Would she do that? Wouldn’t I be able to resist it? I’m supposed to have a greater Will than even other humans, but I have no idea if that would work while I was asleep. I feel like I should be able to sense when someone is casting spells on me, even when asleep, but maybe that’s why the bedrooms of the clubhouse are so heavily enchanted? Would she do that though? What would there really be to gain? Fuck. I know what there is to gain. If dream magic can do what I think it can, you could mess with someone on a subconscious level. You’d be able to train them like you could train a fucking dog, but the rewards and punishments would come on a subconscious level. The subject wouldn’t even know that they were being rewarded or punished, but that positive or negative reinforcement wouldn’t be any less effective than if it was being done on a conscious level. Hell, it was probably more effective to do it this way.*
 
-There was a big question then, and that was what I was supposed to do about it. I cared a whole hell of a lot for Victorina, and I hoped that she did too, but what if she didn’t? What if the whole nympho girlfriend routine was an attempt to control what she saw only as an asset? She was a princess, and one from Adympia no less, maybe I trusted her too much. 
+There was a big question then, and that was what I was supposed to do about it. I cared a whole hell of a lot for Victorina, and I hoped that she did too, but what if she didn’t? What if the whole nympho girlfriend routine was an attempt to control what she saw only as an asset? She was a princess, and one from Adympia no less, maybe I trusted her too much.
 
 *Is that all it takes to stop me from thinking clearly? For someone to wave a pretty woman in front of my face? Fuck, I’m no better now than I was when I first arrived here in Elardia. Sila, Chypia, Thera, and Victorina. It’s entirely possible that I’m terrible at this. For fuck’s sake, Thera’s the most innocent of all of them, if that word can even be used to describe her. Yes, I was a means to an ends for her, but I’m pretty sure we both knew what that end was going to be when we first started. For Sila I was a way out of a bad situation, for Chypia I was a trophy with knowledge of advanced weapons, and for Victorina… Dammit, for all I know, she views me the same way that Chypia did. Worse still, I had to go and blab about my plan to lift the curse.*
 
-And Chypia… when I’d first arrived in Essens I’d made note of the fact that elves seemed rather more trusting than I would have expected comparable humans to be, and I’d carried that forwards to my experiences with Chypia. She had after all given me leave to explore the city after only a week or two in her hands, and I’d chalked that up to the naïve sort of trust that elves seemed to display. But that need not be the case, in fact, it probably wasn’t the case. If anyone here was naïve and overly trusting, it sure as hell didn’t seem to be the elves. So what if I’d violated Chypia’s trust? As far as she’d known, the city was a prison of its own, one that I’d still been trapped inside. It was only because the harbour defences accounted only for elven level endurance that I was even able to escape in the first place. From her perspective, the ‘trust’ had cost her nothing, but had hopefully gained her the trust of the slaves she was working to gain control of. 
+And Chypia… when I’d first arrived in Essens I’d made note of the fact that elves seemed rather more trusting than I would have expected comparable humans to be, and I’d carried that forwards to my experiences with Chypia. She had after all given me leave to explore the city after only a week or two in her hands, and I’d chalked that up to the naïve sort of trust that elves seemed to display. But that need not be the case, in fact, it probably wasn’t the case. If anyone here was naïve and overly trusting, it sure as hell didn’t seem to be the elves. So what if I’d violated Chypia’s trust? As far as she’d known, the city was a prison of its own, one that I’d still been trapped inside. It was only because the harbour defences accounted only for elven level endurance that I was even able to escape in the first place. From her perspective, the ‘trust’ had cost her nothing, but had hopefully gained her the trust of the slaves she was working to gain control of.
 
 *The illusion of freedom, without the actual possibility of it, late night swimming adventures aside.*
 
-That readjusted my perspectives a little. 
+That readjusted my perspectives a little.
 
 *Just a little.*
 
@@ -13683,14 +13252,7 @@ The test then was simple. I was pretty sure that I now no longer trusted her unc
 **Continued in comments**
 
 
-# Oh this has not gone well - 58
-
-
-I’ve got a Patreon now, 
-
-Thale has been renamed by patron vote to Halea, to cut down on the confusion between her and Thera.
-
------
+# Chapter 58
 
 **Quinn**
 
@@ -13725,7 +13287,7 @@ The traveling plan was simple, at least for the first phase of the journey. Ther
 
 I shrugged, “Well technically I can cast Teleport,” I explained, “I just don’t know that it’s a great idea. I’ve not done that much work on the spell, I don’t yet have a full grasp of it. If we really need another person casting Teleport then I’ll do it, but I’m wary of Mishaps.”
 
-Mishaps with Teleport were of the sort that were much more frequently fatal, and when they weren’t fatal, they usually left the caster thousands of kilometres from either their destination or their departure point. Aside from death or the possibility of landing in the middle of Adympia, I also harboured the fear that as an Outsider a Mishap with Teleport might even drop me on a different world entirely. And aside from the risk that I would be deprived of magic in such an event, I also didn’t want to be taken from the only group of real friends that I’d ever known. 
+Mishaps with Teleport were of the sort that were much more frequently fatal, and when they weren’t fatal, they usually left the caster thousands of kilometres from either their destination or their departure point. Aside from death or the possibility of landing in the middle of Adympia, I also harboured the fear that as an Outsider a Mishap with Teleport might even drop me on a different world entirely. And aside from the risk that I would be deprived of magic in such an event, I also didn’t want to be taken from the only group of real friends that I’d ever known.
 
 “That’s true,” Neferoy said, “And I doubt it would matter anyway, Halea, we’ve only got six villages to jump through. Whether we’re Teleporting three, four, or five times before a rest, we’d still end up taking two rest periods before heading off into the forest.”
 
@@ -13759,7 +13321,7 @@ Our trek north was rather unremarkable, at least from our perspective. For those
 
 There were some general nods of assent, and the four of us stomped through the puddles towards the rough stone and timber structure that was the town’s most prominent building. Like the club it was built three stories high, with a ground floor made wholly of stone, and two upper floors of raw wood. The upper floors actually overhung the first by a significant margin, giving the building a vaguely mushroom like appearance. The floor of the first story, if you could call it that, had probably once been hard packed dirt, but the autumn’s constant rains had long ago turned it to thick mud.
 
-We had a rather immediate effect, upon pushing open the door that led out into the second floor common room. Two super models, one of which was nobility, the other royalty, a dwarf, and an Outsider. We immediately drew the eye of every elf in the room, which with my general social phobia would have been bad enough if there had been only a couple of villagers gathered in the large building. There was more than a couple people here though, a lot more. It seemed as if every elf in the, admittedly tiny, village was gathered here for breakfast. 
+We had a rather immediate effect, upon pushing open the door that led out into the second floor common room. Two super models, one of which was nobility, the other royalty, a dwarf, and an Outsider. We immediately drew the eye of every elf in the room, which with my general social phobia would have been bad enough if there had been only a couple of villagers gathered in the large building. There was more than a couple people here though, a lot more. It seemed as if every elf in the, admittedly tiny, village was gathered here for breakfast.
 
 There were not many children, and not many elderly folk, but for a building with fifty odd wood elves of varying ages packed inside, it was awfully quiet.
 
@@ -13795,7 +13357,7 @@ The innkeeper just looked at it blankly for a moment, before realizing just what
 
 “Ah, it’s no trouble yer highnesses,” the innkeeper, whose name I still had not learned, said, “It was enough to have you here, think nothing of it.”
 
-Victorina seemed about to agree, but I found that I wasn’t comfortable with the idea of taking the man’s hospitality and walking away without paying. I had also prepared for the likely possibility that the University 
+Victorina seemed about to agree, but I found that I wasn’t comfortable with the idea of taking the man’s hospitality and walking away without paying. I had also prepared for the likely possibility that the University
 credit card wouldn’t work in mind, and had bothered to bring some proper physical drachm along.
 
 “Nonsense,” I said as I stood, “Here you are. And I’ll brook no argument,” I added, when it seemed as if he were about to decline.
@@ -13850,16 +13412,7 @@ I elbowed her playfully, and she dodged away through the rain, “It was like an
 
 
 
-# Oh this has not gone well - 59
-
-I’ve got a Patreon now, 
-
-**Notes:** Thale has been renamed to Halea per feedback and polling patrons. Maybe now I’ll get less confused. (And also readers too or whatever) 
-
-I’ve also got a discord, you can get to it via . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
-
------
-
+# Chapter 59
 
 **Quinn**
 
@@ -13871,7 +13424,7 @@ And then we got to walk through the woods. A lot.
 
 “Quinn,” Halea proclaimed, “This is the worst! How did you get all the way here from Rhona without dying of boredom? I almost want someone to attack us, at least that would be interesting.”
 
-The four of us were stomping along a narrow game trail, just wide enough for us to walk two by two, with Halea and Neferoy in front, and Victorina and I taking up the rear. We’d been walking for a couple of hours, and would still be walking for a couple more before we made camp for the night. Our pace was a little less than ideal, and between the relatively slow gait of the short elves, their reduced endurance, and the poor terrain, we weren’t going to make it very far each day. I’d suggested having them wait behind at the inn while I walk the teleport beacon out to the mine, but Victorina shot that down on the grounds that they’d prefer not to teleport in at the prearranged time, only to find the beacon sitting in the middle of the forest next to my dismembered body. I of course had a rather higher opinion of my skill at battle magic, but she had a point. And even having them ride along inside the Portable Hole had its issues, since that couldn’t be opened from the inside. An ambush might kill me, and trap the rest of them in a pocket dimension for weeks before someone thought to look for us. 
+The four of us were stomping along a narrow game trail, just wide enough for us to walk two by two, with Halea and Neferoy in front, and Victorina and I taking up the rear. We’d been walking for a couple of hours, and would still be walking for a couple more before we made camp for the night. Our pace was a little less than ideal, and between the relatively slow gait of the short elves, their reduced endurance, and the poor terrain, we weren’t going to make it very far each day. I’d suggested having them wait behind at the inn while I walk the teleport beacon out to the mine, but Victorina shot that down on the grounds that they’d prefer not to teleport in at the prearranged time, only to find the beacon sitting in the middle of the forest next to my dismembered body. I of course had a rather higher opinion of my skill at battle magic, but she had a point. And even having them ride along inside the Portable Hole had its issues, since that couldn’t be opened from the inside. An ambush might kill me, and trap the rest of them in a pocket dimension for weeks before someone thought to look for us.
 
 “Well I covered most of the distance by sea, and the distance that was covered on foot was mostly spent in a blind sprint for the border, so boredom wasn’t really the thing foremost on my mind.”
 
@@ -13981,7 +13534,7 @@ It was a strange feeling, relaxing around the campfire with my friends and liste
 
 To say that the days passed quickly would be a blatant lie, and even if the food and the company was great, the constant rain and constant walking had gotten old about three hours into the five day trip. I was managing it fairly well, but I was also the best prepared for travel of this sort. I had proper shoes, and a good coat, both of which were made of breathable yet waterproof synthetics. Even my clothing was better than anything you’d be able to find on Elardia, my socks in particular were antibacterial and would help with the damp. The weather grew old eventually, but I had the clothing to stand up to it, and the endurance to put up with the constant walking.
 
-The others, well, they were pretty much screwed from the start. Wool, leather, oilskin, they can all keep the water out to some degree, but natural materials can only handle so much abuse. Eventually they get soaked through, and then all you’re left with is a big sodden weight on your shoulders. Victorina of course could cast her little umbrella spell, but it was taxing to maintain. She might have paid for the spell with only mana and nothing more, but keeping up her concentration on the spell as each individual raindrop struck it was an effort. Granted, it was a wholly mental effort, but it still took its toll over the hours and hours of walking. She only ever managed it for an hour or two each day, before it became too much and she finally need let the spell drop. Their footwear at least was nearly as good as what you might find on earth, having been made bespoke, but again they lacked the benefit of synthetic materials. They might have managed it better if they were more used to walking and if their boots had been properly worn in, but I suspected that they’d not had a chance to do that. 
+The others, well, they were pretty much screwed from the start. Wool, leather, oilskin, they can all keep the water out to some degree, but natural materials can only handle so much abuse. Eventually they get soaked through, and then all you’re left with is a big sodden weight on your shoulders. Victorina of course could cast her little umbrella spell, but it was taxing to maintain. She might have paid for the spell with only mana and nothing more, but keeping up her concentration on the spell as each individual raindrop struck it was an effort. Granted, it was a wholly mental effort, but it still took its toll over the hours and hours of walking. She only ever managed it for an hour or two each day, before it became too much and she finally need let the spell drop. Their footwear at least was nearly as good as what you might find on earth, having been made bespoke, but again they lacked the benefit of synthetic materials. They might have managed it better if they were more used to walking and if their boots had been properly worn in, but I suspected that they’d not had a chance to do that.
 
 *A princess, a noblewoman, and the daughter of a wealthy merchant family. Probably not a lot of time spent traveling on foot. Damn, just how the hell did I get here again?*
 
@@ -14090,366 +13643,350 @@ We spent all of that sixth day in the woods relaxing, and I finally made good us
 
 
 
-# Oh this has not gone well - 60
+# Chapter 60
 
-I’ve got a Patreon now, 
- 
-**Notes:** Thale has been renamed to Halea per feedback and polling patrons. Maybe now I’ll get less confused. (And also readers too or whatever)
- 
-I’ve also got a discord, you can get to it via . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
- 
------
- 
 **Quinn**
- 
+
 -----
- 
+
 We slept in the following morning, and took our time with breakfast before finally teleporting back to the mine entrance. We didn’t want to start in on the mine early, only for a few stragglers to come up behind us and block our escape, and we also wanted to give the ghouls a chance to settle down. Even if the creatures didn’t sleep, they’d hopefully have let their guard down a little which would let us maximize the effect that the surprise attack would have.
- 
+
 “Anything else I should be aware of before we go in?” I asked, as I did one last check of my gear.
- 
+
 “Try not to get bit,” Halea said, while checking her own gear, “Ghouls carry a lot of awful diseases, and you don’t want the wound getting infected. If you do get bit, call out. We’ll pull back to the entrance and see to the wound.”
- 
+
 “You mentioned that ghouls aren’t quite as susceptible to sunlight as vampires, would they be able to follow us out of the mine?”
- 
+
 Halea nodded, “With the weather like it is, yes. Vampires might only survive for a minute or two when the clouds are as thick as this, but ghouls might manage hours. It’s mostly habit and fear that’s keeping them in the mine right now.”
- 
+
 “Assuming they *are* all in the mine,” Victorina cut in, “Ghouls don’t have very long memories, but the weather’s been like this for nearly a week now. Some of them might have figured out that they can afford to hunt a little longer.”
- 
+
 “Do I need to worry about Solaris not working?” I asked.
- 
+
 Halea shook her head, “Don’t worry, ghouls are just as susceptible to *direct* sunlight. If your new spell is as good as you say it is, you’re not going to have any trouble.”
- 
+
 “How do we want to do this?” Neferoy asked.
- 
+
 “Quinn and I take the lead, you two cover our rear,” Halea said, “I want Solaris up front.”
- 
+
 “It might be better if I’m in the back,” I pointed out, “It’s going to be dark in that mine and even if my glasses corrected my vision perfectly, which they don’t, I’d still have a harder time seeing than the rest of you. My ears are a whole lot better though, so I’m going to be able to hear if someone’s creeping up behind us. Besides, if it does come to a fight, I can still fire forwards. I’m tall enough to fire over any of you, and I won’t risk hurting any of you if my aim’s off with Solaris.”
- 
+
 “Right,” Neferoy said, “But if you’re in front, there’s no way anyone in back is going to be able to get a clean shot, not with how narrow the tunnels are.”
- 
+
 Halea nodded, “Alright, Quinn and Vic in back then, Quinn behind me, Vic behind Neferoy.”
- 
+
 “If you’re worried about not being able to see in the dark then are you actually going to be able to hit anything?” Victorina asked me.
- 
+
 “Should be fine,” I replied, “Halea or Neferoy will spot them first, probably Neferoy, I’m guessing you’re used to darkness like this?” I asked, and Neferoy nodded, “And then all I need to do is follow the path of their shots. There should be plenty of light once we start throwing spells around.”
- 
+
 “Well gather round then,” Halea said, “And make sure to conserve your mana. I’ve got no idea how deep the mine goes, and I’d like to clear out *all* of the ghouls if we can.”
- 
+
 *Right…*
- 
+
 I pulled my brass Lee Enfield knockoff out of the belt pouch it had been resting in, and slung it muzzle down over my shoulder as I stepped into a loose circle with the others.
 
 “Are you going to need that thing Quinn?” Halea asked, smirking a little, “If what Victorina’s told me is anything to go by then it’s not as if you lack the enervation.”
- 
+
 I felt my face flush a little, but did my best to control it, “I’ve got plenty, but I need it for everything, not just magic. Spend enough and I’ll be too tired to make a very quick escape, spend even more and I’ll pass right out. You lot can afford to spend every drop of mana, but I’ll be in rough shape if I even get close to empty. I’d prefer not to use this,” I said, bumping the rifle with my elbow, “Because it’s loud as hell, but it’s better than exhausting myself.”
- 
+
 “How are you for manastones?” Victorina asked.
- 
+
 “I’ve still got that cheap ring,” I replied, gesturing with that hand, “And the one point stone I made, so five points total. I should be fine.”
- 
+
 “We’re ready then Halea,” Victorina said, and in an instant, we were gone.
- 
+
 -----
- 
+
 We blinked back into reality an instant later, standing just to the side of the short obelisk that was the teleport beacon. I glanced towards the entrance as soon as we arrived, the others still shaking off their post-teleportation sickness, before quickly scanning the tree line around us.
- 
+
 The imperfections in my glasses and the raindrops spattering the lenses didn’t make it very easy to see, and the constant hush of rain cut down on what I could hear, but I was at least moderately sure that we were safe in the short term. The others each did a quick check of their own upon getting over the nausea, but by that time I was rather more interested in the beacon itself.
- 
+
 “What is it Quinn?” Victorina asked once she too was satisfied with our immediate safety.
- 
+
 “Blood,” I pointed out, “Almost washed away by the rain, but there’s some still there, caught in the coarseness of the stone.”
- 
+
 Victorina bent down to look closer, and I stole an appreciative glance before tearing my eyes away, “Looks like they caught something to eat then,” she mused, “And recently, otherwise the rain would have washed this completely away.”
- 
+
 Halea grimaced, “They’ve been out in the daytime then, let’s hope Quinn’s cute little ears can hear them coming if any more are out and roaming around.”
- 
+
 “Do we want to wait?” Neferoy asked, “Catch any stragglers on the way in?”
- 
+
 Victorina looked to Halea, who shook her head, “We’re not sure if there *are* any more out here, but we do know that the ones in there are probably going to be preoccupied with a meal, if they’re not already asleep. I’d rather capitalize on that, than spend a couple hours in the rain, waiting for something that might not be out here.”
- 
+
 “Fine then,” Victorina said, gesturing towards the entrance, “Lead the way.”
- 
+
 I checked the position of the rifle one last time, and then followed the others into the mine.
- 
+
 -----
- 
+
 A steady flow of water ran down the centre of the narrow tunnel, and I had to set my hand on Victorina’s shoulder to steady myself as it grew harder and harder to see as we stalked further and further into the mine. Idly, and using only gestures, I cast Symbol Drawing before it became too dark to see.
- 
+
 , Cold and Body.
 *Yeah, I noticed.*
- 
+
 Aside from the waning light, the further down the tunnel we went, the quieter and colder it became. I could hear only the distant hiss of rain outside, and the occasional chattering of teeth from the others, despite my constant strain to hear more. It wasn’t pitch black, but it was dark enough that my vision was mostly limited to picking out vague splotches. Against the dark background of the rest of the mine, Victorina was a fuzzy splotch of very dark grey, with her shiny steel hair occasionally reflecting what little light there was down here. I wasn’t sure I could see Neferoy, despite her being only a metre or two away. Occasionally I’d pick out a patch of black that wasn’t quite the same colour of the others, but it always seemed to shift and move, and I’d lose track of it quickly. It might just as easily have been my eyes playing tricks, and it made me thankful for the gaudy gold robes that Halea wore. They caught the light, and aside from Victorina’s slight but firm shoulder under my hand, was the only point of reference I had in this blasted cave.
- 
+
 *Victorina seemed to have a harder time picking out the blood on the obelisk. Maybe they’ve got more cones than rods, or rods than cones? Whatever, whichever of the two lets them see better in the dark, but makes it harder to pick out different colours.*
- 
+
 I became more and more uneasy as we crept further down the tunnel, and I frequently found myself glancing back towards the entrance almost without realizing it. The tunnel sloped in such a way that I could no longer see the mouth of the tunnel, and I realized that the floor of the tunnel was starting to level out from the relatively steep grade that it had followed nearer to the entrance.
- 
+
 I cast Symbol Drawing, to reassure myself more than anything, and drew out one of the steel tokens I’d made. I felt across the face of it with my thumb, trying to make out the symbol on it’s surface.
- 
+
 *Like an H, but with two crossbars. Water I think?*
- 
+
 There was a shout from one of the two in front, Halea I thought, and a bolt of lightning went streaking forwards, blinding my dark adapted eyes. Then, like a big stupid clumsy idiot, I slipped.
- 
+
 I let go of Victorina, rather than try to hold on to her to keep my balance, and risk dragging her down with me, and I landed on my back in the shallow stream that rushed down the tunnel. The Water symbol flew from my hand as my elbow thumped hard against one of the large stones that littered the tunnel. I felt a shooting numbness, and reached over with my other hand to check that nothing had been broken. I was fortunate, all I’d done was bump the nerve, my ‘funny bone’, and I’d be fine in a moment.
- 
+
 Then the others opened up, with shouted words and arcane gestures, throwing forwards a stream of fire and lighting. I cast Light slightly behind Victorina, red rather than white, to illuminate the tunnel ahead, but not ruin our night vision. It was my modified version, and was a whole hell of a lot brighter than the spell I’d learned back in Essens. Hopefully it would be enough to blind any enemies rushing towards us.
- 
+
 I pushed myself to my feet, slipping more than once on the slimy stones that made up the bed of the shallow stream, and steadied myself on the near wall.
- 
+
 I could see them now. There were perhaps two dozen of the creatures still standing, and I could see several corpses littering the ground before us, not all of them ghouls. The tunnel had opened up into a wide cavern just ahead of where Neferoy and Halea were standing, though the ground fell away into blackness on the one side. The stream that had flowed down the tunnel cascaded down into that chasm, and the red glint of my spell shone briefly off of my Water symbol as it followed the path of the stream to slip over the side.
- 
+
 *I can replace that later, for now though, time for a little field testing.*
- 
+
 I picked one ghoul at random, pointing towards him with my still slightly numb arm, and fumbled through the gesture for Solaris. I’d decided to start small, I needed to conserve my mana, and I could always hit him again if it turned out not to be enough.
- 
+
 Well, it was enough. More than enough.
- 
+
 I cast the spell and there were three crackling zaps in quick succession, each one a pulse of pure sunlight. It was more than pure actually, at least as far as these ghouls were concerned. Sure, this version of Solaris focused the light into a laser, concentrated in three short pulses, rather than using an ill-defined beam as the original version did, but that was only the half of it. The original Solaris used sunlight, yes, but only sunlight as it was after passing through the ozone layer and about sixteen kilometres of atmosphere. The new Solaris… *Solar Pulse,* used sunlight without such adulterations, and at this intensity, it might as well have been sunlight direct from the surface of a star. Needless to say, it was effective.
- 
+
 The ghoul fell forwards mid run, as if someone had cut its legs out from underneath it, and the ruddy light of my spell illuminated the smoke and steam that rose from the hole in its back.
- 
+
 “Oh yeah!” I shouted, “SCIENCE, BITCH!”
- 
+
 The rapid *zap-zap-zap* of Solar Pulse joined the deep, rumbling concussions of thrown Firebolts slamming against the ghouls, the ground, and the far wall, and the thunderclap of passing Lighting bolts, as we started to empty the cave of living ghouls. We held fast just inside the tunnel, keeping our flanks secure as the thin limbed creatures scrambled towards us on all fours. They looked like something halfway between an elf and a big lizard, with grey pebbled skin and long thin claws on the ends of too-small hands. Their faces were *deep* into the uncanny valley, with already thin skin stretched tight over the front of a too small skull, and huge jaws that each held what must have been a hundred needle like teeth.
- 
+
 They were tough though, despite the almost skeletal thinness, and except in the case of Solar Pulse, each was able to endure several hits before falling. And they were falling, but a little closer than was comfortable, with more than one sliding to a stop within inches of Halea or Neferoy.
- 
+
 “Halea,” I shouted, “Call your targets, Victorina and Neferoy, concentrate your fire on Halea’s calls!”
- 
+
 The others didn’t argue, and at Halea’s first call of, “Close right!” a ghoul fell to a hail of fire and lightning.
- 
+
 I forced myself to calm, taking each shot deliberately, casting the spell with one hand, while aiming with the other, thinning the crowd for the others to finish off. Time passed slowly, and it felt like the fight took ages, even though it couldn’t have lasted more than a minute. Eventually though we’d cleared the cavern of living ghouls, if the creatures could be called ‘living’, and we could finally catch our breath.
- 
+
 I could still hear some distant scrabbling, the sound of something scraping stone, though it was muffled by the steady trickle of the stream and the rush of blood in my ears, and I cast another light into the cavern to illuminate the space beyond.
- 
+
 “Yes!” Halea shouted, “Sard yes!”
- 
+
 Crystals, what must have been thousands of them, covered the walls and ceiling of the cavern, catching, reflecting, and refracting the red light of the spell. The effect was like some sort of bloody discoball, and it made the scene below all the more gruesome. The ghouls had not died prettily, and neither had they killed prettily. Joining the scattered and dismembered bodies of the ghouls were the remains of what must have been a week’s worth of meals. Whole rib cages, animal skulls, and long thick bones, all stripped bare and still glistening red with blood. The odd hunk of meat too, could be found, where a ghoul had been interrupted in the midst of its meal. The whole cavern reeked of blood, and rotting flesh, and I could see still more tunnels branching off from this chamber.
- 
+
 *And with my luck, there’s more ghouls waiting to creep out.*
- 
+
 I glanced back up our escape tunnel, checking to see that it was still clear, as the others started to pick their way over the bodies.
- 
+
 *Royalty, nobility, and the wealthy, but let no one say that they’re too dainty to get their hands dirty. I would have expec-*
- 
+
 There was an arm visible among the bodies and carrion, and not the arm of a ghoul. I bounded forwards, past the others and over the collected corpses of the ghouls. It stuck up from under the body of a fallen ghoul, and was small and pale, like the arm of a child. I kicked the ghoul away, revealing the rest of what was trapped underneath. There was not much more to reveal. Up to the elbow, the arm might have been perfect, with not a mark on it. From the elbow up, was nothing but ragged and bloody bone, and the arm ended all together at what once would have been the poor child’s shoulder.
- 
+
 I had to work to steady my breathing, and keep myself from shaking, I could feel a panicky, blind terror threatening to overcome me, and had to force it down.
- 
+
 *The Water symbol, where is the Water symbol?*
- 
+
 It was a strange fugue that settled over me, and I kicked through the bodies looking for the symbol, certain that finding it would somehow make everything better.
- 
+
 *A child, a child, a child, a child, a child…*
- 
+
 I was deaf to the world, only the odd muffled word from the other getting through, as I looked desperately for the damned steel symbol. They were gibbering something about crystal quality, which of all the things on my mind, was last on my list of priorities.
- 
+
 *Waterfall.*
- 
+
 I tore my gaze away from the bodies, and towards the black pit that fell away to one side of the cavern. I stumbled towards it, tripping over the tangled limbs of the twisted corpses, finally reaching the side of the pit. It was perhaps fifty feet down, to the surface of a pool of black water that shone red in the light of the spell above. It was full of discarded bones and bits of bodies, and had evidently been how the ghouls disposed of their cast offs. At the far side of the pool was a narrow shelf of stone, like some sort of sick beach, and lying on it was the Water symbol. And next to it…
- 
+
 *Oh god.*
- 
+
 A small body, in brown robes, with a thick mop of grey hair. It was face down, half in the water, half out, one arm extended as if towards the token, and the other gone at the shoulder.
- 
+
 There was a scream from behind me, keening and high pitched, the sound someone makes when they’ve been pushed far beyond what they can endure mentally and physically.
- 
+
 *No no no no no no no…*
- 
+
 “NO!” I roared, and turned, arm raised towards the screaming.
- 
+
 There was Halea on the ground, with the jaws of a ghoul, one we’d thought dead, around her ankle. Behind her was Victorina, trying to lunge towards her, to blast or kick at the ghoul, but she too had an attacker. Another ghoul, evidently from one of the side passages, had both of its clawed hands buried in her hair and was pulling her backwards and off of her feet. Neferoy was still standing, and still whole, but couldn’t help either of her friends as she was busy contending with another half-dozen ghouls, pouring out of a side tunnel.
- 
+
 I screamed the incantation to Solar Pulse, barely conscious of the power I was putting into the spell, and then the ghoul attacking Halea was just… gone. In another instant, just as the ghoul was pulling Victorina’s head back to bare her neck, it too was *gone.*
- 
+
 I turned to the six, now eight, ghouls that Neferoy was holding off, and they too died. I still hadn’t stopped screaming, but I managed to moderate my energy usage. The adrenaline, rage, and fury, would as much as double my available enervation, but once I came down off that high, I’d end up paying for what I’d used, one way or another.
- 
+
 The last of them fell, and I ran back to the edge of the pit, barely sparing a glance to see if any more had come.
- 
+
 “Quinn!” Victorina screamed, “We need to *go!*”
- 
+
 “Then go!” I roared, before leaping into the pit.
- 
+
 I fell thirty feet straight down before the ring caught me, and I glided across to the far side where I landed lightly on the shelf of stone that rose just up out of the water. I grabbed the tiny body by the back of its robes, pulling it out of the water and flipping it over. It was light, too light, and I saw immediately why. Everything from the navel down was just, gone. Her eyes, Minki’s eyes, were closed, and her expression was peaceful, in a sick and twisted contrast to her badly mangled body.
- 
+
 I went cold, not allowing myself to feel, not allowing myself to fall into the gibbering insanity that would follow if I let myself think of this as anything more than a puzzle. I glanced at my watch, in case Time would be the answer to my puzzle.
- 
+
 *Oct-21, 10:43*
- 
+
 I picked up the Water symbol, coldly placing it back with the others, just as I heard someone land on the stone beside me.
- 
+
 “Oh gods,” came Victorina’s wailing cry, “Oh Halaosil, no, no, no, why Minki?”
- 
+
 I ignored her, and focused instead on the puzzle before me.
- 
+
 I cast the MRI spell Nothus had taught me, looking for some clue, anything that would explain how or why this had happened.
- 
+
 It didn’t tell me anything I didn’t already know, except…
- 
+
 *Her lungs are full of water, oh no, oh god… She drowned… she was still alive when they threw her down here.*
- 
+
 I forced myself away from that chain of thought, forced myself away from thoughts of just how long it had taken her to die, and focused instead on what useful information could be gleaned from this data point.
- 
+
 *She drowned, the water is freezing… The symbols, the first two, ᚺ and ᛊ, Cold and Body. The blood on the obelisk was fresh, her blood? Three to five minutes, that’s how long brain cells stay viable past death, but with the water as cold as it is… Human children who’ve fallen through the ice and drowned have been resuscitated as much as thirty minutes later, but dammit, she’s not human, and not a child… What about the body? It’s not viable, it needs to be reconstructed. Fuck, even with all I’ve learned I don’t know enough to build an entire body for her.*
- 
+
 “Quinn,” Victorina mewled, turning her face away from Minki’s mangled body, and pressing it into my chest, “We need to go, we need to go.”
- 
+
 I could hear fighting above, Neferoy’s deep voice shouting incantations, and Halea’s voice, barely hanging on, doing the same.
- 
+
 ***I*** *don’t know enough to build an entire body.*
- 
+
 I pushed Victorina away, and threw myself up and out of the pit, landing hard on the cavern floor above. There weren’t many more ghouls, only four or five of them, but they were coming, and Neferoy and Halea were barely holding them off. Halea herself was still on the ground, and I saw that her right leg between ankle and mid-calf had been bared right to the bone.
- 
+
 I cast Solar Pulse as rapidly as I could, throwing the spell from each hand, and the last of the ghouls dropped just as I made it to Halea. I bent down next to her and cast Heal, and she screamed again, screamed and screamed until she had no more breath, but when the golden glow of the spell had faded her leg was whole again.
- 
+
 “Quinn,” she gasped, “That was amazing, I thought I was going to lose that foot.”
- 
+
 “You’re welcome,” I said absently, as I started to cast Teleport.
- 
+
 *Where, where where where, where would she be on Satyrday morning?*
- 
+
 “Quinn,” Halea asked, eyes wild with alarm, “Where the hell are you going?”
- 
+
 “The University,” I said simply, “I’ll be right back, make goddamn sure you hold this cavern for me.”
- 
+
 And then I was gone.
- 
+
 -----
- 
+
 I snapped back into reality outside the mine, at the obelisk we’d laid here, that Minki had evidently used to reach the mine.
- 
+
 I cast again, and again I was gone.
- 
+
 -----
- 
+
 I felt fatigue wash over me as I landed in the front hall of the clubhouse, and I realized that I didn’t have much time. I’d already drained my manastones, and I was probably only a few minutes from crashing hard.
- 
+
 *To hell with it.*
- 
+
 I cast again, this time with vitality, and blinked away just as I heard someone start to call out from the balcony above.
- 
+
 ----
- 
+
 I landed in Professor Nanna’s office, and felt a sudden tearing sickness. Not like nausea, not like the sickness of a rough teleport, but like the sickness of having just been kicked roughly in the stomach.
- 
+
 *So that’s what it’s like to cast with vitality.*
- 
+
 “Goodness grief,” came Professor Nanna’s shocked exclamation, “You scared me half to death Quinn, you ought not to barge in like this, I know you’re an eager student, but I’m tutoring Nothus now.”
- 
+
 *Nothus! Yes!*
- 
+
 And there she was, sitting across from Professor Nanna, looking like some elven Dwayne Johnson. She looked surprised, though that passed quickly, and then without a word, she extended her hand towards me.
- 
+
 I took it, and with barely a conscious thought, we were gone.
- 
+
 ----
- 
+
 In an instant we were in the clubhouse, and then at the entrance of the mine, and the back in that damned cavern, each jump feeling like a savage kick in the gut.
- 
+
 Nothus, to her credit, seemed even less fazed by the rapid teleportation than I was, which was helpful, since I hadn’t even thought to give her a chance to rest at each jump.
- 
+
 “Where Quinn?” she asked, “And who?”
- 
+
 I pointed towards the dark pit, dimly aware of the others who had taken up guard positions throughout the cave, “Minki.”
- 
+
 She ran to the edge and leapt down, and I stumbled after her. It was fortunate that I had the ring, I didn’t think I’d be able to cast Leap if my life had depended on it. Nothus hadn’t been run so ragged though, and landed lightly next to Minki. I barely kept to my feet as my ring let me lightly down, and had to brace myself against the wall. I was startled by the sound of another pair of boots landing next to me, and felt Victorina take my arm to support me.
- 
+
 “Quinn,” Victorina pleaded, hugging my arm, “Enough, we have to go. She’s dead Quinn, not even magic can bring her back, not if you want her to truly be alive.”
- 
+
 I looked up to meet Nothus’s gaze, “Can you repair the body, without touching the brain?”
- 
+
 “It’s going to take an immense amount of energy,” she said, shaking her head, “And she’ll still be dead when I’m done Quinn.”
- 
+
 “Quinn,” Victorina begged.
- 
+
 “Repair the body,” I said firmly, “I’ll provide the energy, and I’ll take it from there,” I pulled my arm loose of Victorina’s grip, and lurched forwards, putting a hand on Nothus’s massive shoulder, “Do it, and spare no expense.”
- 
+
 Nothus nodded solemnly, closed her eyes, and began to cast. Just like that first time, when I’d let Victorina use a bit of my energy, I allowed Nothus the same, but where I’d given Victorina a portion of my enervation, I gave Nothus a tiny piece of my soul to work into a new body for Minki.
- 
+
 And it was a *new* body. Nothus didn’t just replace what was missing, she reworked what was already there. The changes weren’t drastic, some of them might not have even been conscious on her part, but I noticed the differences. She seemed stronger, firmer, somehow more than she was before. That’s not to say that Nothus tried to pattern her off of Halea, turning her into some buxom underwear model, or off of Nothus herself, turning her into the world’s shortest body builder. No, it was still Minki, but it was Minki *Plus*.
- 
+
 “Quinn?” Nothus asked gently, “Are you sure?”
- 
+
 “Necromancy-“ Victorina pleaded.
- 
+
 I cut her off, “Not necromancy,” I growled, “Science, done every day on Earth, without a speck of magic involved.”
- 
+
 “Oh,” Nothus breathed.
- 
+
 “Yeah,” I nodded, crouching down beside Minki, “I can manage breathing and circulation, but I haven’t got the juice to create the adrenaline, can you manage that?” I asked, almost begging.
- 
+
 “Yes Quinn,” she promised, kneeling down to Minki’s other side, “Yes.”
- 
+
 Einstein would throw a fit, and it violated pretty much every law of physics, making a mockery of e=mc^2, but you could ‘create’ matter with magic. Acid Jet, Water Jet, and the like were proof of that, but that matter would disappear, given time. The question then, was how to make it permanent. The answer of course, was to use more mana, more *energy*, a lot more. A version of Acid or Water Jet that created matter permanently was prohibitively expensive, demanding about a hundred times as much mana as the regular version, but it worked. As an alternative then, you could try to create one percent as much matter. If you wanted to make gold, well then that was a losing battle, you could make more money working a regular job than you could out of selling the gold you *created.* But then, I didn’t need gold did I? I needed adrenaline, and for Minki, who weighed even less than eighty pounds, I only needed a little.
- 
+
 I cast two different spells, one to apply gentle pressure directly to her heart, causing the blood to start to flow through her new body, and another to begin manual respiration. In some cases, perhaps three percent, that would be enough, but I wanted better odds than three percent.
- 
+
 “Do it,” I growled, and Nothus cast our spell.
- 
+
 There were other drugs involved in resuscitation, none of which I knew the names of, and none of which I could define adequately for a spell, but I knew that adrenaline was the most important of all of them. It would need to be enough. I had a defibrillator spell, it was one of the first that Nothus and I had put together, but real life is not like the movies. A defibrillator isn’t used to restart a heart, it’s used to shock a heart back into normal rhythm. If the heart isn’t beating in the first place, then it doesn’t do a damned thing. I just had to hope that this would be enough, I didn’t have any idea of success rates, I didn’t know if Minki’s brain was still viable, I had no ide-
- 
+
 Minki started screaming, and it came so suddenly that it felt like a slap in the face. I threw myself backward awkwardly, startled by the sudden noise, and stunned that it had worked. Nothus was equally taken aback, but snapped out of it a moment later, and we both leaned in to take hold of Minki. She was still screaming and thrashing, eyes wild, and scared out of her mind.
- 
+
 “Minki,” I said gently, “Minki I’m here, you’re alright.”
- 
+
 She seemed not even to notice, and I looked up at Nothus. I had no idea what to do, and was quickly reaching the end of my rope.
- 
+
 “Nothus, the brain, is she…”
- 
+
 “She’s there,” she assured me, “But…”
- 
+
 “But what?” Victorina hissed, finally coming to grips with what Nothus and I had just done.
- 
+
 “She remembers,” Nothus explained, “Remembers *all* of it.”
- 
+
 *Fuck, yeah, I see how that could be bad.*
- 
+
 “I have a spell…” Nothus began.
- 
+
 “No!” Victorina growled, staring Nothus in the eye, “I’m not letting you rearrange her mind.”
- 
+
 “Can you make her forget?” I asked.
- 
+
 “No!” Victorina growled again, this time levelling her angry gaze at me.
- 
+
 “I can suppress the memories,” Nothus replied, “They’ll still be there, but they’ll only resurface slowly. It might take years for her to get it all back.”
- 
+
 “That really doesn’t sound like a bad thing,” I said quickly, “Victorina,” I pleaded, still trying to keep Minki from hurting herself with her constant thrashing, “She *needs* to forget, at least for a little while.”
- 
+
 “Fine,” Victorina relented, “Do it before I change my mind.”
- 
+
 “Do you have any idea of how far back I need to go?” Nothus asked me, “I don’t want to take out too much, or too little.”
- 
+
 I grimaced, “Is it going to be that much of a problem if you wipe out everything since she woke up this morning?”
- 
+
 “Yes,” she said forcefully, “*Any* sort of memory reworking can have ripple effects, even when it’s only a matter of a few hours. It’s not a perfectly understood area of magic, she might lose bits of other memories too, even if I only take a few minutes. We want to suppress exactly as much as we need to, and not a second more.”
- 
+
 I looked down at my watch, working backwards with the thirty minutes in the water as a starting point, and trying to work out some sort of sick arithmetic with how long she would have otherwise lasted if she’d been bleeding out.
- 
+
 “One hour, fifteen minutes,” I decided on finally, “If that doesn’t get it all, well, hopefully it’ll be something she can endure.”
- 
+
 She started in on the ritual, taking her time with work so delicate, and I held Minki’s hand tightly as the wild screaming subsided, and she started whimpering weakly. It must have only been a few seconds, though it felt like hours, before Nothus finally finished the ritual. Minki shuddered and let out a slow breath, her eyes fluttering closed, and I worried for a moment that I’d lost her again. She came to a moment later though, and this time she seemed okay.
- 
+
 I couldn’t help it, I started crying. I managed to hold back any sobs, but the tears streamed freely down my face as I hugged Minki’s hand to my chest.
- 
+
 “Quinn?” Minki asked shyly, in her little mousey voice, “Are you okay? Why are you crying?”
- 
+
 I only dimly made out Minki’s next question, something about asking where she was, as I finally ran out of steam, and crumpled to the ground.
- 
------
-
-
-
-# Oh this has not gone well - 61
-
-I’ve got a Patreon now, 
-
-**New posting schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning. 
-
-I’ve also got a discord, you can get to it via . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
 
 -----
+
+
+
+# Chapter 61
 
 **Quinn**
 
@@ -14469,7 +14006,7 @@ I drifted off to sleep a little while later, and if my dreams weren’t pleasant
 
 -----
 
-I caught Minki alone in the library a little after lunch, and found her in her little corner of the library, up on the second floor balcony. She was sitting on the floor, with her back to the solid oak shelves, her nose buried in a book. She looked up as I stepped around the corner, and smiled shyly when she saw who it was. 
+I caught Minki alone in the library a little after lunch, and found her in her little corner of the library, up on the second floor balcony. She was sitting on the floor, with her back to the solid oak shelves, her nose buried in a book. She looked up as I stepped around the corner, and smiled shyly when she saw who it was.
 
 “You’re looking better,” she said softly, and I couldn’t help but choke out a dark laugh.
 
@@ -14513,7 +14050,7 @@ I cast Symbol Drawing, and drew out a symbol.
 
 ----
 
-    ᛬ 
+    ᛬
 
 ----
 
@@ -14738,521 +14275,479 @@ I let out a long breath, “I’m sorry if that makes me a shitty person to be a
 
 
 
-# Oh this has not gone well - 62
+# Chapter 62
 
-
-I’ve got a Patreon now, 
- 
-**New posting schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
- 
-I’ve also got a discord, you can get to it via . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
- 
------
- 
 **Quinn**
- 
+
 -----
- 
+
 We advanced slowly down the tunnel, the ruddy light of my spell gave the deep blue sea ice a purple hue, and made each breath from my soldiers look like a puff of red mist. I took the lead, pushing my force shield ahead of us as we descended slowly. I’d decided against tying off at the entrance and trailing a line down on the grounds that I didn’t want to get tangled up while fighting the ghouls, and had settled instead on crampons to keep us from slipping on the slick ice.
- 
+
 The first wave of ghouls, perhaps a dozen, showed themselves not long after we entered the tunnel. They came pelting up the icy slope, and I paid them barely any mind as I reached into my pouch and cast Symbol Drawing.
- 
+
 ----
- 
+
 ᛣ
- 
+
 ----
- 
+
 *Hmm, Death. Wait, shit, have I got this upside down?*
- 
+
 I felt an odd twinge of pain, and a sort of pressure in my head, and I lost my grip on the symbol as I steadied myself with my staff. The small tungsten token went tumbling and then bounced when it hit the tunnel floor, before sliding down the tunnel and out of sight. I heard the rapid *zap-zap-zap* of the Solar Pulse Rifles firing, and by the time I’d looked up, the ghouls had already been cut down.
- 
+
 “Well done,” I said calmly, “Call out if any of you run below a twenty five percent charge.”
- 
+
 “Yes sir,” came the sergeant’s reply from just behind me, and I felt the pressure redouble as I continued down the tunnel.
- 
+
 *That voice sounds familiar…*
- 
+
 The tunnel levelled out just before we reached the cavern at the centre of the iceberg, and I fixed the shield in place at the mouth of the tunnel. My soldiers stepped up, taking cover behind the shield and lashing the interior of the cavern with bolts of sunlight. What ghouls there were fell quickly, and the cavern quickly started to fill with steam as those shots that missed their mark impacted the deep blue ice of the walls and floor.
- 
+
 “Sergeant?”
- 
+
 “Yes sir,” he nodded, before raising his voice to bark out the orders, “Two on each tunnel, call for assistance if it’s more than you can handle.”
- 
+
 In the centre of the room, stretching from floor to ceiling, was a pillar of crystal clear ice. It might have been mistaken for glass, and embedded in the centre was a long black staff.
- 
+
 *I’ll take my staff, and bury it certain fathoms in this giant fucking iceberg.*
- 
+
 I pointed my own staff at the pillar, and it exploded into slushy fragments. I tore the black staff free of the rubble, and dropped it into one of the pouches on my belt. I could take the time to analyze the enchantments later, for now I needed to find where the symbol had gone, and then make a quick exit.
- 
+
 I heard the metallic creak of a valve opening, a hiss of pressurized liquid, and then a *whoomph* of ignition as one of the soldiers emptied the tank on their under barrel flamethrower and I glanced up to see a horde of ghouls burst into flame.
- 
+
 I ignored the ghouls, my soldiers seemed to be handling them just fine, and instead I turned my attention back to the cavern floor. I swept my light back and forth, trying to spot the little tungsten token, but it was rather difficult with all the rubble from the pillar strewn across the floor.
- 
+
 *Whoops.*
- 
+
 I caught the glint of metal eventually and kicked the chunks of ice out of the way to reveal the small token.
- 
+
 -----
- 
+
 ᛊ
- 
+
 -----
- 
+
 *Body, what? That’s not the token I dropped.*
- 
+
 I picked it up, and the pressure on my head suddenly spiked, becoming almost unbearable. Only then noticed a slightly darker patch in the ice, as if something had been encased in it. I dropped the little token into my pouch, and then gave the dark patch a closer look. I swept the rest of the rubble away with a gesture from my staff, and knelt down. The ice here was far too opaque to see through, but there was definitely something there. I gestured with my free hand and, in a wide swath around the patch, raised the temperature of the ice to a little above zero. It quickly turned from solid to liquid, creating a shallow pool in the ice before me, and my ‘prize’ floated to the surface.
- 
+
 It was Victorina.
- 
+
 Her body was so badly mangled as to be almost unrecognizable, and if not for the silver hair I might not have even realized that what floated in the water before me was even an elf.
- 
+
 *Oh no Victorina, nononon- NO! OH YOU SCHEMING B-*
- 
+
 -----
- 
+
 The pressure on my head snapped off, and I came awake with a roar, “YOU!”
- 
+
 She scrambled backwards, half falling out of the bed as she got tangled up in the covers, “Quinn, calm down, it’s not what you think it is.”
- 
+
 “Not what I think it is?” I shouted, “You were fucking with my head, and you’ve been fucking with my head since the beginning!”
- 
+
 She leaned forwards, and reached out a hand to touch my face, “Quinn, please, I can explain.”
- 
+
 I slapped her hand away, “I trusted you,” I seethed, “Not even Chypia tried what you just did. Get out.”
- 
+
 “Quinn,” she said, in a warning tone.
- 
+
 “Get. Out,” I growled, “OUT!” I roared again, when she opened her mouth to speak.
- 
+
 She climbed out of the bed, and tried to keep herself covered with her hands as she rather stiffly picked up her discarded clothing. I watched silently as she did, still seething, still furious, until she finally vacated my room with a casting of Teleport.
- 
+
 I lay back in bed, and tried to calm down. My heart was hammering, and it was a conscious effort to unclench my jaw. I’d already had my suspicions, oh yes I’d been suspicious, but it was another thing altogether to have those suspicions confirmed. Now I needed to re-examine everything that had happened between the two of us since that first night we’d had together. How much of what I felt was actually *my* own feelings, and not feelings that had been planted there by Victorina screwing with my subconscious. I turned my head to the side, to where she’d been lying until just recently, and saw a few stray strands of silver hair scattering her pillow.
- 
+
 I threw the covers aside, and threw myself out of bed. I stepped through into the bathroom and splashed some cold water on my face, trying to do something to calm the fury at being so coolly manipulated. I went to lay back down, but stopped instead in the doorway, staring at the bed. It was illuminated briefly by a flash of light from outside, which was quickly followed by a peal of thunder loud and close enough to shake the windows. The doorframe creaked in my white knuckled grip, and I growled the incantation to the Clean spell. I cast it over and over, on every bit of furniture, every flat surface, and over every square centimetre of carpet. I cast it on the clothes that I’d let fall to the floor, on what I had in my Portable Hole, and on those remaining in my wardrobe, before I finally subsided.
- 
+
 I fell back into bed, and let out a long breath. With the anger gone, I just felt… sad. It wasn’t the first time I’d received an emotional kick in the gut, but it was by far the worst. There had been breakups before, if you can call it a breakup when the relationship didn’t even last to the end of the second week, and those had hurt a little. I’d been rejected a couple of times, and that had hurt a little worse. But up till now I’d always thought that the worst feeling was to have someone you were interested in pick someone else, to be found somehow lacking.
- 
+
 *Well, turns out betrayal is way shittier.*
- 
+
 I lay there, trying to get back to sleep, but couldn’t shake the twisting feeling in my gut. Even with my extensive decontamination, the room still reeked of Victorina, reminding me of her absence with every breath. I pushed the covers off again, and lurched my way to the window. I threw it open, letting the smell and sound of rain wash into the room. Everything more than a few inches from the end of my nose was an indistinct blur, but as I leaned against the windowsill, I could just barely make out the rough blob on the horizon that was the Library.
- 
+
 *Fuck it, why not?*
- 
+
 -----
- 
+
 I’d dressed, gathered my things, and was about to open the door of the clubhouse to leave, when a thought occurred to me.
- 
+
 I stepped away from the door and kicked off my shoes, before quietly climbing the stairs to the second floor. I found Minki’s room, and with the utmost caution, pushed open the door. It was a little brighter in Minki’s room, and I saw that there was a gentle blue glow emanating from a small crystal sitting on her nightstand. She was wearing what must have been Brandy’s pink flannel pyjamas, though she’d needed to roll up the sleeves quite a bit, and she was sleeping on her side, hugging a small plush doll to her chest.
- 
+
 *Oh you are just the cutest thing ever.*
- 
+
 It cheered me up a little, and I allowed myself a small smile as I crossed the room silently and knelt down next to her bed.
- 
+
 “Minki?” I said softly, as I reached out and set a hand on her shoulder.
- 
+
 She stirred slightly, and after a moment her eyes fluttered open, “Quinn?” she muttered sleepily, “What are you doing here?”
- 
+
 “I’ve got to leave Minki,” I whispered, and this got her attention, she perked up immediately, blinking the sleep from her eyes, “Not for good,” I assured her, “Just a couple of days, I should be back Feastday morning. If the others ask about me, can you tell them that?”
- 
+
 She nodded, “What about Victorina, can’t you tell her?”
- 
+
 I grimaced, and Minki seemed to understand, at least a little.
- 
+
 “It’s okay Quinn, I’ll tell them,” she promised, “But where are you going?”
- 
+
 “Best if I don’t explain for now,” I said softly, “But I’m going to need your help with something big when I get back.”
- 
+
 “Why me?” she whispered.
- 
+
 “I need someone I can trust,” I said simply.
- 
+
 Her big expressive grey eyes took on a sympathetic cast, “Oh, I’m so sorry Quinn.”
- 
+
 I sighed, “It’s alright.”
- 
+
 She sat up, her doll still clutched to her chest with one arm, and slipped the other arm around me in a quick hug.
- 
+
 “You’re staying with the club, right?” she asked hopefully.
- 
+
 “Yeah, I think so,” I nodded, “I guess we’ll see when I get back.”
- 
+
 “Good luck,” she said, “With whatever it is you’re going to do. Be safe.”
- 
+
 “I will,” I promised, “I’ll see you in a few days.”
- 
+
 -----
 
 The rain was coming down hard as I ducked out through the window, and onto the roof. I was wearing my Earth clothes again, along with a leather backpack and leather climbing harness. Once I stepped into the antimagic field I wouldn’t be able to access the contents of my belt pouches, so I’d packed everything I’d need for the next couple days into the backpack. I would have preferred my original hiking backpack from Earth, but it was long gone, and I’d need to make do.
- 
+
 Dangling from the harness were two long loops of silken rope, which I threw over my shoulder before hauling myself up to stand on the first windowsill. Yes, it was raining, and yes, there might have been the occasional lightning strike, but on a scale of 1 to 10 I was at ‘fuck it’, so I didn’t really care. The rain would help mask my ascent and besides, between the balcony at the top and the direction of the wind, the side I was climbing was actually sheltered from the rain.
- 
+
 *It probably won’t kill me.*
- 
+
 I gripped the window bars tightly, and with my feet I braced myself on either side of the recessed window. Taking it slowly, one hand at a time, I pulled myself further up the window, before shimmying up with my feet. It wasn’t too much climbing, and in only a minute I’d managed to work my way up to the top of the first window. Carefully, very carefully, I took one hand off the bars and reached up to grasp the narrow overhang at the top of the window. It was a little damp, but thankfully wasn’t so wet as to be too slippery to hold on to. Then, and this was the tricky part, I let go of the bars with the other hand. Very quickly I snapped that hand up to join the other on the ledge.
- 
+
 I was very conscious of the fact that I hadn’t yet tied off, mainly because it wouldn’t have done any good. Aside from the bars, I didn’t have anything to tie the ropes to, and tying off on the first floor window was a little futile, since the knot would just be dragged down to the bottom of the window. At least a fall from this height wouldn’t kill me.
- 
+
 *Probably just some light maiming.*
- 
+
 I hauled myself up in the world’s most awkward chin-up, and while I had to let my legs hang free, it let me grab hold of the next ledge, the one at the bottom of the next window. I kicked blindly with my legs, trying to get a toe hold on the previous ledge, and almost lost my grip before I could manage it. I did manage it though, and it left me in a rather awkward half crouch on the side of the tower.
- 
+
 *I hope no one can see me, because not only will I get expelled, but I also because I’m sure that I look like an idiot right now.*
- 
+
 I straightened carefully, keeping one hand on the ledge while I reached up with the other to take hold of the next set of window bars. Now I could finally apply some proper leverage without the worry of slipping off, and I was able to pull myself up far enough to stand on the windowsill of the second window. I looped one elbow through the bars, and undid the knot on one of the two ropes I’d tied to my climbing harness earlier. Then I slipped one end of the rope through the bars, and retied it. I did the same with the other rope, and just like that, I’d reduced the risk I was taking from death to a permanently crippling injury.
- 
+
 *Well, sort of permanent.*
- 
+
 I’d be able to heal myself, assuming I could descend the rest of the way safely and then crawl my way out of the antimagic field.
- 
+
 Just as with the first window, I managed to pull myself up with my hands while I braced myself with my feet, before finally reaching up to take hold of the ledge at the top of the window. I’m by no means a beefy guy, I’m actually pretty thin, but that was by no means a hindrance as I climbed that stupid tower. As light as I was, it wasn’t too much work to pull myself up to each successive ledge and I managed to get to the third window without falling or having a heart attack. Once there I looped my elbow through the bars again, and undid the knot on one of the two loops of rope. I pulled at it until it was free of the bars on the second floor window, and then looped it around the bars of the third floor before retying it. So secured, I did the same with the other loop before continuing my climb towards the top of the tower.
- 
+
 That was the worst part of the whole experience, getting from one window to the other. Once I had a good grip on the bars I was in good shape, I could stand there on the windowsill with an elbow looped through the bars and take a break, and once I needed to start climbing again the bars made it much easier. Sure, they were vertical rather than horizontal bars, but there’s still something reassuring about being able to get my hand all the way around the handhold, instead of dangling essentially by my fingers, as I needed to when trying to pull myself up onto the ledge at the top and bottom of each window.
- 
+
 Actually, that’s not true, getting from one window to the other was the *second* worst part of the whole experience. The *worst* part was getting up onto the balcony.
- 
+
 *This is going to suck.*
- 
+
 I peered up at the underside of the balcony, holding tightly to the window on the sixth floor. It had taken the better part of two hours to get as high as I had, but it was starting to look like the next fifteen minutes would be the most difficult. There was a solid looking support beam holding up the balcony, but I didn’t really want to put myself in the precarious position of trying to stretch backwards to grab on to it, while also trying to hold on to the ledge. If worst came to worst and I fell the rope would catch me, but the process of it catching me was going to be *very* unpleasant.
- 
+
 Rather than rush on blindly, I took a moment to think. I reached backwards awkwardly with one hand and slipped it into my backpack, I pulled out some of the pemmican I’d wrapped up earlier, and snacked on that while I pondered my problem.
- 
+
 No longer quite so hungry, I pulled a large knife from my pack, and then untied one of my two anchor ropes. I tied the end of the rope around the hilt of the knife, and then swung the knife up in an arc. It took a couple of tries to get it to go through the gap between the support beam and the balcony, and I beat the hell out of the knife, but I got it through eventually. Rather than faff about trying to climb up the wall, I just hauled myself up the rope until I could reach the beam. I got my arms around the beam, and swung my legs up, crossing my ankles on top of the beam. I was *extremely* conscious of just how high up I was, but I was also very close to my goal.
- 
+
 I shimmied as far as I could along the beam, before reaching up blindly with one hand to try to find something to hold on to so I could pull myself up. I didn’t have much luck. The guardrail that had originally ringed the balcony was long gone, and whatever remnants there were of the railing weren’t going to be of much use. And aside from that the rain, while it had masked my ascent, had soaked the balcony and made it slippery as hell. The balcony creaked loudly as I shifted around on the beam trying to find a handhold, and I froze. The balcony wasn’t quite as old as the Library itself, and they’d clearly had workers up here to replace or maintain the balcony at some point, but if the absence of the railing and general state of the balcony in general was any indication that hadn’t been for some time. The boards weren’t quite rotted through, but they were starting to get that soft and overly flexible feeling of wood that was *really* past its usable shelf life.
- 
+
 *Well, maybe I can work with that.*
- 
+
 I kicked experimentally at the bottom of one of the boards that formed the deck of the balcony, and it jumped up slightly. I kicked it again, harder this time, and it came free. It only took a couple more kicks to knock a couple more boards out, opening a hole large enough to squeeze through. I pulled myself up as gently as I could, conscious of the fact that the boards were obviously quite weak, and just like that, I was on top of the tower.
- 
+
 I flopped out on my back, exhausted from my climb, and glad that I was finally on something that resembled solid ground. I let the rain fall, spattering my glasses, and I just lay there for a couple minutes while I regained my breath.
- 
+
 *Fucking hell, let’s never do that ever again.*
- 
+
 I sat up and checked the state of the boards that I’d kicked free to make my opening. Thankfully they were still whole, all I’d done was kick the nails loose. I’d be able to put them back into place once I was sure that I’d be able to get through the balcony door and into the tower proper.
- 
+
 The first thing I tried was the chain holding the doors shut, and while there was some slack, enough to let me open the doors a couple of centimetres, the chain was made of the same super-bronze as the window bars. I wasn’t going to be able to file through it. The lock too wasn’t really an option, since it was on the inside of the doors and I couldn’t open them far enough to slip a hand through, otherwise I would have given picking the lock a shot. I’d experimented with locksport back on Earth and had never been very good at it, but then, medieval locks weren’t known for their complexity. I was pretty sure that if I’d been able to get my hands on it, I could have opened it.
- 
+
 *The windows then.*
- 
+
 If worst came to worst I could simply smash one of the windows, they were just regular glass after all, but that would leave evidence of my passing. The less evidence I left the less likely I was to be caught, and the longer I’d be able to spend in the tower before I was forced to return to the clubhouse.
- 
+
 The frames, like the chain and like all the other metal in this tower, seemed to be super-bronze. *Orichalcum I think?* Orichalcum was stronger than steel, but it wasn’t perfect, because as far as I could tell it was still just as flexible as bronze. That wasn’t actually a terrible thing, not for weapons, and not for armour, but it did mean that I had a fair chance of… *perfect.*
- 
+
 With the file on my multitool I managed to pry one of the panes of glass out of its frame, and I had a moment of panic as the pane fell inwards. I just barely managed to snake a hand inside to catch it before it hit the tile floor inside, and I let out a relieved breath as I let it down gently.
- 
+
 I untied my two anchor ropes and pulled them up before stowing them in my pack and setting the boards back into their places. I had to stomp them back down to push the nails back through, but the balcony looked no worse for wear once I was done with it.
- 
+
 I pushed my pack through the hole the missing pane had made, and then hunched my shoulders and wiggled through after it. Replacing the pane wasn’t much trouble, and then there I was, in the Forbidden Tower, with no one the wiser.
- 
+
 *I really hope it’s all sorted properly.*
- 
+
 It wasn’t.
 
 
 
-# Oh this has not gone well - 63
+# Chapter 63
 
-I’ve got a Patreon now, 
- 
-**New posting schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
- 
-I’ve also got a discord, you can get to it via . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
- 
------
- 
 **Quinn**
- 
+
 -----
- 
+
 The top floor of the Forbidden Tower looked more or less like the top floor of all the other towers I’d explored. No interior walls, a few pillars helping to support the conical roof, and a whole lot of dust. Once, several hundred years ago at this point, it had been the quarters for one of the University’s senior professors. Now it was cold and empty, the room having been stripped right down to the floorboards.
- 
+
 I crept to the staircase in the centre of the room, and peered down into the darkness of the lower levels. It wasn’t quite pitch black, some light from the city filtered through the large windows, but it was awfully close. I patted the side of my pack, checking to see that my Maglite was still there, before descending cautiously. I wasn’t quite sure how often they maintained this part of the Library, since it was blocked off most of the time, and I didn’t really want to fall through a weakened spot in the stairs.
- 
+
 The old spiral stairs let out a series of deafening creaks as I made my way down to the next level, but at least I didn’t fall through or break anything. It was a little creepy, being in the Library in the middle of the night. The shelves were placed very close together, and for all my looking I couldn’t find a whole lot of empty places. What this meant was that it was a little creepy and claustrophobic once I was down here among the shelves, and that whatever light had been coming through the windows was blocked out by several wall-like bookcases.
- 
+
 *Sorting through this all is going to take ages.*
- 
+
 I checked my watch, and the faintly glowing hands showed me that it was 3:35am. It was damn early, but not so early that I couldn’t afford to get started now. In theory, I had three days. Fextday, which was today, Satyrday, and Feastday. I’d probably want to leave earlier in the evening on Feastday, but that lost time was more than made up for by my early arrival today. The reality though was a bit different. My phone’s battery would only last so long, and once it died I wasn’t going to be able to copy any more of the books. I’d charged it fully and then shut it off right before stepping out onto the roof, and when it came back on it would be in power saving mode, but it would run dry eventually. The Maglite was also battery powered, and would also run out eventually, but I wasn’t really worried about it. It had been running on the same three D cells since I’d first landed in Elardia, and wasn’t about to run out of power any time soon.
- 
+
 *Five floors, forty eight waking hours… Call it fifty, which gives me ten hours per floor.*
- 
+
 I didn’t get to it right away though, I wanted to get a good look at this place first. I needed to find a comfortable place to sleep for the two nights I’d spend here, and I wanted to make sure that there were no surprises waiting for me on the lower levels. I was also holding out hope that at least some of this mess would be organized, though the more I walked between the stacks, the more I was sure that I was out of luck.
- 
+
 *There is no way that ten hours per floor is going to be enough, even if all I do is read titles. If ten hours per floor was enough, then the stupid Library would have been indexed properly by now.*
- 
+
 The towers weren’t too big, but they were big enough, and the bookshelves were placed very tightly together. The bookshelves themselves were huge, and even I’d need a ladder to get at the top couple of shelves. Combine that with the fact that most of the bookshelves had books shelved two layers deep, and I was going to have a hell of a time finding what I’d need.
- 
+
 I’d originally envisioned the plan in three stages. The first stage was just to find the original copy of the stasis spell used by the Ariros guild nearly a thousand years ago, and then to scan the thing with my phone. The second stage was to track down the *other* spell I’d need for my plan to work, and scan that as well. With those two stages done I’d intended to spend the rest of my time, and the rest of the phone’s battery, scanning whatever texts seemed particularly interesting. It was starting to look as if stage one might take up all my time though.
- 
+
 *I don’t even know what the stupid book is called.*
- 
+
 I pulled my Maglite free of my backpack as I descended to the next floor, along with a scrap of red silk that I’d brought along for just this purpose. The red silk went over the front of the flashlight, and I tied it in place with a bit of cord. I’d still want to use it sparing, but at least this way I’d have some light to read by. I could also use the phone, but I didn’t want to turn that on until absolutely necessary.
- 
+
 On the third floor from the top I found the solution to a *huge* problem that I hadn’t yet realized would even be a problem in the first place. The solution in this case, was a bathroom.
- 
+
 *Oh. Yeah, kinda glad this is here.*
- 
+
 I flicked on the flashlight as I pushed open the door, and scanned it around briefly before checking all the fixtures. Thankfully everything worked the way I expected it to, and while it was a little dusty in here, it was also clean.
- 
+
 Beyond the shelves and shelves of forbidden knowledge, there wasn’t really anything else of interest to be found on the other levels of the tower, and my exploration came to an end at the top of the stairs that lead down to the unrestricted section of the tower. There was a massive hatch that looked like it might have come off of the world’s largest submarine, and it covered the whole of the staircase down. It was bronze rather than steel, or at least it looked like bronze, I was pretty sure that it was the same orichalcum as the bars on the exterior windows.
- 
+
 *Well no one is opening that silently.*
- 
+
 At least I’d have some warning if someone else came poking around in here. This part of the tower also seemed to be frequented a little more often, and while most of the shelves still had quite a bit of dust on them the furniture did not. Chairs had been moved, belongings had been set down on some of the tables, and people had spent time working at some of the desks.
- 
+
 *Best to start down here then. I don’t want to get done with the top four floors, only to find that someone’s set up shop down here and isn’t going to leave for hours.*
- 
+
 It didn’t take me long to come up with a new strategy for searching the mess of books, though I had some doubts as to its effectiveness. I pulled out several books as I picked through the shelves and piled them on one of the tables. If it seemed time magic related, it went on the table. If it related to necromancy, it went on the table. Interesting subject? It went on the table. Of course I’d thought that third criteria would quickly lead to every book in the Library ending up on that table, but the most of the books I trawled through were surprisingly boring, or were duplicates of existing works. There were two whole shelves dedicated entirely to storing a couple hundred copies of a spell that was designed specifically for long term torture of a captive.
- 
+
 *Boring, but at least it cuts down on what I need to search.*
- 
+
 There were books on convoluted and painful ways to kill people that made Acid Jet look positively tame. There were spells to tear free internal organs, to cause virulent diseases, and to make someone rot from the inside. And every one of them was *boring,* the last thing I needed was new ways to kill people. I could come up with plenty of awful ideas on my own. There were spells for demon and spirit summoning, and while they were much less boring, using them seemed like a really terrible idea, so they stayed right where they were.
- 
+
 There was a permanent version of the memory suppression spell that Nothus used on Minki, and I decided that it was interesting enough to keep. It could end up saving my ass in the right situation, and it could hopefully be used to heal psychological trauma in much the way that Nothus had done for Minki.
- 
+
 I didn’t find any other necromantic spells beyond the ones on spirit summoning, but I did find a spell called ‘Slow Time’. It wasn’t quite the stasis spell I needed, and only slowed time to a tenth or so of its regular speed when fully powered, but it might prove useful.
- 
+
 *Food preservation, extending the time I’ve got to resuscitate someone, or if I really need to I can try to use it as a reference to rebuild the version that the Ariros guild used.*
- 
+
 The time just flew past, and I barely noticed when the sun had come up. Even by noon, with the light of the sun streaming through the windows it was still rather murky inside the tower itself. The shelves served to screen the light, and if I hadn’t had my watch with me I might not have even been able to keep track of what time of day it was. I’d been staying away from the windows so it wasn’t as if I’d be able to go take a look at the sun’s position, and the level of murk further within the tower didn’t vary much between noon and morning. I was nearing my ten hour time limit though, and it was about time I had something to eat anyway.
- 
+
 I’d skipped breakfast in the interest of further research, and judging from the noises coming from my belly I was mere minutes from starvation. I pulled out my phone as I ate, turning it on and checking that it was indeed in power saving mode. Between that and lowering the screen resolution to 720p I’d apparently have twenty four hours of battery life. I expected that to drop once I started scanning books and the phone was working through the characters, but even half that would be more than enough to cover my needs.
- 
+
 I read a little from each of the books as the phone crunched through the character recognition, trying to get an idea of just what information I was making off with. There were some interesting details about how Slow Time worked for example, but I quickly realized that each of these spells were pretty far beyond what I was currently able to do. To be able to cast Permanent Forgetfulness for example, I’d need to know over a dozen other spells just to form the foundational understandings of this one, and I’d need to know them well.
- 
+
 *Might take a while to learn the stasis spell then, damn.*
- 
+
 At least the spells weren’t going anywhere. With the enchantments I’d placed on the phone it was damn near indestructible, and I’d be able to keep it charged indefinitely with magic. I could afford to be patient, and it was not as if these books were going to take up much memory on the phone.
- 
+
 I tried to put the books back roughly where I’d originally found them, but didn’t pay that much attention to proper placement. This place was disorganized enough that no one was going to notice that the abject chaos they walked in on was slightly different from the abject chaos they’d left weeks or months ago when they’d been here last. I got the last of the books put away around two o’clock, and headed up the stairs to start on the next chaotic mess that these people called a library.
- 
+
 -----
- 
+
 It wasn’t until the following day, after I’d spent a night hanging between two sturdy looking bookshelves in my hammock, that I started to come across some of what I’d been looking for. I was still on the second floor, having split the ten hour allotment between two days, when I found some proper Necromancy spells. There were a dozen or so books, all of which were bound in black leather, that judging from the writing style had all been authored by the same Mage. The author hadn’t signed their name, but the titles spoke for themselves. There were several volumes labeled ‘The Creation, Control, & Destruction of Undead’, along with ‘The Qualities of Bloodstone’ and ‘The Construction of Phylacteries for Personal & Extrapersonal Use’. A phylactery wasn’t quite what I needed to lift the curse, but it was getting awfully close. Between that and the words “Destruction of Undead” I added the whole set to my pile.
- 
+
 I stopped for breakfast just as the sun was coming up, and took advantage of the better light to scan in the books I’d found. There wasn’t a whole lot more of interest to me beyond the Necromancy collection I’d found early that morning, though there was a great deal more of the spirit summoning nonsense which I gave a wide berth.
- 
+
 That was the trouble with the collection in the Forbidden Tower, there are only so many rules to break, even if there were an infinite number of ways to break those few rules. It meant that if all you could spare for each book was a passing glance, then you would understandably come to the conclusion that much of what was found here were variations on only a couple of themes. I knew that I’d discover much more if I was given the chance to sit down with a single book, but I didn’t have the time to sit down and ponder all of the consequences of any given spell.
- 
+
 *Explains why the tower is so full though. Without any public reference material on something like mind control, every Mage that’s wanted to try it has had to discover how to do it on their own. And then when they’re found out, the spell gets put on the pile with the other hundred nearly identical ones.*
- 
+
 -----
- 
+
 By the time I started exploring the third floor I began to realize that there was at least some mild organization going on. The first floor had been various miscellanea that didn’t really fit on any other floor, along with books that had been taken from upper levels and then shelved back on the first due to laziness. The second was mostly necromancy and spirit summoning, and the third… the third level was the mind control magic.
- 
+
 I almost skipped it, almost.
- 
+
 I still felt sick when I thought of what Victorina had done, and that had been accomplished with spells that were more or less acceptable to use. And the contents of this floor though were light years beyond any of that, for fucks sake, one of the books I found was titled ‘The Construction of a Personal Harem Through The Use of Mind Control Magic’. I felt a building rage at the thought of anyone using such magic against myself or my friends, and the thought of even touching such a product of a twisted mind was revolting. Learning it, taking that knowledge within myself… There was a small part of my mind that disagreed though, and while it was small, it spoke the loudest, and it said “Be prepared.”
- 
+
 The mind control spells, especially the ones that allowed for fucking body snatching, were revolting, but I needed to be able to defend myself against them. To reverse the body snatching spells I needed to know them, and to dispel the others would be nearly impossible without the same knowledge.
- 
+
 So they went on the pile.
- 
+
 It was a sort of triage, picking not just the spells I needed to be able to defend against, but also the specific version of the spell to learn. I erred on the side of better writing, assuming that any text that looked like the ravings of a madman was probably not worth the trouble.
- 
+
 *And it’ll fuck with the OCR.*
- 
+
 There was one spell though that looked useful, and not just as a reference for counter-magic, but also in the enforcement of law. The spell, spells actually since there were two, were Lesser and Greater Geas. The spells were essentially a command to the subject, that they had to follow, though their will was not subsumed and they’d be able to decide how the command was carried out. The main difference between the two spells was in how achievable the given command had to be. From the testing done by the author, Lesser Geas would generally fail if the command was too unreasonable, though tasks taking as much as a decade were apparently within the realm of possibility. Greater Geas on the other hand could be damn well anything, and could be worded in such a way as to consume the subject’s entire life.
- 
+
 Did I want to create some Orwellian state where everyone was commanded to be a ‘Model Citizen’? Hell no. But it made quite the punishment. If I did succeed, and did lift the curse, I was going to need to spend some time thinking about what to do with the criminals within my territory. Long prison terms or rehabilitation centres as they were used on Earth in the western world weren’t really possible on Elardia. The resources to imprison someone for decades, let alone an entire elf life, just didn’t exist. Rehabilitation was similarly impossible, mostly since I wasn’t going to be able to advance the state of psychology by dozens of centuries in anything other than a *very* long time. Or at least rehabilitation as *I* knew it, or as the swedes did it, was impossible. Magic provided some interesting alternatives though. Rather than hang or maim serious criminals, as was the custom in most cases in Elardia, I could use one of the two Geas spells.
- 
+
 *I’m not terribly fond of the death penalty, and this might be the solution. Murder or rape? Well guess what, you’re spending the rest of your days as a pacifist who’s dedicated their life to helping the sick and the needy. Greater Geas where other rulers might hang, Lesser Geas where they might maim.*
- 
+
 -----
- 
+
 I had *just* put the last of the mind control texts away, and was considering whether to turn in early, when I heard the four most terrifying words in the English language.
- 
+
 “There you are Quinn!”
 
 
 
-# Oh this has not gone well - 64
+# Chapter 64
 
-
-I’ve got a Patreon now, 
- 
-**New posting schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
- 
-I’ve also got a discord, you can get to it via . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
- 
------
- 
 **Quinn**
- 
+
 -----
- 
+
 *For the love of…*
- 
+
 I turned to face the man who had greeted my so cheerily, to find…
- 
+
 “Baron Bronippo,” I said levelly.
- 
+
 There he was, standing there in his orange robes, and smiling slightly. He didn’t quite have me backed into a corner, but he was between me and the stairs, blocking one end of the narrow corridor between two large bookshelves. He couldn’t have been much past five feet tall, and if he’d been a human I’d be confident in my ability to overpower him, if it came to that. With an elf’s greater strength though, I was much less certain.
- 
+
 *Play it cool, you belong here, you have permission to be here. Any suggestion otherwise would be preposterous and insulting.*
- 
+
 “Quinn,” he nodded, “Enjoy your climb?”
- 
+
 *Ah shit.*
- 
+
 “Here to blackmail me?” I asked. I wasn’t usually one to skip the foreplay, it was often the most enjoyable part of the exchange, but I needed to resolve this as quickly as possible.
- 
+
 “Quinn,” he said in a hurt tone, one hand to his chest, “Please, I’d never do such a thing, we’re friends.”
- 
+
 *Friends. Right.*
- 
+
 I gave him a wry look, “Just came by to say hello then?”
- 
+
 “To offer our assistance,” he corrected, “It can’t be easy going it alone.”
- 
+
 “Our?” I asked, craning my ears to listen for anyone else that might be creeping around.
- 
+
 *But you didn’t hear that big stupid door now did you Quinn?*
- 
+
 “You know who my liege is, I’m here to offer help on his behalf.”
- 
+
 “Help with what exactly? Finding the right book?” I asked, gesturing at the mess we were standing in, “I don’t think I need Diova’s help for that. Pretty sure I’ve got it covered.”
- 
+
 “No,” he said, “The other thing.”
- 
+
 *Other… Oh.*
- 
+
 “Fuck,” I swore, “The clubhouse is bugged, isn’t it?”
- 
+
 “Bugged?” he asked, “I assume that’s some sort of reference to surveillance? Well, yes, that is the case.”
- 
+
 “Well. I suppose it’s a good thing I’ve kept most of the details to myself then.”
- 
+
 “Especially considering your recent falling out with Victorina,” he agreed.
- 
+
 I was not particularly fond of the idea of Diova or his flunkies watching Victorina and I in bed, and there was a brief moment where I considered lunging at him, grabbing him by the scruff of the neck, before slamming him into one of the bookshelves. I managed to keep myself under control though. He might not yet know that elves are so much stronger than humans. It was possible that as far as he knew, he was facing down someone a great deal bigger than him, in a situation where no amount of magic was going to help.
- 
+
 *Besides, no proper imperial goes about smacking people around, they get someone else to do it for them.*
- 
+
 “I would suggest being a great deal more respectful,” I said, anger creeping into my voice.
- 
+
 Unfortunately he didn’t cower in fright, but I did see him straighten his back and square his shoulders a little. Only a little though, whatever he was feeling, he wasn’t about to show it.
- 
+
 “Perhaps I might be able to make amends for my comments,” he said graciously, “We could of course provide some assistance in your attempt to contend with the wraith.”
- 
+
 “And just what form would this assistance take?”
- 
+
 “Manpower,” he explained, “Even if some of your clubmates wanted to help you, and weren’t held back from doing so by Victorina, I can’t see whatever assistance they can render as being sufficient to the task. You will need *someone’s* help.”
- 
+
 “And I should accept yours? Hell, why are you even up here Bronippo?” I asked, omitting his title, “How did you even get in here?”
- 
+
 “Would you believe I asked nicely?” he asked.
- 
+
 My only reply was a raised eyebrow.
- 
+
 “Very nicely,” he clarified, “And you know why I’m here Quinn.”
- 
+
 “Scrying magic,” I sighed, “And this tower is one of the only places that is certain to be secure.”
- 
+
 He nodded, “We were working on an alternative, but once we saw you leave, and it was reported that you were climbing the tower…” he trailed off, one hand lifted.
- 
+
 “Fine. Thanks for talking to me Baron, the answer is no.”
- 
+
 “Oh?”
- 
+
 “I don’t require your assistance to lift the curse,” *And I’m not letting you get your hooks into me.*
- 
+
 “Ah, but that’s not all we have to give,” he said.
- 
+
 “Give?”
- 
+
 “Well, offer.”
- 
+
 “What else then?” I asked.
- 
+
 “You’re a smart man Quinn-” he started.
- 
+
 “I know.”
- 
+
 “Well then you also know that the moment the guild is claimed, the hourglass begins to empty. King Nezzabi will not allow Azarburg to slip from his fingers. You’ll find yourself in conflict with Duke Leucia, and all the support that the King can provide him without agitating the rest of the University.”
- 
+
 “So that’s what this is?” I asked, “You want to see Nezzabi get kicked in the teeth?”
- 
+
 He spread his hands, “That is putting it rather crudely, but it is the truth. The city cannot stand on its own, and you’ll need the resources to build whatever manner of Outsider weaponry you introduce to tip the balance. You must know that your uncle, and his *matchlocks,* will be foremost among the assistance that Nezzabi will provide.”
- 
+
 *Fuck, I was testing the rifle in the back garden, they’ve probably seen it. In how much detail though…*
- 
+
 “So, what,” I asked, “Your gift, Diova’s gift, whoever’s gift to me is going to be a big pile of bronze ingots? Maybe some lumber?”
- 
+
 “If that is what you require,” he said, “You must understand, it is not as if we could send actual soldiers to assist in the defence.”
- 
+
 “Yeah yeah, foreign power and all that,” I said dismissively, “I’m afraid that the answer is still no though.”
- 
+
 “Really?”
- 
+
 “Really.”
- 
+
 He shrugged, “That is unfortunate,” he mused, and I tensed to rush him if the next sentence he spoke contained the threat of blackmail, “Take this though, in case you change your mind, or come up with something else that you might require,” he said, holding out a silver ring in his outstretched palm.
- 
+
 “What is that?” I asked, looking down at the ring, but not reaching out for it.
- 
+
 “A Ring of Communication,” he explained, “You’d be able to contact us whenever the fancy took you. It is of course too risky to speak openly of this to Diova, but through this you might be able to make contact without being observed, and at significant distance.”
- 
+
 *A magic cellphone… To hell with all this other nonsense,* ***I*** *want a magic cellphone.*
- 
+
 “No.”
- 
+
 “No?” he asked, a little surprised this time.
- 
+
 “No. You want me to owe your boss a favour? You want me to give Nezzabi a hard time?” I asked, “Give me the enchantment for that ring, then we’ve got a deal.”
- 
+
 He raised an eyebrow, before reaching into his robes, “By all means,” he said, drawing out a rather slim tome.
- 
+
 *Ah fuck.*
- 
+
 “Is there a problem?” he asked, holding out the book to me.
- 
+
 I took it, flipping through the first few pages, “And you just… carry this book around all the time?”
- 
+
 “Good night Quinn,” he said, holding up the ring again in offer.
- 
+
 I shook my head, still examining the book, “Good night Baron.”
- 
+
 ----
- 
+
 I sat down to read the book, just as Bronippo was leaving, but hopped up again as soon as he was down the stairs and out of sight. Then I dashed to the edge of the stairs and peered over the side. He’d probably spot me following him with those oversized eyes, but that didn’t mean that he was going to *hear* me. I followed him down, staying a floor back, keeping the stairs between us and making sure that I only stepped on the very outside edge of each step. In a building this old it would be hard to mask the creeks, but keeping away from the centre of each step where they were least supported would help, and hopefully elven hearing was such that he wouldn’t notice what sound was made.
- 
+
 I pressed myself flat to the carpet on the floor above the big loud door that wasn’t loud at all, and listened.
- 
+
 “So?” Came a low voice, though not one I could recognize, “Did he go for it?”
- 
+
 There was a pause, *Bronippo shaking his head?* “He took the book, but not the ring, and wasn’t at all interested in the men or the supplies.”
- 
+
 “Damn,” came the quiet reply “Well he took something at least.”
- 
+
 I *did* hear the door open, but it was not the squealing and screeching that I’d expected, and a moment later it thumped closed.
- 
+
 *Of course they fucking oil it Quinn, it’s a damned library. Maybe don’t get so complacent next time.*
- 
+
 ----
 
- 
 
 
 
-# Oh this has not gone well - 65
 
-
-
-I’ve got a Patreon now, 
-
-
-**New posting schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
-
-
-I’ve also got a discord, you can get to it via . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
-
-Short one again, but I had two computers die on me on the same day, so I’m just glad that I managed to get anything written.
-
-
------
-
+# Chapter 65
 
 **Minki**
 
@@ -15534,21 +15029,7 @@ The last words I heard before passing out again were, “Quinn, I am stunned tha
 
 
 
-# Oh this has not gone well - 66
-
-
-
-I’ve got a Patreon now, 
-
-
-**New posting schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
-
-
-I’ve also got a discord, you can get to it via . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
-
-
----
-
+# Chapter 66
 
 **Quinn**
 
@@ -15892,20 +15373,7 @@ She sighed, “What?”
 
 
 
-# Oh this has not gone well - 67
-
-
-**A Patreon:** 
-
-**A Schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
-
-**A Discord:** . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
-
-**A Poll:** 
-
-**A Map:** 
-
----
+# Chapter 67
 
 **Halea**
 
@@ -15935,7 +15403,7 @@ Minki shrugged, “Ever since Quinn and Nothus... did what they did for me, I’
 
 “That’s great news Minki,” Neferoy said, “I suppose the events leading up to the new you might not have been terribly pleasant, but I don’t think I’m the only one who’s noticed how much more comfortable you seem with yourself now.”
 
-It was more than just being more comfortable in her own body, Minki *looked* different now. The changes were quite subtle, but they were noticeable to anyone who had more than a passing acquaintance with her. 
+It was more than just being more comfortable in her own body, Minki *looked* different now. The changes were quite subtle, but they were noticeable to anyone who had more than a passing acquaintance with her.
 
 It called to mind the difference between what a person actually looked like, and how you might remember them. Little details tend to get amplified, especially if you’ve not seen the person in question for some time. Someone tall might be a little taller when seen only in your mind’s eye, or the colour of their hair or eyes a little more vivid. You remember not the person, but a caricature of the person, built by your memories.
 
@@ -15965,11 +15433,11 @@ I pushed open the doors and stepped out onto the balcony, and took a look around
 
 ---
 
-Quinn’s things were still lying on the patio table he’d appropriated for his work, and while it looked as if he’d just stepped away, I couldn’t find him anywhere nearby. 
+Quinn’s things were still lying on the patio table he’d appropriated for his work, and while it looked as if he’d just stepped away, I couldn’t find him anywhere nearby.
 
 *I really hope he didn’t vaporize himself. I’d have a hard time explaining that to Victorina.*
 
-I sat down at the table, and had a little poke around. His ‘rifle’ seemed mostly to be a brass tube, with some wood furnishings that reminded me of the stock of a crossbow. There was a large opening where one of the large boxy ‘magazines’ might fit, though Quinn hadn’t left any of the boxy creations in his weapon. There were several strewn across the top of the table though, all in varying states of completion. 
+I sat down at the table, and had a little poke around. His ‘rifle’ seemed mostly to be a brass tube, with some wood furnishings that reminded me of the stock of a crossbow. There was a large opening where one of the large boxy ‘magazines’ might fit, though Quinn hadn’t left any of the boxy creations in his weapon. There were several strewn across the top of the table though, all in varying states of completion.
 
 *A little underwhelming if you ask me. I would have expected something more complicated than a brass tube with a bit of wood nailed to it, and a box with a spring inside.*
 
@@ -16167,7 +15635,7 @@ I leaned my chair back on two legs and let out a long breath. *Just what is it t
 
 “Well,” I grinned, still staring up at the ceiling, “I think I can find some way to keep you entertained until the enchantment wears off. Maybe you’d like me to stuff you back down my robes?” I asked, “Or, mmm, yes. I can think of a few interesting places that you’d fit.”
 
-I looked back down at the table, to see Quinn already on his feet and sprinting for the far edge. 
+I looked back down at the table, to see Quinn already on his feet and sprinting for the far edge.
 
 He narrowly avoided a swipe of one massive hand as he leapt from the table, and by the time I’d gotten out of the chair and around to the other side of the desk he was already on the floor and running for the bed.
 
@@ -16214,26 +15682,7 @@ We were both quiet for a moment, and then I lay back and let out a sigh, “Not 
 “Not tonight,” he agreed.
 
 
-# Oh this has not gone well - 68
-
-
-
-**A Patreon:** 
-
-**A Schedule:** I post on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
-
-**A Discord:** . If you’re a patron, there’s also a patron only chat accessible to any patrons that have linked their Patreon and Discord accounts.
-
-**(The results of) A Poll:** Thingyverse.
-
-**A Map:** 
-
-
-**A Minki:** 
-
-
----
-
+# Chapter 68
 
 **Quinn**
 
@@ -16357,24 +15806,7 @@ She followed me down as the chair toppled backwards, wrapping her legs around my
 
 
 
-# Oh this has not gone well - 69
-
-
-
-**A Patreon:** 
-
-**A Schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
-
-**A Discord:** . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
-
-**A Map:** 
-
-
-**A Minki:** 
-
-
----
-
+# Chapter 69
 
 **Quinn**
 
@@ -16606,24 +16038,7 @@ I spared a glance for Victorina as Halea pulled me away. The two of us were well
 
 
 
-# Oh this has not gone well - 70
-
-
-
-**A Patreon:** 
-
-**A Schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
-
-**A Discord:** . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
-
-**A Map:** 
-
-
-**A Minki:** 
-
-
----
-
+# Chapter 70
 
 **Quinn**
 
@@ -16945,25 +16360,7 @@ She helped me up, and steadied me when I risked teetering right over, “Whoa th
 
 ---
 
-# Oh this has not gone well - 71
-
-
-
-**A Patreon:** 
-
-**A Schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
-
-**A Discord:** . If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
-
-**A Map:** 
-
-
-**A Minki:** 
-
-Quite a bit shorter than I would like, but I just started a new (and pretty amazing) job. Tuesday and Thursday updates will probably not be much longer than this going forwards, but I intend to try to make up for at least some of it with the Saturday updates which should come with quite a bit more content.
-
----
-
+# Chapter 71
 
 **Quinn**
 
@@ -17089,24 +16486,7 @@ I saw, out of the corner of my eye, as she turned her face away from me, “Beca
 
 
 
-# Oh this has not gone well - 72
-
-
-
-**A Patreon:** 
-
-**A Schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
-
-**A Discord:** . This is the best way to talk to me, ask about writing in my universe, or learn of delays. If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
-
-**A Map:** 
-
-**A Quinn:** 
-
-**A Minki:** 
-
----
-
+# Chapter 72
 
 **Quinn**
 
@@ -17382,32 +16762,7 @@ She shrugged, “Yeah?”
 
 
 
-# Oh this has not gone well - 73
- | Next
-
-
-**A Patreon:** 
-
-
-**A Schedule:** Going forwards I’ll be posting on Tuesday, Thursday, and Saturday nights, though depending on your time zone, that might work out to being the following morning.
-
-
-**A Discord:** . This is the best way to talk to me, ask about writing in my universe, or learn of delays. If you’re a patron, there’s also a patron only chat. The bot should automatically add any Patrons to the proper roles.
-
-
-**A Map:** 
-
-
-**A Quinn:** 
-
-
-**A Minki:** 
-
-**A Policy on Writing in my Universe:** Go right ahead, though I do suggest getting on the Discord. It’s the easiest way to contact me, and I’ve posted some other notes and policy stuff there.
-
-
----
-
+# Chapter 73
 
 **Quinn**
 
@@ -17751,7 +17106,3 @@ I turned away from Halea’s admittedly beautiful face to look at one of my armc
 
 
 ---
-
-
-
-
